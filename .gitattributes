@@ -1,0 +1,5 @@
+# Keep data files byte-for-byte identical on every computer, so the MD5 fingerprints match
+*.csv -text
+*.joblib binary
+*.docx binary
+*.pdf binary
