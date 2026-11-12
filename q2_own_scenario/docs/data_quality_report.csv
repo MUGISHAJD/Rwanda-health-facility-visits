@@ -1,0 +1,19 @@
+Problem,Columns affected,Records affected,Severity,Proposed treatment
+Target is empty,waiting_time_min,168,High,Remove the records (a record without a target cannot be used)
+Leakage: known only after the outcome,"consultation_duration_min, attended",1200,High,Drop both columns
+Empty cells in feature columns,"facility_type, visit_date, patient_age_years, insurance_type, service_department, appointment_type, distance_to_facility_km, estimated_travel_time_min, referral, previous_visits_12m",193,Medium,Impute after the split with values learned from the training set (facility_type is rebuilt from the code prefix)
+Disguised value: the word 'None',insurance_type,137,Medium,Keep as the category 'None' = no insurance (assumption)
+Full duplicate rows / repeated visit_id,all / visit_id,5,Medium,"Keep the first copy, remove the rest"
+Same values under a different visit_id,all,0,-,Checked: none found
+Mixed upper/lower case,"sex, referral, attended",212,Medium,Write in one form (Title case)
+Extra spaces at the end of text,"district, facility_code, insurance_type",30,Medium,Remove the spaces
+Wrong data type,visit_date (text),1200,Low,Convert to a date
+Inconsistent date formats or units,"visit_date, numerical columns",0,-,Checked: none found
+day_of_week different from visit_date,"day_of_week, visit_date",0,-,Checked: none found
+Values outside the allowed range,"patient_age_years, arrival_hour, distance_to_facility_km, estimated_travel_time_min, previous_visits_12m, waiting_time_min, consultation_duration_min",0,-,Checked: none found
+Sentinel numbers or impossible zeros,numerical columns,0,-,Checked: none found
+Illogical: Child Health patient aged 18+,"service_department, patient_age_years",105,Medium,Keep and report as a limitation (cannot tell which column is wrong)
+Illogical: male patient in Maternal Health,"service_department, sex",77,Medium,Keep and report as a limitation (cannot tell which column is wrong)
+Facility code used in several districts,facility_code,8,Low,Drop the column (identifier-like)
+Outliers by the IQR rule (all are possible values),"distance, travel time, previous visits, consultation, waiting time, arrival hour, age",88,Low,Keep; reduce the tails of skewed columns by transformation in Stage 5
+"Source stated as NISR but not verified; link, licence and column meanings not documented",whole file,1200,High,"Record in the Source Log; the group must add the link, date accessed and licence"

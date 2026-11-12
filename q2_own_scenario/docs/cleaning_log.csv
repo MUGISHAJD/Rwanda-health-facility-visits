@@ -1,0 +1,12 @@
+Step,Operation,Columns,Action,Reason,Records affected,Before,After
+1,Tidy text labels,"all text columns; sex, referral, attended","Removed spaces around values; wrote sex, referral and attended in Title case",The same value was written in several ways,227,"district 29 values, sex 6, insurance_type 7","district 22 values, sex 2, insurance_type 4"
+2,Remove duplicates,all,Kept the first copy of each fully duplicated row and removed the others,A visit must be counted once,5,"1200 rows, 5 repeated visit_id","1195 rows, 0 repeated visit_id"
+3,Correct types,visit_date,Converted text to a date (YYYY-MM-DD),Needed to take the month from the date,1187,"type object, 8 empty","type datetime64[ns], 8 empty"
+4,Correct formats and units,all numerical columns,No change,"Checked in Stage 3: one date format, no mixed units, ages are whole numbers",0,none found,no change
+5,Rebuild facility_type,facility_type (from facility_code),Filled empty facility_type from the code prefix HC/DH/RH,"The prefix agrees with facility_type in every record where both are present (Stage 3), so this is a lookup and not a guess",10,10 empty,0 empty
+6,Impossible values to missing,"patient_age_years, arrival_hour, distance_to_facility_km, estimated_travel_time_min, previous_visits_12m, waiting_time_min, consultation_duration_min",Values outside the allowed range are set to empty,An impossible value is an error and must not be used,0,none found,no change
+7,Illogical department records,"service_department, patient_age_years, sex",No change (kept),"Adults in Child Health and men in Maternal Health: we cannot tell which column is wrong, so changing them would invent data",0,reported in Stage 3,kept; listed as a limitation
+8,Outlier decision,all numerical columns,"Kept all values (no removal, no capping)",All flagged values are possible; skewed columns are transformed in Stage 5,0,88 values above the IQR limits,unchanged
+9,Drop leakage columns,"consultation_duration_min, attended",Dropped,Known only after the wait has ended (Stage 3.8),1195,20 columns,18 columns
+10,Drop identifier columns,"visit_id, facility_code",facility_code dropped; visit_id moved to the row label,"Identifiers describe the record, not the visit, and must not be used as features",1195,18 columns,16 columns + row label
+11,Remove records with no target,waiting_time_min,Removed records with an empty waiting time,A record without a target cannot be used to train or test a model,168,"1195 rows, 168 without target","1027 rows, 0 without target"

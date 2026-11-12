@@ -1,0 +1,1028 @@
+visit_id,province,district,facility_type,visit_date,patient_age_years,sex,insurance_type,service_department,appointment_type,arrival_hour,day_of_week,distance_to_facility_km,estimated_travel_time_min,referral,previous_visits_12m,waiting_time_min
+RW-HLTH-00591,Northern,Musanze,District Hospital,2025-02-11,54.0,Female,RSSB,NCD Clinic,Walk-in,13.0,Tuesday,11.7,37.0,Yes,3.0,47.0
+RW-HLTH-01167,Western,Nyabihu,Health Centre,2025-01-17,29.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,11.0,Friday,2.8,12.0,No,1.0,20.0
+RW-HLTH-01173,Western,Karongi,Health Centre,2024-02-13,58.0,Male,Mutuelle de Santé,Emergency,Follow-up,11.0,Tuesday,4.8,29.0,No,0.0,15.0
+RW-HLTH-00551,Western,Nyabihu,Health Centre,2025-09-29,52.0,Male,Private,Child Health,Follow-up,7.0,Monday,19.4,73.0,No,1.0,23.0
+RW-HLTH-00067,Northern,Gicumbi,Health Centre,2025-06-08,41.0,Male,Mutuelle de Santé,Child Health,Follow-up,10.0,Sunday,0.3,5.0,No,2.0,12.0
+RW-HLTH-00094,Northern,Musanze,Health Centre,2024-09-07,14.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,10.0,Saturday,1.9,14.0,No,1.0,27.0
+RW-HLTH-00467,Southern,Muhanga,Health Centre,2025-12-21,34.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,9.0,Sunday,1.6,24.0,No,2.0,79.0
+RW-HLTH-00909,Western,Nyabihu,District Hospital,2025-11-24,20.0,Male,Private,Child Health,Scheduled,7.0,Monday,6.0,13.0,No,2.0,66.0
+RW-HLTH-00264,Western,Rusizi,District Hospital,2025-04-28,35.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,13.0,Monday,1.8,5.0,No,2.0,26.0
+RW-HLTH-00720,Northern,Musanze,Health Centre,2024-11-03,28.0,Male,RSSB,Eye Clinic,Walk-in,13.0,Sunday,14.3,68.0,No,3.0,64.0
+RW-HLTH-00881,Southern,Huye,Health Centre,2024-04-01,0.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Monday,0.5,5.0,No,0.0,31.0
+RW-HLTH-00053,Western,Karongi,Health Centre,2024-03-30,34.0,Male,RSSB,,Scheduled,7.0,Saturday,4.3,20.0,Yes,2.0,29.0
+RW-HLTH-00430,Northern,Burera,Health Centre,2024-06-22,30.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,12.0,Saturday,3.6,26.0,No,2.0,28.0
+RW-HLTH-00695,Southern,Muhanga,Health Centre,2024-07-14,0.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,11.0,Sunday,5.8,16.0,No,1.0,31.0
+RW-HLTH-00558,Kigali City,Nyarugenge,Health Centre,2025-08-04,0.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,11.0,Monday,8.2,24.0,No,2.0,41.0
+RW-HLTH-00124,Northern,Gicumbi,Health Centre,2025-05-01,50.0,Male,RSSB,Eye Clinic,Walk-in,9.0,Thursday,3.3,16.0,No,1.0,30.0
+RW-HLTH-00420,Eastern,Bugesera,Health Centre,2024-09-24,39.0,Male,Mutuelle de Santé,Emergency,Follow-up,7.0,Tuesday,12.6,62.0,No,0.0,24.0
+RW-HLTH-00943,Southern,Ruhango,Health Centre,2025-09-06,70.0,Female,Mutuelle de Santé,Dental,Walk-in,10.0,Saturday,2.5,16.0,No,4.0,17.0
+RW-HLTH-00974,Southern,Gisagara,Referral Hospital,2025-08-01,24.0,Female,RSSB,NCD Clinic,Scheduled,10.0,Friday,1.5,5.0,No,1.0,94.0
+RW-HLTH-00518,Southern,Huye,Health Centre,2025-09-28,63.0,Male,None,NCD Clinic,Walk-in,12.0,Sunday,11.3,46.0,No,5.0,44.0
+RW-HLTH-00676,Kigali City,Gasabo,District Hospital,2025-07-16,0.0,Female,None,Child Health,Scheduled,9.0,Wednesday,14.3,48.0,No,6.0,63.0
+RW-HLTH-00603,Western,Ngororero,Health Centre,2025-01-17,42.0,Female,RSSB,Dental,Walk-in,7.0,Friday,11.5,65.0,No,2.0,55.0
+RW-HLTH-01106,Northern,Burera,Health Centre,2024-02-13,33.0,Male,None,Maternal Health,Walk-in,10.0,Tuesday,1.6,9.0,No,6.0,36.0
+RW-HLTH-01075,Kigali City,Nyarugenge,District Hospital,2025-02-01,32.0,Male,Mutuelle de Santé,General Outpatient,Referral,10.0,Saturday,9.8,52.0,No,0.0,47.0
+RW-HLTH-00446,Western,Rusizi,District Hospital,2024-05-28,42.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,7.0,Tuesday,3.6,11.0,No,3.0,73.0
+RW-HLTH-01182,Kigali City,Nyarugenge,Health Centre,2024-02-24,37.0,Male,Mutuelle de Santé,Dental,Walk-in,7.0,Saturday,4.1,30.0,No,1.0,34.0
+RW-HLTH-00303,Western,Rubavu,District Hospital,2024-08-08,19.0,Male,Mutuelle de Santé,Child Health,Walk-in,7.0,Thursday,4.4,23.0,No,2.0,82.0
+RW-HLTH-01052,Eastern,Nyagatare,Health Centre,2025-10-27,37.0,Female,Mutuelle de Santé,Child Health,Scheduled,8.0,Monday,0.3,5.0,No,2.0,52.0
+RW-HLTH-00756,Western,Nyabihu,District Hospital,2025-10-07,42.0,Male,None,General Outpatient,Walk-in,9.0,Tuesday,1.9,9.0,No,0.0,87.0
+RW-HLTH-00659,Southern,Ruhango,Health Centre,2025-01-11,39.0,Female,RSSB,Child Health,Scheduled,10.0,Saturday,2.5,27.0,No,6.0,46.0
+RW-HLTH-01015,Northern,Burera,Health Centre,2025-08-04,65.0,Male,Mutuelle de Santé,Child Health,Scheduled,8.0,Monday,0.9,8.0,No,2.0,18.0
+RW-HLTH-00334,Western,Karongi,District Hospital,2024-08-13,41.0,Male,None,General Outpatient,Scheduled,8.0,Tuesday,9.8,54.0,Yes,0.0,65.0
+RW-HLTH-00519,Western,Rubavu,District Hospital,2025-09-14,47.0,Male,None,Maternal Health,Walk-in,10.0,Sunday,9.4,27.0,No,1.0,55.0
+RW-HLTH-00327,Southern,Nyanza,District Hospital,2025-04-28,37.0,Female,Mutuelle de Santé,Dental,Scheduled,9.0,Monday,8.3,39.0,No,3.0,31.0
+RW-HLTH-00916,Northern,Gicumbi,Health Centre,2025-12-02,38.0,Male,Mutuelle de Santé,NCD Clinic,Follow-up,7.0,Tuesday,3.0,9.0,No,2.0,59.0
+RW-HLTH-00181,Northern,Burera,District Hospital,2024-01-26,64.0,Female,Mutuelle de Santé,NCD Clinic,Scheduled,7.0,Friday,10.2,54.0,Yes,0.0,66.0
+RW-HLTH-00783,Eastern,Bugesera,Health Centre,2025-07-24,56.0,Female,RSSB,,Walk-in,12.0,Thursday,4.4,18.0,No,2.0,22.0
+RW-HLTH-00394,Eastern,Gatsibo,District Hospital,2025-09-20,62.0,Male,RSSB,Child Health,Scheduled,10.0,Saturday,1.3,11.0,No,4.0,67.0
+RW-HLTH-00858,Southern,Nyanza,Health Centre,2024-06-18,71.0,Male,Mutuelle de Santé,Eye Clinic,Follow-up,9.0,Tuesday,2.9,19.0,No,2.0,26.0
+RW-HLTH-00576,Eastern,Rwamagana,District Hospital,2025-03-24,20.0,Female,RSSB,General Outpatient,Scheduled,9.0,Monday,5.3,,No,2.0,52.0
+RW-HLTH-00935,Southern,Gisagara,Health Centre,2025-06-29,10.0,Female,None,Maternal Health,Walk-in,7.0,Sunday,1.8,,No,5.0,31.0
+RW-HLTH-00525,Southern,Huye,Health Centre,2025-03-19,53.0,Female,None,Child Health,Follow-up,8.0,Wednesday,1.7,5.0,No,2.0,32.0
+RW-HLTH-00925,Northern,Musanze,District Hospital,2025-11-12,34.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,14.0,Wednesday,9.1,39.0,No,4.0,52.0
+RW-HLTH-00564,Southern,Huye,District Hospital,2024-09-24,47.0,Male,Mutuelle de Santé,Emergency,Walk-in,7.0,Tuesday,4.4,15.0,No,5.0,78.0
+RW-HLTH-00956,Western,Rubavu,District Hospital,2025-02-27,22.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,9.0,Thursday,2.9,22.0,No,5.0,69.0
+RW-HLTH-01100,Southern,Nyanza,District Hospital,2024-05-24,12.0,Female,Mutuelle de Santé,General Outpatient,Referral,9.0,Friday,1.2,14.0,No,2.0,102.0
+RW-HLTH-00919,Eastern,Nyagatare,Health Centre,2025-03-15,58.0,Female,Mutuelle de Santé,Emergency,Follow-up,7.0,Saturday,13.4,58.0,No,4.0,49.0
+RW-HLTH-00819,Southern,Muhanga,District Hospital,2024-07-28,31.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,7.0,Sunday,10.9,16.0,No,2.0,44.0
+RW-HLTH-01090,Southern,Nyanza,District Hospital,2025-03-31,39.0,Female,RSSB,Emergency,Scheduled,8.0,Monday,6.9,16.0,No,2.0,45.0
+RW-HLTH-00122,Western,Rubavu,District Hospital,2025-08-31,,Female,Mutuelle de Santé,General Outpatient,,8.0,Sunday,2.6,,No,2.0,66.0
+RW-HLTH-01089,Kigali City,Kicukiro,Health Centre,2024-05-25,25.0,Female,Mutuelle de Santé,,Scheduled,11.0,Saturday,3.5,7.0,No,2.0,26.0
+RW-HLTH-00678,Southern,Muhanga,District Hospital,2025-09-08,56.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,8.0,Monday,12.0,54.0,Yes,5.0,41.0
+RW-HLTH-00027,Western,Ngororero,Health Centre,2024-12-26,16.0,Female,Mutuelle de Santé,Child Health,Follow-up,7.0,Thursday,5.3,19.0,No,4.0,35.0
+RW-HLTH-01113,Northern,Rulindo,District Hospital,2025-07-02,12.0,Female,Mutuelle de Santé,Eye Clinic,Walk-in,7.0,Wednesday,2.1,7.0,No,4.0,34.0
+RW-HLTH-01142,Western,Rusizi,Health Centre,2025-04-10,33.0,Male,Mutuelle de Santé,NCD Clinic,Scheduled,8.0,Thursday,8.1,29.0,No,2.0,37.0
+RW-HLTH-00739,Western,Ngororero,Health Centre,2025-12-25,16.0,Female,RSSB,NCD Clinic,Walk-in,12.0,Thursday,1.7,15.0,No,0.0,13.0
+RW-HLTH-00724,Southern,Ruhango,District Hospital,2025-03-02,23.0,Male,Mutuelle de Santé,Emergency,Scheduled,9.0,Sunday,15.2,69.0,No,3.0,47.0
+RW-HLTH-00111,Southern,Gisagara,Health Centre,2025-11-11,57.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Tuesday,6.8,40.0,No,2.0,55.0
+RW-HLTH-00476,Northern,Rulindo,Referral Hospital,2025-04-16,17.0,Male,,Emergency,Referral,10.0,Wednesday,10.7,36.0,No,1.0,50.0
+RW-HLTH-00568,Southern,Huye,District Hospital,2024-02-07,36.0,Male,RSSB,,Follow-up,9.0,Wednesday,8.7,,No,4.0,46.0
+RW-HLTH-00815,Eastern,Rwamagana,Health Centre,2024-08-04,19.0,Male,Mutuelle de Santé,Emergency,Referral,10.0,Sunday,2.8,25.0,No,4.0,45.0
+RW-HLTH-00684,Southern,Nyanza,Health Centre,2025-05-27,14.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,12.0,Tuesday,8.4,38.0,No,2.0,40.0
+RW-HLTH-00735,Kigali City,Gasabo,Health Centre,2024-05-22,0.0,Male,Private,Child Health,Follow-up,10.0,Wednesday,3.6,34.0,Yes,2.0,42.0
+RW-HLTH-01081,Northern,Gicumbi,Health Centre,2025-04-11,43.0,Female,Mutuelle de Santé,Dental,Scheduled,9.0,Friday,1.9,5.0,No,3.0,40.0
+RW-HLTH-00692,Western,Karongi,Health Centre,2025-05-24,10.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Saturday,7.7,36.0,No,1.0,60.0
+RW-HLTH-00970,Southern,Huye,Health Centre,2025-02-10,0.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,7.0,Monday,2.3,22.0,No,0.0,34.0
+RW-HLTH-00706,Eastern,Gatsibo,Health Centre,2025-10-15,2.0,Male,Mutuelle de Santé,General Outpatient,,7.0,Wednesday,9.5,42.0,No,2.0,24.0
+RW-HLTH-00422,Western,Rubavu,Health Centre,2024-07-27,5.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,8.0,Saturday,3.7,6.0,No,5.0,43.0
+RW-HLTH-00547,Western,Nyabihu,District Hospital,2024-04-13,60.0,Female,RSSB,NCD Clinic,Scheduled,8.0,Saturday,14.8,73.0,No,2.0,72.0
+RW-HLTH-00280,Western,Ngororero,Health Centre,2024-12-09,45.0,Female,,General Outpatient,Walk-in,9.0,Monday,1.4,8.0,No,1.0,54.0
+RW-HLTH-00670,Western,Karongi,Health Centre,2024-01-31,5.0,Male,Mutuelle de Santé,Emergency,Follow-up,7.0,Wednesday,3.2,21.0,No,0.0,14.0
+RW-HLTH-00504,Kigali City,Gasabo,Health Centre,2024-09-10,65.0,Female,None,General Outpatient,Walk-in,12.0,Tuesday,1.9,17.0,No,2.0,14.0
+RW-HLTH-00959,Northern,Rulindo,Health Centre,2024-06-05,13.0,Female,RSSB,Maternal Health,Scheduled,12.0,Wednesday,16.5,84.0,No,4.0,31.0
+RW-HLTH-00832,Western,Nyabihu,Health Centre,2024-11-28,35.0,Male,Mutuelle de Santé,NCD Clinic,Follow-up,12.0,Thursday,3.1,,Yes,2.0,16.0
+RW-HLTH-00432,Eastern,Bugesera,Health Centre,2025-08-15,29.0,Male,RSSB,NCD Clinic,,9.0,Friday,2.9,13.0,No,2.0,46.0
+RW-HLTH-00917,Northern,Rulindo,Health Centre,2025-03-17,18.0,Female,Mutuelle de Santé,NCD Clinic,Follow-up,9.0,Monday,4.1,18.0,No,1.0,35.0
+RW-HLTH-01099,Kigali City,Gasabo,Health Centre,2025-09-01,54.0,Female,Mutuelle de Santé,Emergency,Follow-up,7.0,Monday,10.2,46.0,No,2.0,55.0
+RW-HLTH-01189,Southern,Gisagara,Health Centre,2025-08-04,1.0,Male,Private,Dental,Scheduled,10.0,Monday,6.9,22.0,No,2.0,37.0
+RW-HLTH-00611,Eastern,Nyagatare,Health Centre,2025-10-26,22.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Sunday,14.3,70.0,No,,44.0
+RW-HLTH-00158,Southern,Gisagara,Health Centre,2024-08-08,4.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,9.0,Thursday,7.2,18.0,No,1.0,56.0
+RW-HLTH-01032,Kigali City,Nyarugenge,Referral Hospital,2025-03-06,13.0,Male,None,Maternal Health,Follow-up,12.0,Thursday,7.7,57.0,No,2.0,50.0
+RW-HLTH-00490,Eastern,Kayonza,Health Centre,2024-02-18,,Male,RSSB,General Outpatient,Walk-in,11.0,Sunday,0.7,9.0,No,3.0,26.0
+RW-HLTH-01168,Western,Karongi,Health Centre,2025-10-30,0.0,Male,Mutuelle de Santé,General Outpatient,,12.0,Thursday,7.1,36.0,No,2.0,46.0
+RW-HLTH-00324,Eastern,Nyagatare,Health Centre,2024-12-11,80.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,12.0,Wednesday,14.9,91.0,No,3.0,20.0
+RW-HLTH-00626,Eastern,Rwamagana,Health Centre,2024-03-11,51.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Monday,17.5,86.0,No,2.0,50.0
+RW-HLTH-01138,Northern,Rulindo,District Hospital,2024-07-28,50.0,Male,None,General Outpatient,Scheduled,12.0,Sunday,7.5,49.0,No,0.0,47.0
+RW-HLTH-00492,Kigali City,Nyarugenge,Health Centre,2025-02-09,69.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Sunday,4.0,11.0,No,2.0,58.0
+RW-HLTH-00524,Western,Rusizi,Health Centre,2025-05-24,42.0,Female,RSSB,Eye Clinic,Walk-in,7.0,Saturday,11.0,54.0,No,1.0,65.0
+RW-HLTH-00460,Northern,Rulindo,Health Centre,2024-08-10,42.0,Male,Private,General Outpatient,Scheduled,7.0,Saturday,0.9,24.0,No,3.0,32.0
+RW-HLTH-00401,Eastern,Nyagatare,Health Centre,2024-10-28,11.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,10.0,Monday,1.6,10.0,No,5.0,36.0
+RW-HLTH-00945,Kigali City,Gasabo,Health Centre,2024-01-18,35.0,Female,Mutuelle de Santé,Eye Clinic,Scheduled,7.0,Thursday,2.1,5.0,No,2.0,27.0
+RW-HLTH-00212,Eastern,Nyagatare,Referral Hospital,2024-05-26,17.0,Female,Mutuelle de Santé,NCD Clinic,Follow-up,10.0,Sunday,6.0,28.0,No,3.0,40.0
+RW-HLTH-00980,Eastern,Gatsibo,Health Centre,2024-02-10,25.0,Male,Mutuelle de Santé,Maternal Health,Referral,7.0,Saturday,6.5,45.0,No,3.0,24.0
+RW-HLTH-00528,Western,Rusizi,Health Centre,2025-10-31,17.0,Male,Mutuelle de Santé,Maternal Health,Scheduled,9.0,Friday,10.4,56.0,No,1.0,28.0
+RW-HLTH-00165,Kigali City,Nyarugenge,District Hospital,2024-09-29,28.0,Male,Mutuelle de Santé,General Outpatient,Referral,12.0,Sunday,16.3,78.0,No,2.0,54.0
+RW-HLTH-00185,Eastern,Rwamagana,Health Centre,2025-10-02,28.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,10.0,Thursday,2.8,,No,,28.0
+RW-HLTH-00951,Western,Rusizi,District Hospital,2025-07-14,47.0,Female,Mutuelle de Santé,Child Health,Follow-up,8.0,Monday,3.9,15.0,No,2.0,56.0
+RW-HLTH-00097,Eastern,Bugesera,Health Centre,2024-02-18,38.0,Male,Mutuelle de Santé,Child Health,Walk-in,9.0,Sunday,2.7,16.0,Yes,2.0,37.0
+RW-HLTH-01000,Western,Ngororero,Health Centre,2025-02-09,4.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,12.0,Sunday,2.9,22.0,Yes,5.0,30.0
+RW-HLTH-01029,Western,Karongi,District Hospital,2025-05-31,15.0,Male,Mutuelle de Santé,Eye Clinic,Walk-in,13.0,Saturday,6.6,33.0,No,3.0,64.0
+RW-HLTH-00589,Western,Rusizi,Health Centre,2024-08-30,25.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Friday,5.6,22.0,Yes,2.0,20.0
+RW-HLTH-00722,Eastern,Bugesera,Health Centre,2024-08-17,71.0,Female,None,NCD Clinic,Walk-in,11.0,Saturday,8.7,43.0,No,2.0,22.0
+RW-HLTH-01131,Northern,Musanze,Health Centre,2025-04-11,23.0,Male,Mutuelle de Santé,Maternal Health,Scheduled,7.0,Friday,7.5,46.0,No,2.0,21.0
+RW-HLTH-00789,Western,Nyabihu,Health Centre,2024-10-25,0.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,10.0,Friday,13.6,47.0,No,1.0,51.0
+RW-HLTH-00625,Kigali City,Nyarugenge,Health Centre,2025-04-04,51.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,7.0,Friday,2.8,11.0,No,0.0,20.0
+RW-HLTH-00646,Western,Ngororero,Health Centre,2024-06-15,12.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,7.0,Saturday,6.3,17.0,No,1.0,61.0
+RW-HLTH-00714,Southern,Gisagara,Health Centre,2025-12-16,14.0,Male,Mutuelle de Santé,Dental,Walk-in,8.0,Tuesday,7.6,40.0,No,3.0,3.0
+RW-HLTH-00762,Eastern,Gatsibo,Health Centre,2024-05-28,11.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,10.0,Tuesday,18.2,67.0,No,,19.0
+RW-HLTH-00922,Eastern,Bugesera,District Hospital,2024-02-02,19.0,Female,Mutuelle de Santé,Dental,Scheduled,8.0,Friday,0.6,8.0,No,0.0,15.0
+RW-HLTH-00557,Eastern,Rwamagana,Health Centre,2024-02-09,33.0,Female,Mutuelle de Santé,Eye Clinic,Walk-in,10.0,Friday,2.5,13.0,Yes,0.0,3.0
+RW-HLTH-00253,Southern,Gisagara,Health Centre,2024-07-02,70.0,Female,RSSB,Eye Clinic,Walk-in,9.0,Tuesday,9.6,47.0,No,3.0,25.0
+RW-HLTH-01150,Western,Karongi,Health Centre,2024-08-15,25.0,Female,RSSB,Child Health,Walk-in,7.0,Thursday,1.1,5.0,No,4.0,19.0
+RW-HLTH-00993,Kigali City,Kicukiro,Health Centre,2024-02-24,32.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,12.0,Saturday,10.7,,No,1.0,22.0
+RW-HLTH-00154,Northern,Rulindo,Health Centre,2025-04-29,72.0,Male,Mutuelle de Santé,Dental,,8.0,Tuesday,3.0,10.0,No,3.0,52.0
+RW-HLTH-00133,Southern,Ruhango,District Hospital,2024-01-11,43.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Thursday,4.3,13.0,No,3.0,74.0
+RW-HLTH-01012,Western,Rusizi,Health Centre,2025-05-09,55.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,12.0,Friday,8.5,30.0,No,1.0,3.0
+RW-HLTH-00920,Eastern,Gatsibo,Health Centre,2024-09-02,72.0,Female,RSSB,NCD Clinic,Scheduled,11.0,Monday,0.5,5.0,No,2.0,29.0
+RW-HLTH-01191,Western,Ngororero,Health Centre,2025-08-08,26.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,10.0,Friday,5.8,13.0,No,3.0,65.0
+RW-HLTH-00582,Western,Karongi,Health Centre,2025-08-25,25.0,Male,Mutuelle de Santé,Eye Clinic,Scheduled,10.0,Monday,10.0,29.0,No,3.0,55.0
+RW-HLTH-00393,Eastern,Gatsibo,District Hospital,2025-05-25,50.0,Female,Mutuelle de Santé,Maternal Health,Follow-up,11.0,Sunday,6.4,24.0,No,2.0,41.0
+RW-HLTH-00121,Southern,Nyanza,Health Centre,2025-10-04,23.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,11.0,Saturday,8.4,48.0,No,4.0,9.0
+RW-HLTH-00353,Southern,Nyanza,Health Centre,2025-07-21,26.0,Female,Mutuelle de Santé,,Follow-up,11.0,Monday,8.6,46.0,No,2.0,54.0
+RW-HLTH-00413,Kigali City,Gasabo,District Hospital,2024-12-01,17.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,11.0,Sunday,10.1,55.0,No,1.0,20.0
+RW-HLTH-00574,Western,Rusizi,Health Centre,2024-04-17,16.0,Female,RSSB,General Outpatient,Referral,10.0,Wednesday,4.8,11.0,Yes,1.0,23.0
+RW-HLTH-00193,Western,Rubavu,Health Centre,2024-11-28,46.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Thursday,3.0,11.0,No,2.0,12.0
+RW-HLTH-00205,Southern,Muhanga,Health Centre,2024-11-08,22.0,Female,Private,Maternal Health,Walk-in,9.0,Friday,6.7,13.0,No,0.0,33.0
+RW-HLTH-00039,Western,Rubavu,Health Centre,2024-11-18,11.0,Female,None,Child Health,Follow-up,7.0,Monday,4.4,5.0,No,2.0,41.0
+RW-HLTH-00017,Eastern,Kayonza,District Hospital,2025-05-31,33.0,Male,Mutuelle de Santé,Child Health,Referral,8.0,Saturday,8.7,32.0,No,3.0,58.0
+RW-HLTH-00146,Western,Rusizi,Health Centre,2025-07-01,,Female,None,General Outpatient,Referral,9.0,Tuesday,1.9,5.0,No,2.0,51.0
+RW-HLTH-00495,Western,Karongi,Health Centre,2025-11-20,5.0,Female,RSSB,Maternal Health,Scheduled,7.0,Thursday,1.1,12.0,Yes,6.0,50.0
+RW-HLTH-00577,Northern,Gicumbi,Health Centre,2025-08-17,40.0,Male,Mutuelle de Santé,Dental,Walk-in,14.0,Sunday,8.7,33.0,Yes,3.0,24.0
+RW-HLTH-01147,Southern,Nyanza,Health Centre,2024-03-23,11.0,Male,Mutuelle de Santé,Child Health,Follow-up,12.0,Saturday,17.8,65.0,No,1.0,20.0
+RW-HLTH-00667,Northern,Gicumbi,Health Centre,2024-08-28,55.0,Male,Mutuelle de Santé,Emergency,Walk-in,14.0,Wednesday,5.0,11.0,No,3.0,21.0
+RW-HLTH-01153,Western,Karongi,Health Centre,2024-07-15,25.0,Male,RSSB,General Outpatient,Referral,10.0,Monday,1.9,15.0,No,3.0,23.0
+RW-HLTH-00996,Northern,Musanze,District Hospital,2025-01-12,30.0,Male,None,General Outpatient,Walk-in,9.0,Sunday,7.1,39.0,Yes,3.0,98.0
+RW-HLTH-01027,Eastern,Nyagatare,District Hospital,2024-02-19,15.0,Female,Private,Child Health,Scheduled,9.0,Monday,3.3,22.0,No,1.0,60.0
+RW-HLTH-01049,Southern,Muhanga,Health Centre,2025-07-25,48.0,Male,RSSB,General Outpatient,Walk-in,8.0,Friday,4.0,5.0,No,4.0,76.0
+RW-HLTH-00550,Southern,Ruhango,Health Centre,2025-12-13,71.0,Female,,General Outpatient,Walk-in,7.0,Saturday,9.9,41.0,No,1.0,37.0
+RW-HLTH-00554,Eastern,Rwamagana,Health Centre,2024-12-15,31.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,11.0,Sunday,,24.0,No,1.0,7.0
+RW-HLTH-00791,Southern,Nyanza,Health Centre,2024-04-14,20.0,Male,Mutuelle de Santé,Emergency,Follow-up,7.0,Sunday,8.2,26.0,No,4.0,37.0
+RW-HLTH-01185,Eastern,Kayonza,Health Centre,2025-06-03,40.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,7.0,Tuesday,7.4,27.0,No,4.0,59.0
+RW-HLTH-00642,Northern,Gicumbi,Health Centre,2025-12-15,41.0,Female,None,Emergency,Walk-in,8.0,Monday,5.8,26.0,No,2.0,62.0
+RW-HLTH-00515,Kigali City,Kicukiro,District Hospital,2024-07-27,27.0,Female,RSSB,Eye Clinic,Walk-in,7.0,Saturday,1.5,12.0,No,3.0,78.0
+RW-HLTH-00360,Southern,Huye,Health Centre,2024-02-07,70.0,Female,Mutuelle de Santé,Emergency,Follow-up,10.0,Wednesday,0.8,5.0,No,1.0,31.0
+RW-HLTH-00944,Southern,Gisagara,Health Centre,2024-03-30,90.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,15.0,Saturday,5.1,17.0,No,3.0,32.0
+RW-HLTH-00175,Kigali City,Nyarugenge,District Hospital,2024-07-20,25.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,11.0,Saturday,4.0,16.0,No,2.0,35.0
+RW-HLTH-01177,Eastern,Nyagatare,Health Centre,2025-08-03,21.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,8.0,Sunday,9.4,24.0,No,1.0,42.0
+RW-HLTH-00763,Eastern,Bugesera,Health Centre,2024-04-02,,Female,Mutuelle de Santé,,Walk-in,8.0,Tuesday,10.1,45.0,No,1.0,26.0
+RW-HLTH-00325,Eastern,Bugesera,Health Centre,2024-05-22,0.0,Male,Mutuelle de Santé,Eye Clinic,Walk-in,9.0,Wednesday,1.4,5.0,No,5.0,32.0
+RW-HLTH-00886,Southern,Muhanga,District Hospital,2024-09-22,27.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,7.0,Sunday,6.8,28.0,No,2.0,63.0
+RW-HLTH-01143,Northern,Rulindo,District Hospital,2025-12-29,0.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,7.0,Monday,1.6,22.0,No,1.0,47.0
+RW-HLTH-01033,Kigali City,Nyarugenge,Health Centre,2024-04-22,23.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,9.0,Monday,7.3,37.0,Yes,0.0,52.0
+RW-HLTH-00379,Eastern,Rwamagana,Health Centre,2025-01-03,19.0,Female,RSSB,NCD Clinic,Walk-in,12.0,Friday,8.5,46.0,No,1.0,33.0
+RW-HLTH-00965,Northern,Burera,Health Centre,2025-04-23,33.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,9.0,Wednesday,7.0,43.0,No,4.0,56.0
+RW-HLTH-00710,Northern,Burera,Health Centre,2025-01-30,58.0,Female,Private,General Outpatient,Walk-in,10.0,Thursday,2.4,5.0,No,0.0,19.0
+RW-HLTH-00723,Kigali City,Nyarugenge,Health Centre,2024-12-30,7.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,7.0,Monday,11.4,54.0,No,5.0,27.0
+RW-HLTH-00654,Southern,Nyanza,Health Centre,2024-10-26,37.0,Female,Mutuelle de Santé,NCD Clinic,Referral,7.0,Saturday,1.7,14.0,Yes,5.0,3.0
+RW-HLTH-00012,Northern,Rulindo,District Hospital,2025-11-10,1.0,Female,RSSB,General Outpatient,Follow-up,8.0,Monday,18.4,87.0,Yes,1.0,62.0
+RW-HLTH-00317,Western,Rubavu,District Hospital,2024-06-25,10.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,11.0,Tuesday,4.9,23.0,No,0.0,56.0
+RW-HLTH-00820,Eastern,Gatsibo,District Hospital,2024-10-10,46.0,Male,Mutuelle de Santé,Child Health,Scheduled,10.0,Thursday,2.7,20.0,No,3.0,45.0
+RW-HLTH-01133,Western,Karongi,Health Centre,2025-12-11,5.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,13.0,Thursday,0.4,9.0,No,2.0,20.0
+RW-HLTH-00399,Northern,Musanze,Health Centre,2024-09-30,51.0,Male,Mutuelle de Santé,Dental,Walk-in,10.0,Monday,6.6,24.0,No,3.0,22.0
+RW-HLTH-01046,Western,Karongi,District Hospital,2024-06-27,30.0,Female,Mutuelle de Santé,Child Health,Follow-up,9.0,Thursday,7.0,39.0,No,1.0,68.0
+RW-HLTH-00583,Western,Karongi,District Hospital,2025-06-24,69.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,7.0,Tuesday,0.4,5.0,No,3.0,65.0
+RW-HLTH-00769,Southern,Ruhango,Health Centre,2025-04-05,18.0,Female,RSSB,General Outpatient,Scheduled,12.0,Saturday,3.1,14.0,Yes,4.0,12.0
+RW-HLTH-00319,Southern,Gisagara,District Hospital,2024-02-02,54.0,Female,None,General Outpatient,Referral,9.0,Friday,5.4,25.0,Yes,2.0,67.0
+RW-HLTH-00400,Eastern,Bugesera,Health Centre,2024-11-26,39.0,Male,Mutuelle de Santé,Maternal Health,Scheduled,10.0,Tuesday,5.2,16.0,No,2.0,10.0
+RW-HLTH-00406,Western,Ngororero,District Hospital,2024-06-27,7.0,Female,Mutuelle de Santé,Dental,Walk-in,9.0,Thursday,4.5,14.0,No,1.0,29.0
+RW-HLTH-01040,Eastern,Bugesera,District Hospital,2024-08-01,3.0,Male,Mutuelle de Santé,Emergency,Walk-in,9.0,Thursday,5.3,22.0,No,1.0,41.0
+RW-HLTH-00940,Northern,Rulindo,Health Centre,2025-07-24,22.0,Female,Mutuelle de Santé,Maternal Health,Scheduled,11.0,Thursday,0.5,5.0,No,3.0,40.0
+RW-HLTH-00597,Northern,Burera,Health Centre,2024-05-21,42.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Tuesday,3.4,5.0,No,1.0,31.0
+RW-HLTH-00995,Southern,Ruhango,Health Centre,2025-12-07,35.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,9.0,Sunday,2.6,24.0,No,2.0,23.0
+RW-HLTH-01072,Southern,Muhanga,Health Centre,2025-08-22,6.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Friday,1.7,6.0,No,3.0,28.0
+RW-HLTH-00061,Northern,Rulindo,District Hospital,2024-12-12,59.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,7.0,Thursday,11.8,30.0,No,6.0,49.0
+RW-HLTH-01123,Eastern,Gatsibo,Health Centre,2024-11-24,70.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,7.0,Sunday,4.8,20.0,No,1.0,20.0
+RW-HLTH-00584,Southern,Muhanga,Health Centre,2025-07-05,29.0,Female,None,General Outpatient,Walk-in,7.0,Saturday,2.1,5.0,No,2.0,53.0
+RW-HLTH-00715,Eastern,Bugesera,Health Centre,2024-03-28,14.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,14.0,Thursday,8.7,33.0,No,1.0,39.0
+RW-HLTH-01091,Kigali City,Gasabo,Health Centre,2025-08-17,46.0,Male,None,General Outpatient,Follow-up,9.0,Sunday,8.8,22.0,Yes,0.0,38.0
+RW-HLTH-01094,Southern,Gisagara,Health Centre,2025-04-25,16.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Friday,8.6,37.0,Yes,1.0,25.0
+RW-HLTH-00496,Southern,Ruhango,Health Centre,2024-01-28,22.0,Male,None,Maternal Health,Walk-in,8.0,Sunday,2.0,14.0,No,3.0,37.0
+RW-HLTH-00294,Northern,Rulindo,Health Centre,2024-12-24,42.0,Male,RSSB,Child Health,Walk-in,8.0,Tuesday,6.0,17.0,No,1.0,79.0
+RW-HLTH-00178,Kigali City,Kicukiro,Health Centre,2024-12-03,44.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,12.0,Tuesday,6.2,25.0,Yes,4.0,35.0
+RW-HLTH-00416,Kigali City,Kicukiro,Health Centre,2025-08-03,35.0,Male,None,General Outpatient,Follow-up,8.0,Sunday,6.3,25.0,No,2.0,67.0
+RW-HLTH-00291,Western,Rubavu,Health Centre,2024-11-22,28.0,Male,Mutuelle de Santé,NCD Clinic,Scheduled,12.0,Friday,2.9,5.0,No,1.0,11.0
+RW-HLTH-00473,Northern,Musanze,Health Centre,2024-05-15,38.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Wednesday,10.0,32.0,No,2.0,36.0
+RW-HLTH-00197,Southern,Ruhango,District Hospital,2024-04-26,26.0,Female,Mutuelle de Santé,Dental,Scheduled,8.0,Friday,3.8,19.0,No,5.0,56.0
+RW-HLTH-00604,Northern,Rulindo,Health Centre,2025-11-11,37.0,Male,Mutuelle de Santé,Maternal Health,Follow-up,8.0,Tuesday,2.0,13.0,No,0.0,51.0
+RW-HLTH-00404,Kigali City,Kicukiro,Health Centre,2024-08-18,40.0,Male,Mutuelle de Santé,,Follow-up,10.0,Sunday,3.8,23.0,No,3.0,81.0
+RW-HLTH-00843,Northern,Gicumbi,Health Centre,2025-04-08,51.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,7.0,Tuesday,8.4,38.0,No,1.0,49.0
+RW-HLTH-01095,Southern,Nyanza,Health Centre,2024-04-27,85.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,7.0,Saturday,2.0,10.0,No,5.0,38.0
+RW-HLTH-00590,Eastern,Bugesera,Health Centre,2024-09-29,44.0,Female,RSSB,Maternal Health,Walk-in,8.0,Sunday,0.3,5.0,No,4.0,24.0
+RW-HLTH-00727,Kigali City,Kicukiro,Health Centre,2025-10-13,67.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,9.0,Monday,0.5,5.0,Yes,1.0,47.0
+RW-HLTH-00074,Western,Ngororero,District Hospital,2024-11-02,20.0,Female,Mutuelle de Santé,Eye Clinic,Scheduled,11.0,Saturday,,24.0,Yes,2.0,59.0
+RW-HLTH-00718,Western,Nyabihu,Health Centre,2025-03-19,10.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Wednesday,5.0,12.0,Yes,2.0,45.0
+RW-HLTH-00359,Eastern,Bugesera,Health Centre,2025-05-23,11.0,Male,RSSB,General Outpatient,Walk-in,7.0,Friday,6.3,24.0,No,5.0,67.0
+RW-HLTH-01009,Eastern,Gatsibo,Health Centre,2025-04-30,0.0,Male,RSSB,NCD Clinic,Follow-up,8.0,Wednesday,5.2,18.0,No,3.0,34.0
+RW-HLTH-00298,Eastern,Rwamagana,Health Centre,2024-10-12,46.0,Female,Mutuelle de Santé,Child Health,Follow-up,8.0,Saturday,0.6,11.0,No,0.0,29.0
+RW-HLTH-00088,Kigali City,Kicukiro,District Hospital,2025-09-08,28.0,Female,RSSB,Emergency,Walk-in,9.0,Monday,5.3,24.0,Yes,2.0,31.0
+RW-HLTH-01148,Southern,Huye,Health Centre,2024-05-30,4.0,Male,Mutuelle de Santé,Dental,Walk-in,13.0,Thursday,2.0,8.0,No,2.0,44.0
+RW-HLTH-00024,Northern,Musanze,District Hospital,2024-11-08,53.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,13.0,Friday,5.1,45.0,No,1.0,29.0
+RW-HLTH-00250,Eastern,Bugesera,Health Centre,2024-02-13,17.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Tuesday,1.7,16.0,No,2.0,45.0
+RW-HLTH-01085,Kigali City,Gasabo,Health Centre,2024-09-12,38.0,Male,Mutuelle de Santé,Child Health,Scheduled,8.0,Thursday,3.8,21.0,No,4.0,49.0
+RW-HLTH-01194,Western,Nyabihu,District Hospital,2024-09-27,44.0,Male,None,Maternal Health,Walk-in,8.0,Friday,,15.0,No,3.0,67.0
+RW-HLTH-00868,Eastern,Nyagatare,District Hospital,2024-07-22,11.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,10.0,Monday,3.1,20.0,Yes,3.0,23.0
+RW-HLTH-01145,Western,Ngororero,Health Centre,2024-09-02,49.0,Male,Mutuelle de Santé,Child Health,Walk-in,7.0,Monday,1.9,13.0,No,0.0,44.0
+RW-HLTH-00671,Western,Nyabihu,District Hospital,2025-03-12,11.0,Female,Mutuelle de Santé,Child Health,Walk-in,9.0,Wednesday,5.8,36.0,No,5.0,82.0
+RW-HLTH-00579,Kigali City,Nyarugenge,District Hospital,2025-08-03,6.0,Female,None,General Outpatient,Walk-in,10.0,Sunday,11.9,29.0,No,2.0,36.0
+RW-HLTH-00880,Eastern,Bugesera,Health Centre,2024-04-28,57.0,Male,Private,General Outpatient,Walk-in,10.0,Sunday,5.7,15.0,No,4.0,45.0
+RW-HLTH-00115,Northern,Burera,Health Centre,2025-02-27,22.0,Female,None,,Scheduled,7.0,Thursday,1.4,6.0,No,5.0,28.0
+RW-HLTH-00031,Southern,Huye,Health Centre,2024-02-28,19.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Wednesday,1.3,6.0,No,3.0,48.0
+RW-HLTH-01061,Northern,Burera,Health Centre,2024-11-22,26.0,Male,RSSB,NCD Clinic,Referral,11.0,Friday,9.2,25.0,No,0.0,28.0
+RW-HLTH-01117,Western,Rubavu,Health Centre,2025-01-22,21.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,8.0,Wednesday,1.9,12.0,No,2.0,60.0
+RW-HLTH-00888,Southern,Gisagara,Referral Hospital,2024-01-11,24.0,Female,None,General Outpatient,Follow-up,10.0,Thursday,3.9,13.0,No,2.0,70.0
+RW-HLTH-00483,Eastern,Kayonza,District Hospital,2024-06-07,9.0,Female,RSSB,NCD Clinic,Referral,14.0,Friday,7.2,42.0,No,3.0,37.0
+RW-HLTH-00482,Northern,Musanze,District Hospital,2024-03-28,56.0,Male,Mutuelle de Santé,Emergency,Follow-up,10.0,Thursday,,13.0,Yes,1.0,44.0
+RW-HLTH-00907,Eastern,Kayonza,Health Centre,2025-03-27,13.0,Female,Mutuelle de Santé,Dental,Walk-in,7.0,Thursday,2.0,6.0,No,5.0,41.0
+RW-HLTH-00493,Northern,Rulindo,Health Centre,2025-06-13,27.0,Male,Mutuelle de Santé,Maternal Health,Scheduled,14.0,Friday,14.3,63.0,No,4.0,8.0
+RW-HLTH-00235,Northern,Musanze,District Hospital,2024-01-30,0.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,12.0,Tuesday,4.0,5.0,No,1.0,55.0
+RW-HLTH-01136,Southern,Nyanza,District Hospital,2025-04-01,24.0,Male,Mutuelle de Santé,Dental,Referral,11.0,Tuesday,0.8,5.0,No,4.0,32.0
+RW-HLTH-01017,Eastern,Kayonza,Health Centre,2024-04-07,4.0,Male,Mutuelle de Santé,Dental,Scheduled,11.0,Sunday,4.4,10.0,No,,18.0
+RW-HLTH-00915,Northern,Burera,Health Centre,2025-12-15,18.0,Male,Mutuelle de Santé,Eye Clinic,Scheduled,11.0,Monday,2.7,23.0,Yes,2.0,3.0
+RW-HLTH-00790,Western,Nyabihu,Health Centre,2025-03-11,0.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,9.0,Tuesday,2.0,5.0,No,3.0,49.0
+RW-HLTH-00065,Northern,Burera,Referral Hospital,2025-11-04,28.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Tuesday,9.7,44.0,No,0.0,87.0
+RW-HLTH-00187,Kigali City,Kicukiro,Health Centre,2024-04-07,0.0,Male,Mutuelle de Santé,General Outpatient,,10.0,Sunday,4.5,31.0,No,1.0,29.0
+RW-HLTH-00913,Western,Rubavu,Referral Hospital,2025-12-13,12.0,Female,Mutuelle de Santé,Child Health,Scheduled,11.0,Saturday,4.5,15.0,Yes,3.0,89.0
+RW-HLTH-01087,Southern,Gisagara,Health Centre,2024-12-08,20.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,11.0,Sunday,2.7,6.0,Yes,2.0,27.0
+RW-HLTH-00050,Western,Ngororero,District Hospital,2024-01-03,25.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,10.0,Wednesday,5.0,32.0,No,2.0,43.0
+RW-HLTH-00106,Eastern,Nyagatare,District Hospital,2024-04-09,35.0,Female,,NCD Clinic,Walk-in,7.0,Tuesday,2.5,,No,2.0,56.0
+RW-HLTH-00846,Western,Karongi,Health Centre,2025-01-05,36.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Sunday,8.3,30.0,No,0.0,20.0
+RW-HLTH-00407,Southern,Nyanza,Referral Hospital,2024-09-22,26.0,Female,RSSB,General Outpatient,Walk-in,10.0,Sunday,5.5,29.0,Yes,4.0,44.0
+RW-HLTH-00084,Western,Rusizi,Health Centre,2025-12-15,,Male,RSSB,Eye Clinic,Walk-in,7.0,Monday,1.9,5.0,No,1.0,25.0
+RW-HLTH-00853,Western,Rusizi,Health Centre,2025-03-31,17.0,Male,Mutuelle de Santé,Dental,Walk-in,8.0,Monday,4.4,16.0,No,2.0,47.0
+RW-HLTH-00215,Eastern,Bugesera,District Hospital,2024-11-02,0.0,Male,Mutuelle de Santé,Child Health,Scheduled,12.0,Saturday,1.1,,No,5.0,63.0
+RW-HLTH-00963,Southern,Huye,District Hospital,2024-12-10,38.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,7.0,Tuesday,3.2,25.0,No,2.0,53.0
+RW-HLTH-00532,Southern,Huye,District Hospital,2024-06-05,17.0,Male,Mutuelle de Santé,Dental,Follow-up,10.0,Wednesday,5.1,24.0,No,0.0,40.0
+RW-HLTH-00892,Eastern,Rwamagana,Health Centre,2025-04-18,2.0,Female,RSSB,General Outpatient,Scheduled,10.0,Friday,3.6,14.0,No,3.0,61.0
+RW-HLTH-00396,Southern,Huye,Health Centre,2025-09-18,41.0,Male,None,Maternal Health,Scheduled,7.0,Thursday,3.6,15.0,No,2.0,28.0
+RW-HLTH-00629,Kigali City,Nyarugenge,Health Centre,2025-08-24,33.0,Male,RSSB,,Walk-in,8.0,Sunday,11.2,40.0,No,1.0,49.0
+RW-HLTH-00897,Western,Ngororero,Health Centre,2025-01-02,0.0,Male,Mutuelle de Santé,Child Health,Scheduled,7.0,Thursday,3.6,27.0,No,2.0,17.0
+RW-HLTH-00240,Northern,Musanze,District Hospital,2025-10-28,33.0,Male,Mutuelle de Santé,Dental,Walk-in,10.0,Tuesday,14.5,68.0,No,2.0,19.0
+RW-HLTH-00805,Eastern,Nyagatare,Health Centre,2024-10-09,0.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,7.0,Wednesday,3.5,16.0,No,3.0,27.0
+RW-HLTH-00471,Western,Rubavu,Health Centre,2024-11-03,30.0,Female,Mutuelle de Santé,Emergency,Referral,10.0,Sunday,,20.0,No,1.0,36.0
+RW-HLTH-00209,Northern,Gicumbi,Health Centre,2024-09-11,15.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,8.0,Wednesday,11.2,35.0,No,0.0,19.0
+RW-HLTH-00469,Northern,Gicumbi,Health Centre,2025-11-16,33.0,Female,RSSB,General Outpatient,Scheduled,9.0,Sunday,6.4,29.0,Yes,1.0,62.0
+RW-HLTH-00270,Kigali City,Gasabo,Health Centre,2025-09-23,70.0,Female,Mutuelle de Santé,Maternal Health,,7.0,Tuesday,6.6,25.0,No,3.0,35.0
+RW-HLTH-01067,Kigali City,Kicukiro,Health Centre,2024-03-27,15.0,Female,None,General Outpatient,Walk-in,11.0,Wednesday,1.7,5.0,No,1.0,29.0
+RW-HLTH-01028,Southern,Huye,Health Centre,,15.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,13.0,Friday,5.2,14.0,No,4.0,24.0
+RW-HLTH-00120,Northern,Burera,Referral Hospital,2024-04-10,7.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Wednesday,7.7,48.0,No,1.0,56.0
+RW-HLTH-00787,Southern,Muhanga,District Hospital,2025-09-16,18.0,Female,None,Eye Clinic,Scheduled,9.0,Tuesday,8.5,45.0,No,3.0,64.0
+RW-HLTH-00071,Eastern,Gatsibo,Health Centre,2025-06-23,4.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,11.0,Monday,5.4,30.0,No,1.0,52.0
+RW-HLTH-00485,Kigali City,Gasabo,Health Centre,2024-12-23,7.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,8.0,Monday,1.9,14.0,No,2.0,64.0
+RW-HLTH-00305,Western,Rusizi,Health Centre,2025-12-10,32.0,Female,Mutuelle de Santé,Eye Clinic,Walk-in,7.0,Wednesday,3.4,23.0,No,1.0,48.0
+RW-HLTH-00308,Southern,Huye,Health Centre,2024-05-16,24.0,Female,None,General Outpatient,Walk-in,9.0,Thursday,8.0,36.0,No,3.0,39.0
+RW-HLTH-00322,Kigali City,Kicukiro,Health Centre,2025-01-07,23.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,12.0,Tuesday,3.0,6.0,No,1.0,46.0
+RW-HLTH-00277,Northern,Rulindo,Health Centre,2024-01-09,28.0,Female,Mutuelle de Santé,Eye Clinic,Walk-in,11.0,Tuesday,4.9,32.0,No,,24.0
+RW-HLTH-00262,Southern,Ruhango,Health Centre,2024-01-25,46.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,8.0,Thursday,1.4,5.0,,1.0,29.0
+RW-HLTH-00059,Western,Nyabihu,District Hospital,2025-07-13,14.0,Female,Mutuelle de Santé,Child Health,Walk-in,10.0,Sunday,13.2,38.0,No,1.0,33.0
+RW-HLTH-00076,Southern,Muhanga,Health Centre,2025-07-09,34.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,7.0,Wednesday,4.6,11.0,No,1.0,29.0
+RW-HLTH-00575,Eastern,Gatsibo,Health Centre,2024-10-02,28.0,Female,Mutuelle de Santé,,Walk-in,10.0,Wednesday,9.5,37.0,No,1.0,24.0
+RW-HLTH-00681,Western,Ngororero,Health Centre,2025-03-09,65.0,Male,Mutuelle de Santé,Child Health,Walk-in,8.0,Sunday,7.2,13.0,No,2.0,64.0
+RW-HLTH-00513,Southern,Nyanza,District Hospital,2024-04-19,85.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Friday,5.1,20.0,No,2.0,47.0
+RW-HLTH-00145,Western,Karongi,Health Centre,2024-07-14,63.0,Female,RSSB,Dental,Walk-in,12.0,Sunday,8.2,29.0,No,1.0,12.0
+RW-HLTH-00567,Eastern,Kayonza,Health Centre,2025-05-05,14.0,Female,None,Emergency,Walk-in,10.0,Monday,1.9,7.0,No,2.0,35.0
+RW-HLTH-00101,Southern,Gisagara,Health Centre,2025-11-02,18.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Sunday,12.9,63.0,No,2.0,48.0
+RW-HLTH-00855,Eastern,Kayonza,Health Centre,2025-04-18,0.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,7.0,Friday,4.0,20.0,No,2.0,45.0
+RW-HLTH-00539,Northern,Rulindo,District Hospital,2025-04-09,33.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,7.0,Wednesday,11.6,43.0,No,1.0,75.0
+RW-HLTH-01056,Northern,Burera,Health Centre,,11.0,Female,,Emergency,Walk-in,7.0,Wednesday,8.1,46.0,Yes,0.0,11.0
+RW-HLTH-00462,Eastern,Gatsibo,Health Centre,2025-01-11,16.0,Male,Private,Maternal Health,Scheduled,9.0,Saturday,10.2,38.0,Yes,2.0,49.0
+RW-HLTH-00839,Kigali City,Kicukiro,Health Centre,2025-08-28,39.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,8.0,Thursday,2.3,15.0,No,3.0,39.0
+RW-HLTH-00753,Kigali City,Gasabo,District Hospital,2025-05-05,3.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Monday,2.8,5.0,Yes,2.0,40.0
+RW-HLTH-01013,Northern,Gicumbi,District Hospital,2025-11-12,53.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,7.0,Wednesday,7.6,49.0,No,3.0,33.0
+RW-HLTH-00168,Western,Rusizi,Health Centre,2024-08-12,28.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,7.0,Monday,7.6,34.0,No,0.0,34.0
+RW-HLTH-00800,Kigali City,Gasabo,Health Centre,2024-06-21,35.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Friday,3.0,10.0,No,3.0,46.0
+RW-HLTH-01043,Western,Karongi,District Hospital,2024-10-26,21.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,11.0,Saturday,4.3,22.0,No,5.0,45.0
+RW-HLTH-00650,Eastern,Rwamagana,District Hospital,2025-07-02,6.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,7.0,Wednesday,9.5,44.0,No,4.0,81.0
+RW-HLTH-01023,Southern,Ruhango,District Hospital,2024-08-15,48.0,Male,Mutuelle de Santé,Child Health,Scheduled,7.0,Thursday,10.5,,No,0.0,54.0
+RW-HLTH-00169,Northern,Burera,Health Centre,2025-06-25,2.0,Female,None,Eye Clinic,Walk-in,8.0,Wednesday,11.6,37.0,Yes,4.0,64.0
+RW-HLTH-00950,Southern,Gisagara,District Hospital,2025-06-07,27.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,8.0,Saturday,11.6,40.0,No,1.0,68.0
+RW-HLTH-00335,Kigali City,Gasabo,Health Centre,2024-09-26,24.0,Male,Mutuelle de Santé,Child Health,Scheduled,8.0,Thursday,11.4,52.0,Yes,1.0,42.0
+RW-HLTH-00411,Eastern,Nyagatare,Health Centre,2024-05-23,9.0,Female,Private,General Outpatient,Scheduled,9.0,Thursday,2.1,15.0,No,5.0,46.0
+RW-HLTH-00384,Southern,Huye,Health Centre,2025-04-30,38.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,10.0,Wednesday,6.8,26.0,No,1.0,39.0
+RW-HLTH-00627,Southern,Muhanga,Health Centre,2024-09-07,9.0,Female,None,Emergency,Scheduled,11.0,Saturday,0.6,5.0,No,3.0,3.0
+RW-HLTH-00123,Eastern,Rwamagana,District Hospital,2025-03-09,44.0,Female,Mutuelle de Santé,Child Health,Walk-in,9.0,Sunday,2.2,5.0,No,2.0,70.0
+RW-HLTH-00159,Southern,Nyanza,Health Centre,2024-10-01,0.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,10.0,Tuesday,13.6,68.0,No,,17.0
+RW-HLTH-00521,Northern,Rulindo,Health Centre,2025-01-01,6.0,Female,None,Maternal Health,Walk-in,7.0,Wednesday,4.1,26.0,No,5.0,40.0
+RW-HLTH-00877,Northern,Rulindo,Health Centre,2024-02-19,68.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,7.0,Monday,6.4,39.0,No,5.0,20.0
+RW-HLTH-00480,Western,Rusizi,District Hospital,2024-05-14,27.0,Female,Mutuelle de Santé,Maternal Health,Scheduled,8.0,Tuesday,5.7,12.0,No,2.0,51.0
+RW-HLTH-00752,Western,Karongi,Health Centre,2025-03-12,47.0,Male,Mutuelle de Santé,Maternal Health,Scheduled,14.0,Wednesday,0.8,5.0,No,2.0,3.0
+RW-HLTH-00767,Southern,Nyanza,Health Centre,2024-06-17,50.0,Male,None,Child Health,Follow-up,8.0,Monday,4.3,21.0,No,3.0,33.0
+RW-HLTH-00452,Western,Nyabihu,District Hospital,2024-06-17,19.0,Female,Mutuelle de Santé,Eye Clinic,Walk-in,7.0,Monday,0.2,7.0,No,2.0,45.0
+RW-HLTH-00849,Northern,Musanze,Health Centre,2024-09-01,46.0,Female,RSSB,Maternal Health,Walk-in,7.0,Sunday,2.9,12.0,No,1.0,57.0
+RW-HLTH-00381,Southern,Muhanga,Health Centre,2024-10-07,40.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Monday,7.2,27.0,Yes,4.0,40.0
+RW-HLTH-00230,Southern,Muhanga,Health Centre,2024-09-12,17.0,Female,RSSB,General Outpatient,Scheduled,10.0,Thursday,10.4,46.0,No,4.0,28.0
+RW-HLTH-00397,Eastern,Kayonza,Health Centre,2024-04-28,25.0,Female,None,Maternal Health,Walk-in,8.0,Sunday,1.9,5.0,No,2.0,22.0
+RW-HLTH-00419,Southern,Nyanza,Health Centre,2024-12-11,64.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,12.0,Wednesday,12.6,57.0,No,4.0,37.0
+RW-HLTH-00747,Eastern,Kayonza,Health Centre,2025-06-12,45.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,7.0,Thursday,9.9,63.0,No,3.0,63.0
+RW-HLTH-00318,Kigali City,Nyarugenge,Health Centre,2025-07-20,6.0,Female,Mutuelle de Santé,NCD Clinic,Follow-up,8.0,Sunday,6.6,40.0,,0.0,3.0
+RW-HLTH-00374,Western,Rubavu,District Hospital,2024-02-01,1.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Thursday,10.9,42.0,No,1.0,75.0
+RW-HLTH-01020,Kigali City,Gasabo,District Hospital,2024-03-03,8.0,Male,None,General Outpatient,Scheduled,11.0,Sunday,1.2,16.0,No,1.0,72.0
+RW-HLTH-00378,Southern,Gisagara,Health Centre,2025-08-21,9.0,Male,Mutuelle de Santé,Maternal Health,Follow-up,7.0,Thursday,5.0,40.0,No,3.0,15.0
+RW-HLTH-00978,Eastern,Nyagatare,Health Centre,2024-05-28,,Female,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Tuesday,1.6,,No,6.0,28.0
+RW-HLTH-00153,Southern,Gisagara,Health Centre,2025-10-13,66.0,Female,Mutuelle de Santé,Dental,Walk-in,8.0,Monday,1.3,5.0,No,1.0,6.0
+RW-HLTH-00246,Northern,Burera,Health Centre,2025-08-24,20.0,Male,,General Outpatient,Scheduled,8.0,Sunday,10.1,48.0,No,3.0,53.0
+RW-HLTH-00398,Kigali City,Kicukiro,District Hospital,2025-05-11,10.0,Male,RSSB,Maternal Health,Walk-in,11.0,Sunday,,88.0,No,3.0,41.0
+RW-HLTH-00136,Western,Rusizi,Health Centre,2025-11-23,15.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Sunday,7.1,48.0,Yes,1.0,33.0
+RW-HLTH-00135,Southern,Huye,Health Centre,2024-02-29,21.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Thursday,2.5,7.0,No,2.0,81.0
+RW-HLTH-00982,Eastern,Nyagatare,Health Centre,2025-02-02,22.0,Female,RSSB,Maternal Health,Follow-up,10.0,Sunday,6.0,31.0,Yes,4.0,46.0
+RW-HLTH-01175,Northern,Burera,Referral Hospital,2025-03-05,39.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,7.0,Wednesday,2.6,5.0,Yes,1.0,74.0
+RW-HLTH-00703,Northern,Musanze,District Hospital,2024-03-02,46.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,7.0,Saturday,2.5,17.0,No,2.0,53.0
+RW-HLTH-01071,Kigali City,Kicukiro,Health Centre,2025-05-02,59.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,9.0,Friday,3.9,16.0,No,5.0,79.0
+RW-HLTH-00808,Eastern,Rwamagana,Health Centre,2025-08-11,33.0,Female,RSSB,General Outpatient,Scheduled,14.0,Monday,11.5,42.0,No,2.0,22.0
+RW-HLTH-00861,Southern,Gisagara,Health Centre,2024-05-09,0.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,12.0,Thursday,3.3,,No,0.0,23.0
+RW-HLTH-00864,Western,Nyabihu,Health Centre,2024-08-17,50.0,Female,Private,,Scheduled,7.0,Saturday,7.1,25.0,No,3.0,31.0
+RW-HLTH-00549,Southern,Muhanga,Health Centre,2024-03-07,38.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Thursday,4.3,29.0,No,0.0,52.0
+RW-HLTH-00075,Eastern,Nyagatare,Health Centre,2024-07-09,40.0,Female,Mutuelle de Santé,Child Health,Follow-up,9.0,Tuesday,3.2,7.0,No,2.0,38.0
+RW-HLTH-00227,Southern,Nyanza,District Hospital,2024-09-26,32.0,Male,Mutuelle de Santé,General Outpatient,Referral,10.0,Thursday,2.9,27.0,No,4.0,65.0
+RW-HLTH-00507,Kigali City,Kicukiro,Health Centre,2024-10-07,0.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,12.0,Monday,10.0,25.0,No,2.0,47.0
+RW-HLTH-00862,Northern,Rulindo,Health Centre,2024-06-13,0.0,Male,,Emergency,Referral,7.0,Thursday,5.5,20.0,No,3.0,19.0
+RW-HLTH-00352,Eastern,Rwamagana,Health Centre,2024-10-05,43.0,Female,Mutuelle de Santé,NCD Clinic,Referral,8.0,Saturday,12.9,45.0,Yes,3.0,53.0
+RW-HLTH-00077,Northern,Burera,Health Centre,2024-02-29,22.0,Female,Mutuelle de Santé,Emergency,Scheduled,7.0,Thursday,4.5,13.0,No,5.0,15.0
+RW-HLTH-00497,Southern,Muhanga,Health Centre,2025-02-15,3.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Saturday,2.6,8.0,No,3.0,55.0
+RW-HLTH-01178,Southern,Huye,District Hospital,2024-03-18,21.0,Male,Private,General Outpatient,Follow-up,7.0,Monday,5.7,34.0,Yes,1.0,44.0
+RW-HLTH-00090,Northern,Rulindo,Health Centre,2025-03-25,18.0,Female,RSSB,Child Health,Scheduled,9.0,Tuesday,5.4,12.0,No,3.0,55.0
+RW-HLTH-01103,Northern,Rulindo,Health Centre,2025-06-22,17.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Sunday,2.0,5.0,No,3.0,74.0
+RW-HLTH-00796,Southern,Ruhango,District Hospital,2024-11-16,24.0,Female,None,Emergency,Scheduled,12.0,Saturday,2.6,5.0,Yes,7.0,56.0
+RW-HLTH-01021,Southern,Huye,District Hospital,2024-01-15,13.0,Female,None,General Outpatient,Referral,7.0,Monday,8.5,27.0,Yes,1.0,50.0
+RW-HLTH-00578,Kigali City,Nyarugenge,Health Centre,2024-05-19,49.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Sunday,1.9,5.0,No,2.0,44.0
+RW-HLTH-00130,Eastern,Rwamagana,District Hospital,2024-01-02,42.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Tuesday,6.8,31.0,No,1.0,56.0
+RW-HLTH-00529,Western,Ngororero,District Hospital,2025-11-05,54.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Wednesday,1.1,5.0,No,3.0,45.0
+RW-HLTH-00062,Southern,Huye,Health Centre,2025-04-13,61.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,9.0,Sunday,4.7,32.0,No,3.0,75.0
+RW-HLTH-00904,Western,Rubavu,Health Centre,2024-01-07,5.0,Male,Mutuelle de Santé,Child Health,Walk-in,11.0,Sunday,4.7,26.0,No,2.0,58.0
+RW-HLTH-00468,Kigali City,Nyarugenge,Health Centre,2025-10-17,60.0,Male,Private,General Outpatient,Scheduled,7.0,Friday,4.2,5.0,No,0.0,71.0
+RW-HLTH-00869,Western,Nyabihu,District Hospital,2024-03-30,1.0,Male,Mutuelle de Santé,Child Health,Walk-in,9.0,Saturday,5.8,24.0,No,2.0,43.0
+RW-HLTH-00099,Western,Karongi,Health Centre,2024-02-24,43.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Saturday,13.9,62.0,Yes,0.0,60.0
+RW-HLTH-01069,Western,Ngororero,Health Centre,2025-05-13,0.0,Female,,General Outpatient,Walk-in,9.0,Tuesday,5.4,27.0,No,3.0,50.0
+RW-HLTH-00025,Northern,Musanze,Health Centre,2024-11-29,17.0,Male,Mutuelle de Santé,Maternal Health,Scheduled,10.0,Friday,2.2,19.0,No,3.0,31.0
+RW-HLTH-00966,Western,Karongi,District Hospital,2025-10-25,17.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Saturday,8.3,40.0,No,1.0,41.0
+RW-HLTH-00675,Kigali City,Gasabo,Health Centre,2025-03-10,28.0,Male,Mutuelle de Santé,Emergency,Follow-up,9.0,Monday,1.4,18.0,No,7.0,24.0
+RW-HLTH-00738,Western,Nyabihu,Health Centre,2024-04-03,52.0,Female,None,Child Health,Scheduled,9.0,Wednesday,3.7,26.0,No,0.0,6.0
+RW-HLTH-00833,Western,Karongi,Health Centre,2024-05-11,34.0,Male,Mutuelle de Santé,NCD Clinic,Scheduled,9.0,Saturday,2.1,11.0,Yes,1.0,75.0
+RW-HLTH-01060,Northern,Rulindo,District Hospital,2025-05-13,39.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,9.0,Tuesday,4.0,14.0,No,0.0,56.0
+RW-HLTH-00081,Eastern,Bugesera,Health Centre,2024-12-28,39.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Saturday,7.6,38.0,No,1.0,45.0
+RW-HLTH-00186,Northern,Musanze,District Hospital,2025-10-22,63.0,Male,Mutuelle de Santé,Emergency,Walk-in,8.0,Wednesday,11.8,51.0,No,2.0,57.0
+RW-HLTH-01122,Eastern,Kayonza,Health Centre,2025-12-21,41.0,Male,None,Child Health,Referral,8.0,Sunday,0.9,5.0,No,1.0,61.0
+RW-HLTH-00332,Southern,Gisagara,Health Centre,2024-12-24,20.0,Male,Mutuelle de Santé,Dental,Follow-up,10.0,Tuesday,7.4,29.0,No,3.0,3.0
+RW-HLTH-00239,Southern,Gisagara,Health Centre,2025-07-04,30.0,Female,Mutuelle de Santé,NCD Clinic,Scheduled,9.0,Friday,15.3,81.0,Yes,4.0,60.0
+RW-HLTH-00134,Western,Rubavu,Referral Hospital,2024-04-28,27.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,15.0,Sunday,1.9,19.0,No,2.0,74.0
+RW-HLTH-00997,Southern,Ruhango,Health Centre,2025-09-11,1.0,Female,Mutuelle de Santé,Child Health,Walk-in,7.0,Thursday,13.0,50.0,No,1.0,64.0
+RW-HLTH-00601,Western,Rusizi,Referral Hospital,2024-01-24,50.0,Female,Mutuelle de Santé,Emergency,Follow-up,10.0,Wednesday,4.3,42.0,Yes,1.0,65.0
+RW-HLTH-00019,Kigali City,Nyarugenge,Health Centre,2025-10-23,32.0,Male,None,Dental,Walk-in,8.0,Thursday,3.0,5.0,No,2.0,28.0
+RW-HLTH-00086,Northern,Burera,District Hospital,2024-04-21,31.0,Male,RSSB,NCD Clinic,,10.0,Sunday,6.4,45.0,No,1.0,46.0
+RW-HLTH-00751,Western,Karongi,Health Centre,2024-09-26,26.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,7.0,Thursday,8.9,42.0,No,0.0,41.0
+RW-HLTH-00655,Western,Ngororero,Health Centre,2024-09-30,27.0,Female,Mutuelle de Santé,General Outpatient,Referral,7.0,Monday,3.2,21.0,No,2.0,32.0
+RW-HLTH-00857,Northern,Musanze,Health Centre,2024-08-27,40.0,Female,Mutuelle de Santé,Eye Clinic,Walk-in,10.0,Tuesday,3.1,17.0,No,3.0,47.0
+RW-HLTH-00755,Northern,Burera,Health Centre,2025-09-28,11.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,7.0,Sunday,,24.0,Yes,0.0,42.0
+RW-HLTH-00382,Kigali City,Kicukiro,Health Centre,2025-05-14,39.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,7.0,Wednesday,1.1,5.0,No,2.0,68.0
+RW-HLTH-00207,Western,Karongi,District Hospital,2024-03-22,28.0,Male,RSSB,Maternal Health,Scheduled,8.0,Friday,10.1,57.0,No,1.0,54.0
+RW-HLTH-00930,Western,Rusizi,Health Centre,2025-12-30,23.0,Male,Mutuelle de Santé,General Outpatient,Referral,8.0,Tuesday,6.0,34.0,No,2.0,71.0
+RW-HLTH-00063,Kigali City,Gasabo,Referral Hospital,2024-12-03,25.0,Female,None,General Outpatient,Scheduled,9.0,Tuesday,7.4,22.0,No,7.0,76.0
+RW-HLTH-00520,Northern,Musanze,Health Centre,2025-02-04,27.0,Male,Mutuelle de Santé,Maternal Health,Follow-up,12.0,Tuesday,2.3,11.0,Yes,3.0,30.0
+RW-HLTH-00840,Western,Ngororero,Health Centre,2025-05-15,35.0,Male,None,,Walk-in,8.0,Thursday,6.6,37.0,Yes,5.0,39.0
+RW-HLTH-00860,Kigali City,Nyarugenge,Health Centre,2025-03-16,36.0,Male,Mutuelle de Santé,Emergency,Walk-in,8.0,Sunday,3.6,5.0,No,0.0,49.0
+RW-HLTH-01160,Eastern,Kayonza,Health Centre,2025-04-29,20.0,Male,Private,General Outpatient,Scheduled,8.0,Tuesday,2.0,14.0,No,3.0,29.0
+RW-HLTH-00361,Southern,Gisagara,District Hospital,2024-08-29,49.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,11.0,Thursday,,20.0,No,4.0,56.0
+RW-HLTH-00765,Western,Karongi,Health Centre,2025-10-28,0.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,13.0,Tuesday,0.9,5.0,Yes,3.0,3.0
+RW-HLTH-00936,Western,Rubavu,Health Centre,2024-04-30,41.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,7.0,Tuesday,7.3,42.0,,1.0,42.0
+RW-HLTH-00487,Eastern,Rwamagana,District Hospital,2024-02-11,39.0,Male,Private,General Outpatient,Scheduled,10.0,Sunday,3.5,10.0,No,1.0,84.0
+RW-HLTH-00491,Northern,Rulindo,Health Centre,2025-07-28,67.0,Male,Private,General Outpatient,Scheduled,8.0,Monday,1.0,27.0,No,1.0,9.0
+RW-HLTH-00164,Southern,Muhanga,District Hospital,2024-10-07,20.0,Male,Mutuelle de Santé,Eye Clinic,Follow-up,11.0,Monday,4.0,26.0,No,2.0,36.0
+RW-HLTH-00643,Southern,Ruhango,Health Centre,2024-05-16,60.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Thursday,5.6,29.0,Yes,1.0,30.0
+RW-HLTH-01157,Kigali City,Gasabo,Health Centre,2024-07-28,15.0,Male,Mutuelle de Santé,Eye Clinic,Walk-in,9.0,Sunday,2.1,7.0,No,1.0,25.0
+RW-HLTH-01159,Western,Nyabihu,Health Centre,2024-08-31,25.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,12.0,Saturday,,62.0,No,0.0,36.0
+RW-HLTH-00370,Eastern,Nyagatare,Health Centre,2025-01-24,27.0,Male,None,NCD Clinic,Scheduled,9.0,Friday,5.7,5.0,No,3.0,41.0
+RW-HLTH-00957,Western,Ngororero,Health Centre,2024-03-23,30.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Saturday,6.1,27.0,Yes,4.0,4.0
+RW-HLTH-00979,Kigali City,Kicukiro,District Hospital,2025-02-27,9.0,Female,Mutuelle de Santé,Eye Clinic,Follow-up,7.0,Thursday,11.5,47.0,No,1.0,72.0
+RW-HLTH-00743,Northern,Musanze,District Hospital,2025-02-18,57.0,Male,None,Dental,Follow-up,11.0,Tuesday,4.2,11.0,No,1.0,39.0
+RW-HLTH-01183,Western,Ngororero,Health Centre,2025-11-26,64.0,Male,Mutuelle de Santé,Child Health,,13.0,Wednesday,7.4,25.0,No,2.0,33.0
+RW-HLTH-00872,Kigali City,Nyarugenge,District Hospital,2024-02-07,3.0,Female,RSSB,Child Health,Walk-in,8.0,Wednesday,1.5,21.0,No,4.0,62.0
+RW-HLTH-00336,Southern,Muhanga,District Hospital,2025-08-27,40.0,Female,None,General Outpatient,Scheduled,12.0,Wednesday,1.0,7.0,No,3.0,46.0
+RW-HLTH-00559,Eastern,Kayonza,Health Centre,2024-05-15,30.0,Male,Mutuelle de Santé,NCD Clinic,Referral,9.0,Wednesday,6.8,33.0,No,5.0,51.0
+RW-HLTH-00596,Southern,Muhanga,Health Centre,2025-11-13,30.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,7.0,Thursday,16.4,69.0,Yes,4.0,65.0
+RW-HLTH-00893,Eastern,Gatsibo,Health Centre,2024-09-06,0.0,Female,Mutuelle de Santé,Eye Clinic,Walk-in,10.0,Friday,4.3,25.0,No,3.0,45.0
+RW-HLTH-00721,Western,Rubavu,Health Centre,2024-06-30,45.0,Male,Mutuelle de Santé,General Outpatient,Referral,9.0,Sunday,5.8,27.0,No,0.0,48.0
+RW-HLTH-00095,Southern,Ruhango,Health Centre,2024-02-07,49.0,Female,Mutuelle de Santé,Child Health,Scheduled,10.0,Wednesday,2.2,5.0,Yes,0.0,19.0
+RW-HLTH-00503,Eastern,Kayonza,Health Centre,2024-03-14,35.0,Female,Mutuelle de Santé,Child Health,Walk-in,7.0,Thursday,6.6,60.0,No,3.0,39.0
+RW-HLTH-00233,Western,Rusizi,Health Centre,2025-01-22,7.0,Male,Mutuelle de Santé,Emergency,Follow-up,12.0,Wednesday,6.1,22.0,No,2.0,7.0
+RW-HLTH-00454,Kigali City,Nyarugenge,District Hospital,2025-04-24,30.0,Male,Mutuelle de Santé,Child Health,Walk-in,11.0,Thursday,2.4,14.0,No,3.0,49.0
+RW-HLTH-00363,Western,Ngororero,District Hospital,2024-12-06,17.0,Female,Mutuelle de Santé,Child Health,Scheduled,12.0,Friday,4.3,20.0,No,4.0,36.0
+RW-HLTH-00118,Kigali City,Gasabo,Health Centre,2024-06-28,28.0,Male,Mutuelle de Santé,Maternal Health,Follow-up,11.0,Friday,3.0,27.0,No,5.0,42.0
+RW-HLTH-00927,Western,Nyabihu,District Hospital,2024-04-30,,Female,Mutuelle de Santé,Child Health,Follow-up,12.0,Tuesday,8.0,48.0,No,0.0,42.0
+RW-HLTH-00104,Kigali City,Nyarugenge,District Hospital,2024-01-22,43.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Monday,3.1,16.0,No,5.0,33.0
+RW-HLTH-00354,Western,Rusizi,District Hospital,2025-01-22,47.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Wednesday,11.1,59.0,Yes,0.0,60.0
+RW-HLTH-00403,Southern,Huye,Health Centre,2024-04-14,14.0,Female,Mutuelle de Santé,Child Health,Walk-in,10.0,Sunday,4.1,29.0,No,5.0,45.0
+RW-HLTH-00786,Southern,Muhanga,Health Centre,2025-04-07,8.0,Female,Mutuelle de Santé,Emergency,Walk-in,7.0,Monday,11.4,,No,0.0,40.0
+RW-HLTH-01146,Northern,Musanze,District Hospital,2024-05-18,56.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,7.0,Saturday,4.4,14.0,No,2.0,43.0
+RW-HLTH-00766,Kigali City,Nyarugenge,Health Centre,2024-08-11,59.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,13.0,Sunday,13.5,53.0,Yes,2.0,36.0
+RW-HLTH-00837,Eastern,Bugesera,District Hospital,2024-08-19,47.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,7.0,Monday,3.3,8.0,No,3.0,46.0
+RW-HLTH-00033,Western,Ngororero,District Hospital,2025-01-18,43.0,Male,Mutuelle de Santé,Dental,Walk-in,12.0,Saturday,0.4,11.0,No,2.0,22.0
+RW-HLTH-00364,Eastern,Nyagatare,Health Centre,2025-09-30,22.0,Female,Mutuelle de Santé,Child Health,Walk-in,13.0,Tuesday,11.7,54.0,Yes,1.0,18.0
+RW-HLTH-01076,Southern,Nyanza,Health Centre,2024-10-02,69.0,Male,RSSB,General Outpatient,Scheduled,10.0,Wednesday,6.8,39.0,No,2.0,33.0
+RW-HLTH-00466,Northern,Rulindo,District Hospital,2024-01-21,15.0,Female,Mutuelle de Santé,General Outpatient,,7.0,Sunday,7.8,38.0,No,1.0,87.0
+RW-HLTH-00261,Southern,Muhanga,Health Centre,2025-07-03,16.0,Male,Mutuelle de Santé,Emergency,Walk-in,10.0,Thursday,4.1,28.0,No,1.0,3.0
+RW-HLTH-01048,Southern,Gisagara,District Hospital,2025-01-29,27.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,10.0,Wednesday,2.1,13.0,No,2.0,54.0
+RW-HLTH-00693,Western,Rubavu,Health Centre,2024-08-17,50.0,Male,Mutuelle de Santé,Maternal Health,Scheduled,10.0,Saturday,8.3,33.0,No,3.0,9.0
+RW-HLTH-00807,Eastern,Rwamagana,District Hospital,2024-09-10,62.0,Male,Private,General Outpatient,Scheduled,14.0,Tuesday,2.3,23.0,No,8.0,50.0
+RW-HLTH-01149,Kigali City,Kicukiro,Health Centre,2025-03-05,3.0,Male,None,Maternal Health,Walk-in,7.0,Wednesday,0.2,5.0,No,2.0,45.0
+RW-HLTH-00960,Northern,Rulindo,Health Centre,2024-09-11,33.0,Female,None,Eye Clinic,Walk-in,11.0,Wednesday,4.5,26.0,No,3.0,16.0
+RW-HLTH-01024,Western,Karongi,Health Centre,2025-11-07,27.0,Female,RSSB,General Outpatient,Follow-up,14.0,Friday,2.1,14.0,No,1.0,10.0
+RW-HLTH-01116,Western,Rusizi,District Hospital,2024-04-28,40.0,Female,Mutuelle de Santé,Child Health,Follow-up,12.0,Sunday,4.0,23.0,No,2.0,33.0
+RW-HLTH-01141,Northern,Rulindo,District Hospital,2025-02-28,42.0,Male,RSSB,Emergency,Follow-up,12.0,Friday,7.4,41.0,No,1.0,33.0
+RW-HLTH-00417,Southern,Huye,District Hospital,2024-10-17,13.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Thursday,10.0,59.0,No,1.0,69.0
+RW-HLTH-00775,Southern,Nyanza,District Hospital,2024-12-20,25.0,Male,Mutuelle de Santé,Child Health,Scheduled,8.0,Friday,10.6,56.0,No,3.0,58.0
+RW-HLTH-00376,Eastern,Rwamagana,Health Centre,2025-09-07,40.0,Female,Mutuelle de Santé,Child Health,Follow-up,14.0,Sunday,,12.0,Yes,1.0,39.0
+RW-HLTH-00306,Eastern,Nyagatare,Health Centre,2024-04-27,53.0,Male,RSSB,General Outpatient,Scheduled,7.0,Saturday,4.6,14.0,No,3.0,40.0
+RW-HLTH-00828,Kigali City,Kicukiro,Health Centre,2024-12-17,24.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,13.0,Tuesday,5.3,24.0,Yes,8.0,43.0
+RW-HLTH-00338,Northern,Burera,Health Centre,2024-07-25,54.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,9.0,Thursday,3.9,14.0,No,2.0,33.0
+RW-HLTH-01035,Kigali City,Nyarugenge,Health Centre,2025-04-23,54.0,Female,None,Maternal Health,Walk-in,11.0,Wednesday,4.5,,No,2.0,9.0
+RW-HLTH-00242,Southern,Gisagara,Referral Hospital,2025-06-07,49.0,Female,RSSB,Dental,Walk-in,7.0,Saturday,2.8,5.0,No,2.0,76.0
+RW-HLTH-00619,Eastern,Kayonza,Health Centre,2025-04-18,37.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,8.0,Friday,2.3,5.0,Yes,1.0,49.0
+RW-HLTH-01051,Western,Rubavu,District Hospital,2024-04-03,48.0,Male,None,General Outpatient,Walk-in,13.0,Wednesday,0.5,11.0,No,2.0,54.0
+RW-HLTH-00898,Eastern,Rwamagana,District Hospital,2025-08-06,27.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,7.0,Wednesday,3.2,,,4.0,40.0
+RW-HLTH-01088,Eastern,Nyagatare,District Hospital,2025-08-30,50.0,Male,Mutuelle de Santé,Dental,Scheduled,8.0,Saturday,6.8,35.0,Yes,3.0,28.0
+RW-HLTH-01082,Northern,Musanze,District Hospital,2025-04-29,30.0,Male,None,NCD Clinic,Walk-in,7.0,Tuesday,2.6,5.0,No,4.0,50.0
+RW-HLTH-01198,Southern,Gisagara,Health Centre,2024-12-06,51.0,Male,RSSB,Maternal Health,Walk-in,7.0,Friday,3.2,5.0,No,3.0,46.0
+RW-HLTH-00255,Southern,Nyanza,Health Centre,2025-10-12,0.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,8.0,Sunday,1.4,11.0,No,1.0,54.0
+RW-HLTH-00699,Eastern,Rwamagana,Health Centre,2025-12-27,46.0,Female,Mutuelle de Santé,NCD Clinic,Follow-up,11.0,Saturday,1.1,6.0,Yes,1.0,3.0
+RW-HLTH-00588,Western,Rubavu,District Hospital,2024-10-03,29.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,11.0,Thursday,3.5,10.0,No,0.0,83.0
+RW-HLTH-00731,Eastern,Kayonza,Health Centre,2025-08-04,10.0,Female,RSSB,Child Health,Walk-in,7.0,Monday,3.6,32.0,No,1.0,70.0
+RW-HLTH-00125,Kigali City,Nyarugenge,Health Centre,2025-06-20,38.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,12.0,Friday,1.1,11.0,No,0.0,21.0
+RW-HLTH-01161,Southern,Gisagara,Health Centre,2024-03-31,28.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,10.0,Sunday,,55.0,No,1.0,39.0
+RW-HLTH-00500,Northern,Musanze,District Hospital,2025-03-30,13.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Sunday,9.1,36.0,No,2.0,68.0
+RW-HLTH-00287,Western,Karongi,Health Centre,2025-01-22,39.0,Female,Mutuelle de Santé,Child Health,Walk-in,7.0,Wednesday,6.8,39.0,No,2.0,22.0
+RW-HLTH-00624,Western,Rusizi,District Hospital,2024-12-06,19.0,Female,,General Outpatient,Walk-in,9.0,Friday,11.5,30.0,Yes,2.0,92.0
+RW-HLTH-01128,Western,Ngororero,District Hospital,2024-04-28,41.0,Female,Mutuelle de Santé,Child Health,Walk-in,11.0,Sunday,3.0,9.0,No,4.0,32.0
+RW-HLTH-00701,Western,Rusizi,Health Centre,2024-12-09,45.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,12.0,Monday,5.1,10.0,No,3.0,21.0
+RW-HLTH-00954,Eastern,Kayonza,Health Centre,2025-12-13,68.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,7.0,Saturday,19.3,70.0,No,4.0,46.0
+RW-HLTH-01073,Western,Rubavu,Health Centre,2024-11-20,3.0,Female,Mutuelle de Santé,Eye Clinic,Scheduled,9.0,Wednesday,3.5,22.0,No,3.0,18.0
+RW-HLTH-00831,Northern,Burera,District Hospital,2024-05-16,5.0,Male,Mutuelle de Santé,Child Health,Follow-up,11.0,Thursday,3.4,29.0,No,2.0,48.0
+RW-HLTH-01124,Eastern,Bugesera,Health Centre,2025-01-23,33.0,Male,Mutuelle de Santé,NCD Clinic,Follow-up,8.0,Thursday,0.6,5.0,No,2.0,25.0
+RW-HLTH-01144,Kigali City,Gasabo,Health Centre,2024-12-23,78.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,8.0,Monday,11.1,49.0,No,2.0,71.0
+RW-HLTH-00702,Eastern,Rwamagana,District Hospital,2025-09-06,64.0,Female,Mutuelle de Santé,Child Health,Walk-in,10.0,Saturday,12.0,51.0,No,0.0,45.0
+RW-HLTH-00395,Eastern,Gatsibo,Health Centre,2024-09-27,0.0,Female,RSSB,General Outpatient,Scheduled,12.0,Friday,,51.0,No,3.0,26.0
+RW-HLTH-01050,Northern,Gicumbi,Health Centre,2024-04-27,0.0,Male,Mutuelle de Santé,Emergency,Walk-in,12.0,Saturday,9.2,39.0,No,3.0,3.0
+RW-HLTH-00571,Northern,Gicumbi,Health Centre,2025-08-19,45.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,9.0,Tuesday,2.5,20.0,No,1.0,47.0
+RW-HLTH-00162,Northern,Musanze,District Hospital,2024-04-03,6.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,7.0,Wednesday,4.8,26.0,No,3.0,25.0
+RW-HLTH-00284,Southern,Gisagara,Health Centre,2025-09-01,3.0,Male,Private,Eye Clinic,Walk-in,9.0,Monday,2.9,12.0,No,3.0,20.0
+RW-HLTH-01034,Northern,Burera,Health Centre,2024-02-18,36.0,Male,Mutuelle de Santé,Emergency,Referral,14.0,Sunday,1.3,22.0,No,2.0,44.0
+RW-HLTH-00599,Western,Nyabihu,Health Centre,2025-05-30,12.0,Male,RSSB,General Outpatient,Referral,12.0,Friday,1.9,16.0,No,0.0,42.0
+RW-HLTH-01169,Southern,Muhanga,Health Centre,2024-07-28,61.0,Female,Private,General Outpatient,Walk-in,11.0,Sunday,3.0,26.0,No,1.0,31.0
+RW-HLTH-00351,Northern,Gicumbi,Health Centre,2024-10-04,9.0,Male,RSSB,General Outpatient,Walk-in,12.0,Friday,6.5,12.0,No,1.0,51.0
+RW-HLTH-00817,Western,Karongi,Health Centre,2025-04-15,54.0,Male,RSSB,General Outpatient,Walk-in,12.0,Tuesday,3.0,22.0,Yes,3.0,28.0
+RW-HLTH-00645,Southern,Nyanza,Health Centre,2024-06-19,24.0,Male,Mutuelle de Santé,Emergency,Follow-up,8.0,Wednesday,3.4,29.0,No,1.0,26.0
+RW-HLTH-01190,Kigali City,Kicukiro,Health Centre,2024-08-20,19.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Tuesday,7.8,17.0,No,1.0,47.0
+RW-HLTH-01019,Northern,Gicumbi,Health Centre,2025-06-18,25.0,Male,RSSB,General Outpatient,Walk-in,7.0,Wednesday,7.2,41.0,Yes,0.0,51.0
+RW-HLTH-00448,Eastern,Bugesera,Health Centre,2025-09-18,6.0,Female,None,General Outpatient,,9.0,Thursday,7.2,21.0,No,4.0,63.0
+RW-HLTH-01070,Northern,Burera,Health Centre,2024-01-17,0.0,Female,Mutuelle de Santé,Emergency,Follow-up,7.0,Wednesday,8.4,34.0,No,2.0,41.0
+RW-HLTH-00674,Eastern,Bugesera,Health Centre,2025-09-16,44.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,7.0,Tuesday,11.7,51.0,Yes,0.0,71.0
+RW-HLTH-00988,Western,Karongi,Health Centre,2025-10-09,40.0,Female,Mutuelle de Santé,Emergency,Walk-in,7.0,Thursday,5.6,13.0,Yes,2.0,49.0
+RW-HLTH-00614,Northern,Musanze,Health Centre,2025-04-03,31.0,Male,Mutuelle de Santé,General Outpatient,Referral,11.0,Thursday,9.6,34.0,No,1.0,18.0
+RW-HLTH-01053,Kigali City,Gasabo,District Hospital,2024-09-15,43.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Sunday,4.7,19.0,No,1.0,67.0
+RW-HLTH-00055,Southern,Ruhango,District Hospital,2025-02-23,27.0,Male,Mutuelle de Santé,Maternal Health,Scheduled,9.0,Sunday,,5.0,No,3.0,16.0
+RW-HLTH-00342,Kigali City,Gasabo,Health Centre,2025-05-05,56.0,Female,RSSB,General Outpatient,Walk-in,7.0,Monday,6.0,27.0,No,1.0,54.0
+RW-HLTH-01096,Southern,Muhanga,Health Centre,2024-06-05,67.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,10.0,Wednesday,7.0,,No,0.0,56.0
+RW-HLTH-00107,Western,Ngororero,Health Centre,2024-05-10,32.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Friday,2.8,13.0,No,1.0,31.0
+RW-HLTH-00002,Western,Karongi,Health Centre,2025-05-17,29.0,Male,Mutuelle de Santé,Child Health,Walk-in,9.0,Saturday,5.6,30.0,No,1.0,49.0
+RW-HLTH-00049,Western,Rubavu,Health Centre,2024-01-31,53.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,12.0,Wednesday,2.7,19.0,Yes,3.0,45.0
+RW-HLTH-01180,Eastern,Nyagatare,District Hospital,2024-05-14,11.0,Female,None,General Outpatient,Walk-in,10.0,Tuesday,7.5,21.0,No,0.0,28.0
+RW-HLTH-00435,Kigali City,Kicukiro,District Hospital,2025-01-23,25.0,Female,RSSB,NCD Clinic,Scheduled,7.0,Thursday,1.6,9.0,No,3.0,80.0
+RW-HLTH-00712,Kigali City,Nyarugenge,Health Centre,2025-11-23,16.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,8.0,Sunday,4.8,21.0,Yes,3.0,34.0
+RW-HLTH-00593,Western,Nyabihu,District Hospital,2024-05-24,32.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,10.0,Friday,8.1,27.0,No,1.0,66.0
+RW-HLTH-00760,Western,Karongi,Health Centre,2025-07-08,23.0,Male,Mutuelle de Santé,Emergency,Walk-in,10.0,Tuesday,6.1,20.0,Yes,2.0,3.0
+RW-HLTH-00553,Southern,Nyanza,Health Centre,2025-03-01,6.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Saturday,5.6,21.0,No,1.0,3.0
+RW-HLTH-01165,Eastern,Bugesera,Health Centre,2025-06-08,5.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Sunday,5.9,26.0,No,3.0,28.0
+RW-HLTH-00694,Western,Rubavu,District Hospital,2025-08-17,6.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,8.0,Sunday,7.0,31.0,Yes,0.0,66.0
+RW-HLTH-00592,Northern,Burera,Health Centre,2025-05-20,50.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Tuesday,0.4,5.0,No,1.0,45.0
+RW-HLTH-00433,Southern,Muhanga,District Hospital,2024-09-05,36.0,Male,None,Emergency,Scheduled,7.0,Thursday,3.6,16.0,Yes,3.0,31.0
+RW-HLTH-00388,Northern,Rulindo,Health Centre,2025-06-19,44.0,Female,Mutuelle de Santé,Maternal Health,Referral,9.0,Thursday,2.6,9.0,No,1.0,56.0
+RW-HLTH-00257,Eastern,Kayonza,Referral Hospital,2025-05-14,39.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Wednesday,2.5,16.0,No,0.0,57.0
+RW-HLTH-00011,Western,Rusizi,District Hospital,2025-05-16,53.0,Male,None,General Outpatient,Scheduled,8.0,Friday,2.8,,No,3.0,41.0
+RW-HLTH-00220,Southern,Nyanza,Health Centre,2024-07-12,2.0,Male,Mutuelle de Santé,Child Health,Walk-in,11.0,Friday,6.8,37.0,No,2.0,24.0
+RW-HLTH-01115,Northern,Rulindo,Health Centre,2025-06-17,19.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,12.0,Tuesday,2.6,20.0,No,2.0,14.0
+RW-HLTH-00030,Northern,Burera,Health Centre,2024-03-06,46.0,Male,None,General Outpatient,Walk-in,11.0,Wednesday,6.0,42.0,Yes,1.0,51.0
+RW-HLTH-00677,Northern,Burera,Health Centre,2025-09-19,18.0,Female,Private,General Outpatient,Scheduled,13.0,Friday,1.9,28.0,No,2.0,9.0
+RW-HLTH-00537,Eastern,Kayonza,Health Centre,2025-03-22,36.0,Male,None,Child Health,Walk-in,7.0,Saturday,7.7,40.0,No,1.0,31.0
+RW-HLTH-00096,Northern,Gicumbi,Health Centre,2024-12-30,22.0,Male,Private,Maternal Health,Referral,10.0,Monday,1.6,15.0,No,4.0,35.0
+RW-HLTH-00015,Kigali City,Nyarugenge,Health Centre,2024-09-10,46.0,Female,Mutuelle de Santé,NCD Clinic,Referral,11.0,Tuesday,2.3,16.0,No,5.0,59.0
+RW-HLTH-00926,Kigali City,Nyarugenge,District Hospital,2025-12-30,42.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,10.0,Tuesday,4.9,25.0,No,,26.0
+RW-HLTH-00494,Northern,Burera,Health Centre,2025-02-15,34.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Saturday,5.0,33.0,No,2.0,59.0
+RW-HLTH-00691,Western,Ngororero,District Hospital,2025-11-19,15.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,9.0,Wednesday,11.3,29.0,No,4.0,68.0
+RW-HLTH-00440,Western,Rubavu,District Hospital,2025-08-14,25.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,11.0,Thursday,3.6,23.0,No,7.0,36.0
+RW-HLTH-00595,Western,Rubavu,District Hospital,2024-10-06,33.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,8.0,Sunday,4.6,16.0,No,2.0,68.0
+RW-HLTH-00203,Kigali City,Gasabo,Health Centre,2024-12-11,62.0,Male,,General Outpatient,Walk-in,13.0,Wednesday,4.7,5.0,No,0.0,21.0
+RW-HLTH-00662,Northern,Rulindo,Health Centre,2025-01-30,48.0,Female,Mutuelle de Santé,Dental,Walk-in,9.0,Thursday,6.9,25.0,No,5.0,24.0
+RW-HLTH-00896,Northern,Musanze,Health Centre,2024-11-29,33.0,Male,RSSB,Eye Clinic,Scheduled,12.0,Friday,4.5,11.0,No,0.0,12.0
+RW-HLTH-00776,Southern,Gisagara,Health Centre,2025-10-21,11.0,Female,RSSB,General Outpatient,Walk-in,9.0,Tuesday,1.4,12.0,No,2.0,45.0
+RW-HLTH-00856,Southern,Nyanza,Health Centre,2025-01-04,24.0,Female,Mutuelle de Santé,Child Health,Follow-up,7.0,Saturday,1.1,11.0,No,3.0,72.0
+RW-HLTH-01110,Eastern,Gatsibo,Health Centre,2024-04-17,60.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,12.0,Wednesday,3.0,16.0,No,7.0,15.0
+RW-HLTH-01129,Western,Karongi,Health Centre,2024-07-17,40.0,Male,None,General Outpatient,Scheduled,13.0,Wednesday,4.2,23.0,No,5.0,26.0
+RW-HLTH-01068,Northern,Gicumbi,District Hospital,2025-01-06,44.0,Male,Mutuelle de Santé,Dental,Walk-in,11.0,Monday,4.3,24.0,No,3.0,11.0
+RW-HLTH-00302,Southern,Huye,Health Centre,2024-12-24,48.0,Female,,Maternal Health,Walk-in,8.0,Tuesday,1.2,10.0,No,2.0,3.0
+RW-HLTH-00653,Eastern,Kayonza,Health Centre,2024-09-25,27.0,Female,Mutuelle de Santé,Maternal Health,Scheduled,9.0,Wednesday,,37.0,No,4.0,13.0
+RW-HLTH-01158,Eastern,Gatsibo,Health Centre,2025-06-10,18.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Tuesday,5.0,18.0,No,1.0,58.0
+RW-HLTH-00340,Kigali City,Kicukiro,Health Centre,2024-01-21,31.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,11.0,Sunday,4.7,33.0,Yes,3.0,30.0
+RW-HLTH-00704,Southern,Nyanza,District Hospital,2025-12-01,48.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,7.0,Monday,9.1,40.0,No,6.0,56.0
+RW-HLTH-01064,Southern,Gisagara,Health Centre,2025-11-13,38.0,Male,Mutuelle de Santé,Maternal Health,Scheduled,7.0,Thursday,1.6,9.0,No,3.0,74.0
+RW-HLTH-00745,Eastern,Gatsibo,District Hospital,2024-07-02,61.0,Female,RSSB,Eye Clinic,Walk-in,8.0,Tuesday,4.9,38.0,No,5.0,74.0
+RW-HLTH-00876,Northern,Burera,District Hospital,2025-04-18,31.0,Female,Mutuelle de Santé,Child Health,Scheduled,7.0,Friday,13.7,69.0,No,2.0,56.0
+RW-HLTH-00687,Southern,Ruhango,Health Centre,2024-02-08,32.0,Female,Mutuelle de Santé,Child Health,Scheduled,9.0,Thursday,7.1,30.0,No,5.0,46.0
+RW-HLTH-00486,Eastern,Rwamagana,Health Centre,2024-03-06,0.0,Female,Mutuelle de Santé,Child Health,Walk-in,7.0,Wednesday,6.2,30.0,No,3.0,5.0
+RW-HLTH-00344,Eastern,Bugesera,Health Centre,2024-02-01,14.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,9.0,Thursday,1.0,12.0,No,3.0,3.0
+RW-HLTH-00414,Eastern,Gatsibo,Health Centre,2024-08-30,43.0,Female,Mutuelle de Santé,General Outpatient,Referral,14.0,Friday,2.8,5.0,No,1.0,35.0
+RW-HLTH-00138,Southern,Muhanga,Health Centre,2025-07-24,33.0,Male,Mutuelle de Santé,,Walk-in,9.0,Thursday,6.5,34.0,No,4.0,46.0
+RW-HLTH-00987,Northern,Musanze,District Hospital,2025-04-21,40.0,Male,,NCD Clinic,Follow-up,12.0,Monday,5.1,34.0,No,1.0,19.0
+RW-HLTH-01184,Northern,Burera,Health Centre,2024-09-11,63.0,Female,None,Child Health,Walk-in,9.0,Wednesday,1.9,7.0,No,1.0,33.0
+RW-HLTH-00556,Eastern,Rwamagana,Health Centre,2025-10-18,63.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,8.0,Saturday,9.2,26.0,No,0.0,43.0
+RW-HLTH-00151,Western,Rubavu,District Hospital,2024-02-13,32.0,Male,Private,Child Health,Scheduled,11.0,Tuesday,5.5,27.0,No,6.0,28.0
+RW-HLTH-00337,Kigali City,Kicukiro,Health Centre,2025-08-22,24.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,7.0,Friday,3.4,34.0,No,6.0,53.0
+RW-HLTH-00296,Southern,Gisagara,District Hospital,2025-09-03,28.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,10.0,Wednesday,10.0,47.0,No,4.0,48.0
+RW-HLTH-00068,Western,Nyabihu,Health Centre,2025-06-29,0.0,Male,None,Child Health,Follow-up,9.0,Sunday,6.7,,No,3.0,42.0
+RW-HLTH-00457,Southern,Ruhango,Health Centre,2024-11-14,42.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,13.0,Thursday,4.0,,Yes,3.0,27.0
+RW-HLTH-00585,Southern,Ruhango,Health Centre,2025-01-28,26.0,Male,Mutuelle de Santé,Child Health,Scheduled,8.0,Tuesday,8.7,34.0,Yes,5.0,71.0
+RW-HLTH-00669,Kigali City,Nyarugenge,District Hospital,2024-08-19,21.0,Female,Mutuelle de Santé,Child Health,Walk-in,10.0,Monday,2.7,7.0,No,2.0,60.0
+RW-HLTH-01042,Southern,Huye,Health Centre,2025-07-28,46.0,Female,Mutuelle de Santé,Emergency,Follow-up,9.0,Monday,6.6,26.0,No,1.0,40.0
+RW-HLTH-00390,Western,Nyabihu,District Hospital,2024-09-21,44.0,Male,RSSB,Eye Clinic,Walk-in,7.0,Saturday,9.3,57.0,No,4.0,35.0
+RW-HLTH-00386,Southern,Huye,Health Centre,2024-03-28,0.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Thursday,5.8,33.0,No,2.0,18.0
+RW-HLTH-00823,Northern,Burera,Health Centre,2025-12-30,12.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,8.0,Tuesday,13.3,40.0,No,2.0,16.0
+RW-HLTH-00066,Southern,Nyanza,District Hospital,2025-10-21,27.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,11.0,Tuesday,8.0,35.0,No,4.0,22.0
+RW-HLTH-00548,Western,Rubavu,Health Centre,2025-12-26,22.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,9.0,Friday,15.2,80.0,No,3.0,58.0
+RW-HLTH-00540,Kigali City,Gasabo,Health Centre,2024-02-13,65.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,11.0,Tuesday,0.5,11.0,No,6.0,43.0
+RW-HLTH-00682,Western,Nyabihu,District Hospital,2024-12-23,0.0,Male,Mutuelle de Santé,Child Health,Follow-up,14.0,Monday,7.3,38.0,No,1.0,33.0
+RW-HLTH-00018,Western,Karongi,Health Centre,2025-02-03,31.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Monday,6.1,31.0,Yes,3.0,15.0
+RW-HLTH-00339,Southern,Muhanga,Health Centre,2024-01-24,30.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Wednesday,2.2,36.0,No,2.0,56.0
+RW-HLTH-00072,Northern,Rulindo,Health Centre,2024-11-29,42.0,Male,None,General Outpatient,Scheduled,14.0,Friday,3.7,29.0,No,2.0,17.0
+RW-HLTH-01010,Southern,Gisagara,Health Centre,2024-07-26,14.0,Male,Mutuelle de Santé,,Walk-in,10.0,Friday,4.1,16.0,No,1.0,24.0
+RW-HLTH-00449,Eastern,Nyagatare,Referral Hospital,2024-07-22,59.0,Male,Mutuelle de Santé,Emergency,Walk-in,15.0,Monday,6.6,14.0,No,5.0,49.0
+RW-HLTH-00999,Eastern,Rwamagana,Health Centre,2025-11-04,72.0,Female,None,General Outpatient,Walk-in,10.0,Tuesday,14.2,65.0,Yes,4.0,77.0
+RW-HLTH-00349,Southern,Nyanza,District Hospital,2025-01-09,12.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,10.0,Thursday,6.0,14.0,No,1.0,90.0
+RW-HLTH-00041,Kigali City,Gasabo,Health Centre,2025-04-26,60.0,Female,None,Child Health,Follow-up,8.0,Saturday,1.8,5.0,No,3.0,49.0
+RW-HLTH-00198,Western,Ngororero,Health Centre,2025-05-15,44.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,8.0,Thursday,6.5,19.0,No,0.0,57.0
+RW-HLTH-00143,Western,Rubavu,Health Centre,2024-09-19,27.0,Female,Mutuelle de Santé,Child Health,Follow-up,12.0,Thursday,5.0,28.0,Yes,4.0,25.0
+RW-HLTH-00441,Southern,Nyanza,District Hospital,2025-11-25,33.0,Female,Mutuelle de Santé,Emergency,Follow-up,9.0,Tuesday,2.2,17.0,No,1.0,37.0
+RW-HLTH-00948,Southern,Huye,Health Centre,2025-07-14,0.0,Female,RSSB,General Outpatient,Walk-in,9.0,Monday,6.0,20.0,No,0.0,59.0
+RW-HLTH-01162,Northern,Burera,Health Centre,2024-06-07,34.0,Female,Mutuelle de Santé,Emergency,Follow-up,10.0,Friday,1.1,5.0,No,4.0,26.0
+RW-HLTH-01030,Kigali City,Gasabo,Health Centre,2025-07-14,21.0,Male,Private,General Outpatient,Walk-in,13.0,Monday,6.8,44.0,No,1.0,39.0
+RW-HLTH-00811,Southern,Ruhango,Health Centre,2025-01-22,15.0,Female,Mutuelle de Santé,Child Health,Walk-in,7.0,Wednesday,10.2,43.0,No,2.0,24.0
+RW-HLTH-00774,Eastern,Rwamagana,Health Centre,2024-08-06,7.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,9.0,Tuesday,5.0,32.0,Yes,4.0,45.0
+RW-HLTH-00572,Kigali City,Gasabo,Referral Hospital,2024-09-30,0.0,Male,None,General Outpatient,Scheduled,12.0,Monday,5.1,13.0,No,1.0,54.0
+RW-HLTH-00026,Eastern,Rwamagana,District Hospital,2024-01-06,52.0,Female,Private,Child Health,Walk-in,13.0,Saturday,5.3,11.0,No,3.0,44.0
+RW-HLTH-00890,Kigali City,Nyarugenge,District Hospital,2024-03-13,28.0,Male,RSSB,Child Health,Walk-in,7.0,Wednesday,10.3,51.0,No,3.0,62.0
+RW-HLTH-00750,Southern,Gisagara,Referral Hospital,2025-05-03,60.0,Male,Mutuelle de Santé,Dental,Walk-in,7.0,Saturday,7.9,36.0,Yes,1.0,88.0
+RW-HLTH-00451,Southern,Muhanga,Health Centre,2025-12-04,11.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Thursday,6.4,17.0,No,2.0,55.0
+RW-HLTH-00206,Eastern,Gatsibo,District Hospital,2025-03-06,65.0,Male,None,Dental,Walk-in,8.0,Thursday,5.5,27.0,No,1.0,38.0
+RW-HLTH-00109,Kigali City,Nyarugenge,District Hospital,2025-03-25,10.0,Male,RSSB,Emergency,Walk-in,13.0,Tuesday,3.6,22.0,No,2.0,43.0
+RW-HLTH-00218,Eastern,Rwamagana,Health Centre,2024-10-06,30.0,Male,Mutuelle de Santé,Child Health,Follow-up,9.0,Sunday,5.6,38.0,No,0.0,24.0
+RW-HLTH-01118,Eastern,Kayonza,Health Centre,2024-01-03,10.0,Female,Mutuelle de Santé,Dental,Walk-in,9.0,Wednesday,5.4,34.0,No,1.0,3.0
+RW-HLTH-00610,Eastern,Kayonza,Health Centre,2025-04-20,8.0,Female,RSSB,General Outpatient,Walk-in,11.0,Sunday,8.6,38.0,No,1.0,38.0
+RW-HLTH-00060,Eastern,Nyagatare,Health Centre,2025-12-19,32.0,Male,Mutuelle de Santé,Child Health,Scheduled,9.0,Friday,4.2,22.0,No,3.0,57.0
+RW-HLTH-00475,Northern,Gicumbi,District Hospital,2024-12-21,65.0,Female,Mutuelle de Santé,Child Health,Scheduled,7.0,Saturday,2.0,8.0,No,2.0,55.0
+RW-HLTH-00224,Southern,Muhanga,Health Centre,2024-04-24,35.0,Female,RSSB,General Outpatient,Follow-up,15.0,Wednesday,2.7,5.0,No,1.0,32.0
+RW-HLTH-00444,Western,Rubavu,Health Centre,2025-08-29,52.0,Female,Mutuelle de Santé,Maternal Health,Referral,7.0,Friday,7.2,32.0,No,0.0,53.0
+RW-HLTH-01134,Southern,Gisagara,Health Centre,2024-03-12,32.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Tuesday,3.4,8.0,No,1.0,50.0
+RW-HLTH-00844,Eastern,Kayonza,District Hospital,2024-11-11,31.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,15.0,Monday,1.9,7.0,No,0.0,51.0
+RW-HLTH-00152,Northern,Musanze,Health Centre,2024-12-16,60.0,Male,Mutuelle de Santé,Dental,Scheduled,10.0,Monday,2.4,5.0,No,,13.0
+RW-HLTH-00523,Northern,Gicumbi,Health Centre,2025-11-04,29.0,Female,Mutuelle de Santé,Eye Clinic,Referral,9.0,Tuesday,0.3,5.0,No,2.0,41.0
+RW-HLTH-00443,Northern,Musanze,Health Centre,2025-12-13,30.0,Male,RSSB,Maternal Health,Walk-in,9.0,Saturday,6.6,39.0,No,2.0,39.0
+RW-HLTH-00008,Western,Ngororero,Health Centre,2025-03-15,32.0,Male,Mutuelle de Santé,Emergency,Follow-up,10.0,Saturday,6.6,33.0,Yes,3.0,3.0
+RW-HLTH-00155,Southern,Huye,Health Centre,2024-08-18,18.0,Female,Mutuelle de Santé,General Outpatient,Referral,10.0,Sunday,6.1,31.0,Yes,3.0,50.0
+RW-HLTH-00793,Kigali City,Nyarugenge,Health Centre,2024-10-11,34.0,Female,,Child Health,Scheduled,10.0,Friday,4.1,16.0,No,1.0,27.0
+RW-HLTH-00744,Eastern,Nyagatare,District Hospital,2025-03-06,59.0,Male,Mutuelle de Santé,Maternal Health,Scheduled,9.0,Thursday,1.1,14.0,No,6.0,73.0
+RW-HLTH-00889,Western,Ngororero,Health Centre,2025-11-20,,Male,Mutuelle de Santé,General Outpatient,Scheduled,9.0,Thursday,8.8,25.0,No,,29.0
+RW-HLTH-00269,Northern,Burera,Health Centre,2025-05-29,15.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,11.0,Thursday,22.8,91.0,No,0.0,9.0
+RW-HLTH-00621,Western,Ngororero,District Hospital,2025-12-12,7.0,Female,Mutuelle de Santé,NCD Clinic,Scheduled,8.0,Friday,12.1,69.0,No,1.0,54.0
+RW-HLTH-01005,Kigali City,Gasabo,Health Centre,2024-06-11,41.0,Female,Private,Eye Clinic,Walk-in,9.0,Tuesday,5.0,37.0,No,3.0,18.0
+RW-HLTH-00038,Kigali City,Gasabo,Health Centre,2025-12-01,32.0,Male,Private,NCD Clinic,Walk-in,10.0,Monday,4.3,19.0,Yes,4.0,59.0
+RW-HLTH-00259,Eastern,Bugesera,District Hospital,2024-08-04,57.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,7.0,Sunday,6.6,29.0,No,2.0,60.0
+RW-HLTH-01059,Eastern,Gatsibo,Health Centre,2024-08-26,22.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,7.0,Monday,1.6,5.0,,1.0,51.0
+RW-HLTH-00829,Southern,Nyanza,Health Centre,2024-11-11,31.0,Female,RSSB,General Outpatient,Scheduled,12.0,Monday,,26.0,No,3.0,33.0
+RW-HLTH-00321,Western,Nyabihu,District Hospital,2025-12-23,1.0,Female,,General Outpatient,Follow-up,12.0,Tuesday,22.8,103.0,No,4.0,49.0
+RW-HLTH-00070,Southern,Huye,District Hospital,2025-06-17,20.0,Male,Mutuelle de Santé,Dental,Referral,7.0,Tuesday,2.8,7.0,Yes,7.0,18.0
+RW-HLTH-00222,Kigali City,Nyarugenge,Health Centre,2024-10-20,9.0,Male,Mutuelle de Santé,Dental,Walk-in,9.0,Sunday,6.5,30.0,No,0.0,45.0
+RW-HLTH-00609,Eastern,Gatsibo,District Hospital,2024-08-12,0.0,Female,Private,General Outpatient,Walk-in,11.0,Monday,3.5,39.0,No,4.0,13.0
+RW-HLTH-00508,Southern,Ruhango,Health Centre,2025-01-12,40.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,8.0,Sunday,11.2,51.0,No,,3.0
+RW-HLTH-01135,Northern,Gicumbi,Health Centre,2024-05-26,53.0,Male,Mutuelle de Santé,Dental,Scheduled,13.0,Sunday,5.3,13.0,No,1.0,3.0
+RW-HLTH-00304,Northern,Burera,District Hospital,2025-02-22,0.0,Female,RSSB,Maternal Health,Walk-in,7.0,Saturday,3.0,15.0,No,2.0,40.0
+RW-HLTH-00865,Western,Nyabihu,Health Centre,2025-10-04,,Male,Mutuelle de Santé,Child Health,Scheduled,8.0,Saturday,4.1,10.0,No,,20.0
+RW-HLTH-00093,Western,Karongi,Health Centre,2025-08-23,5.0,Female,Mutuelle de Santé,Maternal Health,Follow-up,9.0,Saturday,7.5,42.0,No,0.0,41.0
+RW-HLTH-00141,Northern,Burera,Health Centre,2024-11-25,9.0,Female,RSSB,Child Health,Walk-in,12.0,Monday,5.4,8.0,Yes,3.0,3.0
+RW-HLTH-00051,Eastern,Gatsibo,Health Centre,2025-05-11,55.0,Female,Private,NCD Clinic,Walk-in,11.0,Sunday,1.3,9.0,No,1.0,16.0
+RW-HLTH-00139,Western,Rubavu,Health Centre,2024-02-19,15.0,Female,Mutuelle de Santé,Child Health,Follow-up,7.0,Monday,3.8,10.0,No,3.0,65.0
+RW-HLTH-00792,Eastern,Gatsibo,District Hospital,2024-09-09,73.0,Female,Mutuelle de Santé,Child Health,Scheduled,8.0,Monday,6.5,13.0,No,1.0,59.0
+RW-HLTH-00649,Southern,Ruhango,Health Centre,2024-08-10,43.0,Male,RSSB,NCD Clinic,Scheduled,11.0,Saturday,8.1,23.0,No,1.0,29.0
+RW-HLTH-01155,Northern,Burera,Health Centre,2024-11-04,35.0,Male,Mutuelle de Santé,General Outpatient,Referral,7.0,Monday,4.7,34.0,No,0.0,71.0
+RW-HLTH-00231,Western,Nyabihu,Health Centre,2025-03-31,23.0,Male,Private,General Outpatient,Scheduled,10.0,Monday,5.3,36.0,No,3.0,41.0
+RW-HLTH-00955,Southern,Huye,Health Centre,2024-04-22,20.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,13.0,Monday,6.2,9.0,No,4.0,19.0
+RW-HLTH-01137,Western,Rubavu,Health Centre,2025-07-16,51.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,13.0,Wednesday,8.4,40.0,No,2.0,23.0
+RW-HLTH-00713,Eastern,Gatsibo,Health Centre,2025-11-05,33.0,Male,RSSB,Eye Clinic,Scheduled,12.0,Wednesday,8.4,43.0,Yes,4.0,20.0
+RW-HLTH-00032,Southern,Ruhango,Health Centre,2025-09-13,48.0,Female,None,General Outpatient,Walk-in,12.0,Saturday,2.0,12.0,No,0.0,29.0
+RW-HLTH-00196,Western,Karongi,Health Centre,2024-05-16,48.0,Female,None,General Outpatient,Scheduled,13.0,Thursday,5.6,19.0,No,1.0,11.0
+RW-HLTH-00505,Southern,Muhanga,Health Centre,2025-01-09,28.0,Female,None,Dental,Follow-up,11.0,Thursday,4.7,32.0,No,1.0,32.0
+RW-HLTH-00795,Northern,Musanze,Health Centre,2024-04-02,54.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,7.0,Tuesday,3.8,29.0,Yes,3.0,46.0
+RW-HLTH-00516,Southern,Gisagara,District Hospital,2025-04-25,48.0,Male,None,General Outpatient,Walk-in,8.0,Friday,6.6,38.0,Yes,2.0,69.0
+RW-HLTH-01036,Kigali City,Gasabo,Health Centre,2024-04-27,43.0,Female,Private,General Outpatient,Walk-in,9.0,Saturday,0.8,11.0,No,1.0,37.0
+RW-HLTH-00983,Western,Ngororero,Health Centre,2024-09-22,25.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,11.0,Sunday,1.9,25.0,No,3.0,8.0
+RW-HLTH-00013,Northern,Burera,Health Centre,2025-03-11,12.0,Male,None,Child Health,Follow-up,13.0,Tuesday,13.7,50.0,No,1.0,14.0
+RW-HLTH-00137,Kigali City,Nyarugenge,District Hospital,2025-08-26,27.0,Male,Mutuelle de Santé,Maternal Health,Follow-up,7.0,Tuesday,4.5,17.0,No,2.0,63.0
+RW-HLTH-00268,Kigali City,Kicukiro,District Hospital,2024-06-01,52.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,8.0,Saturday,3.9,22.0,No,3.0,75.0
+RW-HLTH-00275,Southern,Nyanza,District Hospital,2025-11-29,38.0,Female,RSSB,Emergency,Walk-in,8.0,Saturday,5.8,26.0,Yes,1.0,51.0
+RW-HLTH-01092,Northern,Musanze,Health Centre,2024-04-02,50.0,Female,Mutuelle de Santé,NCD Clinic,Scheduled,8.0,Tuesday,8.1,36.0,Yes,0.0,22.0
+RW-HLTH-00402,Northern,Rulindo,Health Centre,2024-06-28,40.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Friday,3.5,5.0,No,6.0,34.0
+RW-HLTH-00634,Western,Karongi,Health Centre,2024-08-20,20.0,Male,Private,Emergency,Follow-up,9.0,Tuesday,0.9,5.0,No,4.0,27.0
+RW-HLTH-00912,Northern,Burera,District Hospital,2025-06-05,44.0,Male,None,General Outpatient,Walk-in,8.0,Thursday,3.5,12.0,Yes,2.0,52.0
+RW-HLTH-01084,Western,Rubavu,Health Centre,2025-09-02,53.0,Female,RSSB,Child Health,Walk-in,12.0,Tuesday,8.3,38.0,No,2.0,41.0
+RW-HLTH-00177,Southern,Muhanga,Referral Hospital,2025-11-12,16.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Wednesday,1.9,5.0,No,2.0,59.0
+RW-HLTH-00538,Western,Karongi,Health Centre,2025-10-19,33.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,7.0,Sunday,2.5,9.0,No,5.0,12.0
+RW-HLTH-00700,Northern,Burera,Health Centre,2024-03-08,23.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Friday,9.4,31.0,No,2.0,56.0
+RW-HLTH-00884,Southern,Huye,Health Centre,2024-12-27,54.0,Male,Mutuelle de Santé,Child Health,Follow-up,9.0,Friday,10.0,37.0,No,4.0,22.0
+RW-HLTH-00114,Western,Ngororero,Health Centre,2025-01-19,2.0,Male,Mutuelle de Santé,Child Health,Follow-up,10.0,Sunday,2.2,15.0,No,2.0,6.0
+RW-HLTH-00200,Southern,Huye,District Hospital,2025-10-12,42.0,Female,Mutuelle de Santé,Emergency,Scheduled,11.0,Sunday,2.8,26.0,No,1.0,32.0
+RW-HLTH-00412,Western,Ngororero,Health Centre,2025-03-21,19.0,Male,Mutuelle de Santé,Child Health,Follow-up,8.0,Friday,2.9,28.0,No,4.0,39.0
+RW-HLTH-00845,Eastern,Kayonza,District Hospital,2025-03-27,26.0,Male,Mutuelle de Santé,General Outpatient,,12.0,Thursday,3.8,19.0,No,1.0,45.0
+RW-HLTH-00768,Eastern,Kayonza,Health Centre,2025-07-09,21.0,Male,,General Outpatient,Scheduled,11.0,Wednesday,4.4,25.0,No,3.0,22.0
+RW-HLTH-00947,Northern,Burera,Health Centre,2024-04-04,55.0,Female,,Maternal Health,Walk-in,7.0,Thursday,0.8,5.0,No,1.0,34.0
+RW-HLTH-00316,Southern,Huye,Referral Hospital,2025-05-26,51.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,9.0,Monday,3.1,13.0,Yes,3.0,85.0
+RW-HLTH-00958,Southern,Ruhango,District Hospital,2025-11-03,0.0,Male,Mutuelle de Santé,Child Health,Scheduled,10.0,Monday,12.7,39.0,No,1.0,77.0
+RW-HLTH-00859,Western,Rusizi,District Hospital,2024-05-06,63.0,Female,RSSB,NCD Clinic,Referral,11.0,Monday,7.4,15.0,Yes,1.0,37.0
+RW-HLTH-00633,Western,Ngororero,Health Centre,2025-07-08,35.0,Female,None,NCD Clinic,Follow-up,13.0,Tuesday,5.4,24.0,No,4.0,31.0
+RW-HLTH-00748,Southern,Nyanza,Health Centre,2024-12-21,24.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,7.0,Saturday,2.3,19.0,No,4.0,35.0
+RW-HLTH-00102,Western,Karongi,District Hospital,2025-04-30,16.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,7.0,Wednesday,7.8,41.0,Yes,4.0,61.0
+RW-HLTH-01104,Eastern,Kayonza,Health Centre,2024-05-16,8.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,9.0,Thursday,2.1,23.0,No,3.0,37.0
+RW-HLTH-00733,Eastern,Nyagatare,Health Centre,,17.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,9.0,Monday,5.2,22.0,No,3.0,45.0
+RW-HLTH-00914,Western,Nyabihu,Health Centre,2024-05-07,44.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,12.0,Tuesday,2.2,26.0,,4.0,3.0
+RW-HLTH-00990,Eastern,Kayonza,District Hospital,2025-01-17,0.0,Female,Mutuelle de Santé,Eye Clinic,Walk-in,8.0,Friday,8.8,48.0,No,1.0,20.0
+RW-HLTH-00502,Kigali City,Nyarugenge,Health Centre,2024-11-10,3.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Sunday,2.2,21.0,No,0.0,25.0
+RW-HLTH-00087,Western,Rubavu,Health Centre,2024-05-17,30.0,Female,,General Outpatient,Scheduled,10.0,Friday,6.3,30.0,No,3.0,10.0
+RW-HLTH-00225,Southern,Huye,District Hospital,2025-07-21,20.0,Female,None,,Follow-up,12.0,Monday,3.1,13.0,No,3.0,62.0
+RW-HLTH-00423,Western,Nyabihu,Referral Hospital,2024-01-05,64.0,Male,Mutuelle de Santé,Emergency,Walk-in,9.0,Friday,15.3,47.0,No,6.0,62.0
+RW-HLTH-00016,Western,Nyabihu,Health Centre,2024-11-16,43.0,Male,Mutuelle de Santé,Dental,Scheduled,12.0,Saturday,2.7,21.0,No,3.0,40.0
+RW-HLTH-00219,Western,Nyabihu,District Hospital,2025-01-17,41.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Friday,7.4,34.0,No,0.0,54.0
+RW-HLTH-00194,Kigali City,Gasabo,Health Centre,2024-01-02,65.0,Female,Mutuelle de Santé,Emergency,Walk-in,10.0,Tuesday,3.1,7.0,No,3.0,8.0
+RW-HLTH-00656,Southern,Ruhango,Health Centre,2025-09-10,0.0,Male,None,General Outpatient,Walk-in,7.0,Wednesday,5.2,,No,2.0,49.0
+RW-HLTH-00377,Western,Rubavu,Health Centre,2024-11-28,22.0,Male,RSSB,General Outpatient,Referral,10.0,Thursday,3.9,26.0,No,2.0,9.0
+RW-HLTH-00899,Kigali City,Gasabo,Health Centre,2025-06-20,52.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,7.0,Friday,,21.0,No,1.0,48.0
+RW-HLTH-00172,Northern,Gicumbi,District Hospital,2025-05-19,64.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,8.0,Monday,9.8,21.0,No,3.0,12.0
+RW-HLTH-00994,Southern,Nyanza,Health Centre,2024-06-16,6.0,Female,RSSB,Emergency,Walk-in,11.0,Sunday,3.6,30.0,Yes,4.0,45.0
+RW-HLTH-00247,Western,Nyabihu,Health Centre,2024-12-13,58.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,13.0,Friday,4.7,34.0,No,1.0,26.0
+RW-HLTH-00885,Eastern,Gatsibo,Health Centre,2025-07-26,41.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,7.0,Saturday,3.4,26.0,No,4.0,31.0
+RW-HLTH-00847,Northern,Rulindo,Health Centre,2025-07-21,43.0,Male,Mutuelle de Santé,Eye Clinic,Walk-in,7.0,Monday,12.9,69.0,Yes,0.0,26.0
+RW-HLTH-00156,Kigali City,Kicukiro,District Hospital,2025-05-01,21.0,Male,Mutuelle de Santé,Dental,Referral,7.0,Thursday,,19.0,Yes,1.0,48.0
+RW-HLTH-00734,Kigali City,Nyarugenge,Health Centre,2024-09-20,23.0,Male,Mutuelle de Santé,Eye Clinic,Walk-in,12.0,Friday,2.3,16.0,No,2.0,4.0
+RW-HLTH-00697,Eastern,Rwamagana,District Hospital,2024-08-02,7.0,Male,Mutuelle de Santé,Emergency,Walk-in,11.0,Friday,2.1,19.0,No,1.0,44.0
+RW-HLTH-00458,Eastern,Kayonza,Health Centre,2025-12-22,23.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,13.0,Monday,7.6,30.0,No,5.0,23.0
+RW-HLTH-00217,Southern,Gisagara,Health Centre,2024-06-09,22.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,7.0,Sunday,4.9,27.0,No,2.0,58.0
+RW-HLTH-00251,Eastern,Kayonza,Health Centre,2024-11-30,20.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,12.0,Saturday,4.5,36.0,No,2.0,44.0
+RW-HLTH-00484,Northern,Gicumbi,Health Centre,2025-04-01,60.0,Male,Mutuelle de Santé,Emergency,Walk-in,7.0,Tuesday,16.4,62.0,No,0.0,40.0
+RW-HLTH-00405,Southern,Nyanza,District Hospital,2024-09-22,31.0,Male,Mutuelle de Santé,Maternal Health,Scheduled,12.0,Sunday,1.4,22.0,No,2.0,45.0
+RW-HLTH-00283,Northern,Gicumbi,Health Centre,2024-04-07,21.0,Female,,Maternal Health,Scheduled,8.0,Sunday,3.9,13.0,No,3.0,53.0
+RW-HLTH-00530,Western,Ngororero,Health Centre,2025-10-08,8.0,Male,Mutuelle de Santé,Maternal Health,Follow-up,7.0,Wednesday,5.7,29.0,Yes,0.0,53.0
+RW-HLTH-00514,Southern,Gisagara,Health Centre,2024-07-24,31.0,Male,None,Emergency,Walk-in,14.0,Wednesday,7.0,40.0,Yes,2.0,23.0
+RW-HLTH-00757,Northern,Burera,Health Centre,2024-12-15,45.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,7.0,Sunday,3.5,5.0,No,2.0,37.0
+RW-HLTH-00190,Kigali City,Nyarugenge,Health Centre,2025-01-05,43.0,Female,Mutuelle de Santé,NCD Clinic,Follow-up,8.0,Sunday,2.2,5.0,No,1.0,15.0
+RW-HLTH-00442,Eastern,Rwamagana,Health Centre,2025-01-17,4.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,9.0,Friday,4.1,24.0,No,1.0,21.0
+RW-HLTH-00782,Western,Rubavu,District Hospital,2024-11-08,47.0,Male,Mutuelle de Santé,Child Health,Walk-in,11.0,Friday,3.3,10.0,No,2.0,23.0
+RW-HLTH-00761,Western,Nyabihu,Health Centre,2024-08-06,32.0,Male,Mutuelle de Santé,Maternal Health,Scheduled,15.0,Tuesday,,36.0,No,0.0,35.0
+RW-HLTH-00657,Western,Ngororero,Health Centre,2024-02-06,24.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,8.0,Tuesday,3.0,9.0,No,1.0,62.0
+RW-HLTH-00968,Eastern,Bugesera,Health Centre,2025-02-24,20.0,Female,Mutuelle de Santé,Emergency,Follow-up,7.0,Monday,4.9,25.0,No,0.0,39.0
+RW-HLTH-01152,Kigali City,Nyarugenge,Health Centre,2024-07-26,6.0,Female,Private,Eye Clinic,Follow-up,10.0,Friday,6.2,38.0,,1.0,34.0
+RW-HLTH-00785,Southern,Ruhango,District Hospital,2025-11-23,0.0,Male,,Child Health,Walk-in,7.0,Sunday,4.8,21.0,Yes,1.0,70.0
+RW-HLTH-00392,Eastern,Bugesera,Health Centre,2024-02-26,26.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,9.0,Monday,2.6,20.0,No,3.0,44.0
+RW-HLTH-00323,Eastern,Kayonza,Health Centre,2024-07-26,36.0,Female,Mutuelle de Santé,NCD Clinic,Scheduled,7.0,Friday,13.8,73.0,No,1.0,75.0
+RW-HLTH-00809,Eastern,Rwamagana,Health Centre,2024-03-21,19.0,Male,Mutuelle de Santé,Emergency,Walk-in,8.0,Thursday,2.2,9.0,No,2.0,30.0
+RW-HLTH-00453,Western,Rusizi,Health Centre,2024-03-23,12.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,9.0,Saturday,5.2,38.0,No,1.0,53.0
+RW-HLTH-00252,Northern,Gicumbi,Health Centre,2025-12-11,27.0,Male,Mutuelle de Santé,Child Health,Walk-in,7.0,Thursday,6.7,19.0,No,2.0,35.0
+RW-HLTH-01174,Eastern,Bugesera,Health Centre,2025-05-26,67.0,Male,RSSB,Maternal Health,Scheduled,11.0,Monday,1.6,14.0,No,1.0,16.0
+RW-HLTH-01132,Western,Rubavu,District Hospital,2025-11-14,54.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Friday,2.4,17.0,No,2.0,59.0
+RW-HLTH-00043,Western,Rubavu,District Hospital,2025-08-17,20.0,Male,Mutuelle de Santé,Child Health,Walk-in,7.0,Sunday,6.8,40.0,No,1.0,64.0
+RW-HLTH-00129,Southern,Huye,Health Centre,2025-08-27,52.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,7.0,Wednesday,7.5,45.0,No,4.0,19.0
+RW-HLTH-00173,Kigali City,Kicukiro,Health Centre,2025-03-04,8.0,Male,Mutuelle de Santé,NCD Clinic,Follow-up,7.0,Tuesday,3.4,18.0,No,2.0,41.0
+RW-HLTH-00022,Eastern,Nyagatare,Health Centre,2024-02-19,25.0,Male,Private,Child Health,Scheduled,9.0,Monday,5.7,49.0,No,2.0,7.0
+RW-HLTH-00616,Southern,Gisagara,Health Centre,2025-04-19,8.0,Male,,Emergency,Walk-in,9.0,Saturday,4.3,34.0,No,0.0,51.0
+RW-HLTH-01140,Kigali City,Gasabo,Health Centre,2025-01-26,12.0,Female,None,General Outpatient,Follow-up,9.0,Sunday,18.8,96.0,No,4.0,61.0
+RW-HLTH-00415,Southern,Muhanga,Health Centre,2024-07-02,,Female,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Tuesday,12.3,63.0,No,2.0,71.0
+RW-HLTH-00506,Southern,Nyanza,District Hospital,2024-09-03,47.0,Female,RSSB,General Outpatient,Scheduled,8.0,Tuesday,2.1,12.0,No,2.0,60.0
+RW-HLTH-00346,Southern,Gisagara,District Hospital,2024-08-06,5.0,Female,RSSB,Child Health,Referral,9.0,Tuesday,1.5,12.0,No,0.0,41.0
+RW-HLTH-00729,Eastern,Rwamagana,Health Centre,2025-01-30,8.0,Female,RSSB,NCD Clinic,Scheduled,7.0,Thursday,0.7,10.0,No,4.0,31.0
+RW-HLTH-01038,Southern,Gisagara,Health Centre,2025-09-21,50.0,Male,Mutuelle de Santé,Child Health,Walk-in,7.0,Sunday,2.9,14.0,No,3.0,51.0
+RW-HLTH-00814,Northern,Rulindo,Health Centre,2024-07-04,10.0,Male,Private,General Outpatient,Follow-up,13.0,Thursday,12.3,42.0,No,0.0,26.0
+RW-HLTH-01112,Eastern,Nyagatare,District Hospital,2025-05-30,37.0,Female,Private,Child Health,Referral,10.0,Friday,10.1,38.0,No,3.0,46.0
+RW-HLTH-00007,Northern,Rulindo,Health Centre,2025-08-12,0.0,Female,RSSB,NCD Clinic,Referral,8.0,Tuesday,19.8,79.0,No,2.0,62.0
+RW-HLTH-00189,Southern,Nyanza,Health Centre,2024-05-09,29.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Thursday,4.6,9.0,No,2.0,21.0
+RW-HLTH-00292,Southern,Ruhango,Health Centre,2025-03-01,24.0,Male,Mutuelle de Santé,Maternal Health,Follow-up,9.0,Saturday,7.6,44.0,No,2.0,40.0
+RW-HLTH-00085,Western,Rubavu,District Hospital,2025-06-27,50.0,Female,RSSB,General Outpatient,Walk-in,11.0,Friday,2.8,6.0,Yes,1.0,66.0
+RW-HLTH-00330,Northern,Burera,Health Centre,2025-07-18,18.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Friday,1.6,8.0,No,4.0,19.0
+RW-HLTH-00976,Kigali City,Nyarugenge,Health Centre,2025-11-23,34.0,Male,None,General Outpatient,Walk-in,9.0,Sunday,3.8,23.0,No,2.0,38.0
+RW-HLTH-00345,Kigali City,Kicukiro,Health Centre,2025-06-19,35.0,Male,Mutuelle de Santé,Child Health,Walk-in,7.0,Thursday,15.8,62.0,No,0.0,67.0
+RW-HLTH-00804,Western,Nyabihu,Health Centre,2025-08-23,20.0,Female,Mutuelle de Santé,NCD Clinic,Scheduled,8.0,Saturday,0.4,6.0,Yes,1.0,17.0
+RW-HLTH-01164,Southern,Nyanza,Health Centre,2024-11-23,49.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,10.0,Saturday,11.9,32.0,No,3.0,9.0
+RW-HLTH-00813,Northern,Rulindo,Health Centre,2025-05-19,40.0,Female,Mutuelle de Santé,Child Health,Walk-in,11.0,Monday,2.1,8.0,No,2.0,31.0
+RW-HLTH-00867,Western,Nyabihu,Health Centre,2024-07-01,23.0,Female,None,General Outpatient,Walk-in,9.0,Monday,1.0,8.0,No,3.0,27.0
+RW-HLTH-00961,Eastern,Kayonza,District Hospital,2025-05-30,62.0,Female,Mutuelle de Santé,Child Health,Scheduled,7.0,Friday,6.8,33.0,No,3.0,39.0
+RW-HLTH-00543,Kigali City,Nyarugenge,Health Centre,2024-08-28,68.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Wednesday,2.3,17.0,No,3.0,26.0
+RW-HLTH-00863,Kigali City,Nyarugenge,Health Centre,2025-03-24,23.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,7.0,Monday,4.1,29.0,No,3.0,39.0
+RW-HLTH-00639,Northern,Burera,Health Centre,2024-02-19,7.0,Male,None,General Outpatient,Scheduled,7.0,Monday,0.7,11.0,Yes,3.0,30.0
+RW-HLTH-00834,Southern,Gisagara,District Hospital,2025-08-23,41.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,13.0,Saturday,4.2,9.0,No,2.0,69.0
+RW-HLTH-00465,Southern,Huye,Health Centre,2025-03-28,27.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,7.0,Friday,4.8,25.0,No,1.0,31.0
+RW-HLTH-00356,Western,Nyabihu,District Hospital,2025-04-16,41.0,Male,RSSB,General Outpatient,Scheduled,9.0,Wednesday,0.3,8.0,No,1.0,85.0
+RW-HLTH-00455,Eastern,Kayonza,District Hospital,2024-03-07,31.0,Female,RSSB,Eye Clinic,Walk-in,14.0,Thursday,6.9,32.0,Yes,0.0,31.0
+RW-HLTH-00116,Northern,Burera,Health Centre,2025-09-21,44.0,Male,RSSB,General Outpatient,Walk-in,11.0,Sunday,3.1,25.0,No,3.0,14.0
+RW-HLTH-00037,Eastern,Kayonza,Health Centre,2025-01-21,29.0,Female,RSSB,Child Health,Follow-up,10.0,Tuesday,0.9,22.0,No,3.0,17.0
+RW-HLTH-00602,Kigali City,Gasabo,Health Centre,2024-08-10,39.0,Male,RSSB,General Outpatient,Walk-in,8.0,Saturday,1.0,5.0,No,3.0,51.0
+RW-HLTH-00191,Northern,Rulindo,District Hospital,2025-04-30,46.0,Female,None,General Outpatient,Follow-up,7.0,Wednesday,2.9,10.0,No,5.0,56.0
+RW-HLTH-00644,Northern,Rulindo,Health Centre,2025-04-05,15.0,Female,RSSB,Maternal Health,Follow-up,10.0,Saturday,,33.0,No,1.0,49.0
+RW-HLTH-00822,Eastern,Bugesera,Health Centre,2025-10-14,0.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,8.0,Tuesday,7.5,41.0,No,2.0,74.0
+RW-HLTH-00911,Southern,Nyanza,Health Centre,2024-07-27,49.0,Female,Private,NCD Clinic,Referral,9.0,Saturday,2.7,17.0,No,,37.0
+RW-HLTH-00286,Northern,Gicumbi,District Hospital,2024-03-04,43.0,Female,,Emergency,,7.0,Monday,2.0,19.0,No,6.0,42.0
+RW-HLTH-00329,Western,Rusizi,District Hospital,2024-05-26,9.0,Female,Private,General Outpatient,Walk-in,11.0,Sunday,3.5,21.0,Yes,2.0,58.0
+RW-HLTH-00142,Northern,Gicumbi,Health Centre,2025-02-04,29.0,Female,Private,General Outpatient,Scheduled,10.0,Tuesday,2.4,28.0,Yes,2.0,50.0
+RW-HLTH-00238,Kigali City,Gasabo,Health Centre,2025-04-06,35.0,Male,Mutuelle de Santé,Child Health,Follow-up,7.0,Sunday,5.3,8.0,No,1.0,8.0
+RW-HLTH-00131,Western,Nyabihu,Health Centre,2025-02-19,12.0,Male,Mutuelle de Santé,Child Health,Scheduled,7.0,Wednesday,2.8,5.0,No,1.0,39.0
+RW-HLTH-00082,Northern,Musanze,Health Centre,2025-10-25,39.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Saturday,4.7,18.0,No,2.0,47.0
+RW-HLTH-00631,Northern,Burera,Health Centre,2024-12-04,45.0,Male,RSSB,Eye Clinic,Follow-up,8.0,Wednesday,5.0,21.0,No,1.0,33.0
+RW-HLTH-00009,Northern,Gicumbi,Health Centre,2025-07-12,71.0,Male,Mutuelle de Santé,Child Health,Walk-in,8.0,Saturday,6.0,14.0,No,3.0,37.0
+RW-HLTH-00211,Northern,Rulindo,Health Centre,2025-10-05,17.0,Male,None,General Outpatient,Scheduled,9.0,Sunday,11.9,55.0,No,2.0,52.0
+RW-HLTH-00119,Eastern,Bugesera,Health Centre,2024-03-27,0.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Wednesday,1.1,16.0,No,1.0,29.0
+RW-HLTH-01181,Kigali City,Nyarugenge,District Hospital,2024-05-04,2.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Saturday,2.0,24.0,No,1.0,41.0
+RW-HLTH-00140,Western,Nyabihu,Health Centre,2024-10-21,36.0,Female,RSSB,Maternal Health,Walk-in,14.0,Monday,5.0,23.0,No,0.0,36.0
+RW-HLTH-00331,Eastern,Nyagatare,Health Centre,2024-04-23,65.0,Female,Private,Child Health,Referral,7.0,Tuesday,4.1,10.0,No,3.0,49.0
+RW-HLTH-00014,Eastern,Bugesera,District Hospital,2024-05-29,2.0,Male,None,General Outpatient,Walk-in,8.0,Wednesday,0.4,11.0,No,1.0,105.0
+RW-HLTH-00992,Northern,Musanze,Health Centre,2025-01-31,44.0,Female,None,Child Health,Scheduled,10.0,Friday,7.4,39.0,Yes,4.0,49.0
+RW-HLTH-00788,Northern,Rulindo,District Hospital,2024-09-04,56.0,Male,None,General Outpatient,Walk-in,8.0,Wednesday,12.7,47.0,Yes,1.0,80.0
+RW-HLTH-01176,Eastern,Gatsibo,District Hospital,2025-05-28,0.0,Male,Private,Dental,Walk-in,7.0,Wednesday,6.6,34.0,No,3.0,55.0
+RW-HLTH-00418,Kigali City,Nyarugenge,District Hospital,2024-12-22,50.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Sunday,5.9,42.0,No,3.0,63.0
+RW-HLTH-00895,Western,Nyabihu,Health Centre,2025-05-02,30.0,Female,Mutuelle de Santé,NCD Clinic,Follow-up,10.0,Friday,4.7,32.0,No,1.0,27.0
+RW-HLTH-00428,Western,Ngororero,Referral Hospital,2024-09-25,35.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,10.0,Wednesday,6.5,25.0,No,2.0,77.0
+RW-HLTH-00561,Western,Rubavu,District Hospital,2025-12-29,51.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,14.0,Monday,7.1,42.0,No,3.0,50.0
+RW-HLTH-00510,Southern,Ruhango,Health Centre,2024-05-31,72.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,11.0,Friday,8.9,28.0,No,2.0,29.0
+RW-HLTH-01011,Eastern,Bugesera,Health Centre,2024-04-10,32.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,9.0,Wednesday,12.3,40.0,Yes,1.0,47.0
+RW-HLTH-00265,Southern,Gisagara,Health Centre,2024-11-08,23.0,Male,Mutuelle de Santé,General Outpatient,Referral,7.0,Friday,12.7,52.0,No,2.0,47.0
+RW-HLTH-00923,Kigali City,Kicukiro,Health Centre,2024-11-08,27.0,Male,Mutuelle de Santé,Child Health,Walk-in,10.0,Friday,5.4,17.0,Yes,1.0,62.0
+RW-HLTH-00182,Southern,Muhanga,Health Centre,2024-01-28,35.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Sunday,3.2,5.0,No,2.0,12.0
+RW-HLTH-01083,Eastern,Bugesera,Health Centre,2024-10-31,14.0,Female,Mutuelle de Santé,NCD Clinic,Scheduled,10.0,Thursday,8.5,43.0,Yes,1.0,18.0
+RW-HLTH-00799,Northern,Musanze,District Hospital,2024-01-22,32.0,Male,Mutuelle de Santé,NCD Clinic,Scheduled,9.0,Monday,0.9,6.0,Yes,3.0,54.0
+RW-HLTH-00278,Northern,Musanze,Health Centre,2024-12-01,35.0,Female,Mutuelle de Santé,Eye Clinic,Walk-in,7.0,Sunday,2.0,13.0,No,3.0,51.0
+RW-HLTH-00092,Southern,Nyanza,Health Centre,2025-08-17,20.0,Female,Mutuelle de Santé,Emergency,Walk-in,9.0,Sunday,8.1,27.0,No,0.0,24.0
+RW-HLTH-00472,Eastern,Nyagatare,Health Centre,2024-12-21,0.0,Male,RSSB,NCD Clinic,Scheduled,10.0,Saturday,1.3,16.0,No,3.0,28.0
+RW-HLTH-00536,Northern,Gicumbi,Health Centre,2024-09-02,0.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,7.0,Monday,10.9,51.0,No,3.0,27.0
+RW-HLTH-01058,Eastern,Bugesera,District Hospital,2024-10-05,10.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,7.0,Saturday,3.0,11.0,No,5.0,36.0
+RW-HLTH-01130,Northern,Burera,District Hospital,2024-02-04,44.0,Female,None,General Outpatient,Scheduled,9.0,Sunday,3.3,17.0,No,1.0,42.0
+RW-HLTH-00258,Kigali City,Gasabo,Health Centre,2025-08-08,35.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,12.0,Friday,5.7,13.0,No,4.0,23.0
+RW-HLTH-00144,Eastern,Gatsibo,Health Centre,2024-05-20,48.0,Female,Mutuelle de Santé,Maternal Health,Scheduled,9.0,Monday,0.4,5.0,No,2.0,23.0
+RW-HLTH-00705,Southern,Muhanga,Health Centre,2025-11-29,6.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,8.0,Saturday,5.0,22.0,No,0.0,50.0
+RW-HLTH-00223,Western,Nyabihu,Health Centre,2024-02-17,4.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,8.0,Saturday,1.0,9.0,Yes,1.0,30.0
+RW-HLTH-00256,Southern,Muhanga,Health Centre,2025-04-23,64.0,Female,Mutuelle de Santé,General Outpatient,Referral,7.0,Wednesday,8.0,33.0,No,0.0,52.0
+RW-HLTH-00248,Western,Nyabihu,Health Centre,2025-11-11,16.0,Male,Mutuelle de Santé,Maternal Health,Follow-up,7.0,Tuesday,4.8,16.0,No,3.0,32.0
+RW-HLTH-00021,Northern,Musanze,Health Centre,2025-09-04,40.0,Female,,General Outpatient,Walk-in,14.0,Thursday,22.7,106.0,No,4.0,49.0
+RW-HLTH-00147,Northern,Rulindo,Health Centre,2024-11-08,12.0,Female,,General Outpatient,Follow-up,10.0,Friday,4.1,21.0,No,1.0,47.0
+RW-HLTH-01055,Western,Nyabihu,Health Centre,2024-05-06,35.0,Male,Mutuelle de Santé,Maternal Health,Scheduled,12.0,Monday,7.2,27.0,No,3.0,22.0
+RW-HLTH-00566,Western,Nyabihu,Health Centre,2024-05-11,34.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Saturday,4.5,28.0,Yes,4.0,52.0
+RW-HLTH-00171,Kigali City,Kicukiro,Health Centre,2024-01-06,7.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Saturday,7.0,40.0,No,5.0,35.0
+RW-HLTH-01014,Western,Ngororero,District Hospital,2025-06-05,51.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,10.0,Thursday,6.6,29.0,Yes,1.0,48.0
+RW-HLTH-00201,Southern,Huye,District Hospital,2025-02-17,0.0,Male,Mutuelle de Santé,Emergency,Referral,10.0,Monday,1.5,5.0,No,1.0,33.0
+RW-HLTH-00498,Northern,Rulindo,Health Centre,2024-02-10,34.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,14.0,Saturday,6.5,23.0,No,1.0,42.0
+RW-HLTH-00883,Southern,Nyanza,District Hospital,2024-04-30,49.0,Male,None,General Outpatient,Follow-up,7.0,Tuesday,11.2,47.0,No,0.0,35.0
+RW-HLTH-01026,Southern,Nyanza,Health Centre,2025-10-30,31.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,13.0,Thursday,14.7,48.0,No,2.0,38.0
+RW-HLTH-00366,Northern,Musanze,Referral Hospital,2024-10-03,20.0,Male,RSSB,General Outpatient,Walk-in,8.0,Thursday,7.5,33.0,No,4.0,67.0
+RW-HLTH-00001,Eastern,Rwamagana,Health Centre,2025-10-24,15.0,Female,Private,,Scheduled,10.0,Friday,0.7,5.0,No,2.0,35.0
+RW-HLTH-00672,Kigali City,Nyarugenge,Health Centre,2024-08-17,34.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Saturday,9.5,57.0,No,2.0,54.0
+RW-HLTH-00608,Western,Rusizi,Health Centre,2025-11-18,9.0,Female,Mutuelle de Santé,Maternal Health,Scheduled,11.0,Tuesday,2.2,5.0,Yes,1.0,3.0
+RW-HLTH-00690,Eastern,Gatsibo,Health Centre,2024-09-23,34.0,Female,None,NCD Clinic,Walk-in,10.0,Monday,2.4,20.0,No,2.0,3.0
+RW-HLTH-00932,Western,Rusizi,District Hospital,2025-11-26,35.0,Male,None,Dental,Walk-in,10.0,Wednesday,1.8,23.0,No,2.0,35.0
+RW-HLTH-00243,Eastern,Rwamagana,District Hospital,2025-12-07,70.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Sunday,10.0,31.0,No,1.0,17.0
+RW-HLTH-00161,Kigali City,Nyarugenge,Health Centre,2025-04-20,28.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Sunday,9.7,48.0,No,3.0,15.0
+RW-HLTH-00842,Western,Nyabihu,Health Centre,2024-03-06,23.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Wednesday,2.3,10.0,No,6.0,49.0
+RW-HLTH-00236,Northern,Musanze,Health Centre,2024-06-10,9.0,Male,Mutuelle de Santé,Child Health,Scheduled,7.0,Monday,8.4,36.0,Yes,3.0,20.0
+RW-HLTH-00237,Southern,Muhanga,Health Centre,2024-03-17,10.0,Male,Mutuelle de Santé,Dental,Referral,14.0,Sunday,7.1,21.0,No,4.0,21.0
+RW-HLTH-00754,Southern,Huye,Health Centre,2025-12-15,31.0,Female,Private,General Outpatient,Walk-in,8.0,Monday,13.5,51.0,No,3.0,50.0
+RW-HLTH-00069,Western,Rusizi,Health Centre,2025-11-07,34.0,Male,Mutuelle de Santé,,Scheduled,12.0,Friday,12.4,72.0,No,2.0,65.0
+RW-HLTH-00737,Western,Karongi,Health Centre,2025-10-30,32.0,Female,RSSB,General Outpatient,Scheduled,12.0,Thursday,7.5,49.0,No,4.0,12.0
+RW-HLTH-00984,Kigali City,Kicukiro,District Hospital,2024-04-23,8.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,11.0,Tuesday,18.9,59.0,No,4.0,49.0
+RW-HLTH-00044,Southern,Ruhango,District Hospital,2025-12-20,3.0,Male,RSSB,Child Health,Walk-in,9.0,Saturday,16.1,63.0,No,4.0,54.0
+RW-HLTH-01172,Eastern,Bugesera,Health Centre,2025-09-12,42.0,Female,RSSB,Eye Clinic,Scheduled,9.0,Friday,1.3,,No,0.0,51.0
+RW-HLTH-00091,Kigali City,Gasabo,Health Centre,2025-01-28,15.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,7.0,Tuesday,9.9,44.0,No,0.0,46.0
+RW-HLTH-01197,Western,Karongi,Health Centre,2025-10-04,57.0,Female,Mutuelle de Santé,NCD Clinic,Follow-up,9.0,Saturday,4.5,21.0,No,0.0,16.0
+RW-HLTH-00241,Northern,Musanze,District Hospital,2024-10-03,34.0,Female,RSSB,Child Health,Follow-up,10.0,Thursday,3.8,17.0,No,2.0,33.0
+RW-HLTH-00047,Western,Rubavu,Health Centre,2025-08-29,53.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,12.0,Friday,10.3,36.0,No,2.0,32.0
+RW-HLTH-00167,Eastern,Kayonza,Health Centre,2024-02-22,,Female,Mutuelle de Santé,General Outpatient,Follow-up,7.0,Thursday,9.3,33.0,No,2.0,34.0
+RW-HLTH-00058,Western,Rubavu,District Hospital,2025-02-23,41.0,Male,Mutuelle de Santé,NCD Clinic,Scheduled,8.0,Sunday,8.5,61.0,No,1.0,47.0
+RW-HLTH-01097,Southern,Gisagara,Health Centre,2024-07-30,34.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Tuesday,2.1,8.0,No,2.0,27.0
+RW-HLTH-00347,Southern,Ruhango,District Hospital,2025-11-12,41.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Wednesday,3.7,18.0,No,0.0,68.0
+RW-HLTH-01008,Southern,Huye,Health Centre,2024-04-25,39.0,Male,Mutuelle de Santé,Eye Clinic,Scheduled,7.0,Thursday,3.8,22.0,No,0.0,24.0
+RW-HLTH-00971,Northern,Gicumbi,Health Centre,2025-07-16,45.0,Female,None,General Outpatient,Walk-in,11.0,Wednesday,11.1,56.0,No,4.0,41.0
+RW-HLTH-00921,Eastern,Nyagatare,Health Centre,2024-12-18,54.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,9.0,Wednesday,,17.0,No,1.0,51.0
+RW-HLTH-00272,Western,Karongi,Health Centre,2025-01-04,6.0,Female,RSSB,Emergency,Scheduled,8.0,Saturday,10.6,51.0,No,1.0,28.0
+RW-HLTH-01101,Northern,Rulindo,Health Centre,2025-10-03,23.0,Female,Mutuelle de Santé,Eye Clinic,Scheduled,11.0,Friday,10.7,39.0,No,2.0,3.0
+RW-HLTH-00098,Western,Rusizi,Health Centre,2024-09-22,67.0,Female,Private,NCD Clinic,Walk-in,7.0,Sunday,16.9,83.0,No,2.0,79.0
+RW-HLTH-00300,Kigali City,Gasabo,Health Centre,2024-04-26,43.0,Male,Mutuelle de Santé,NCD Clinic,Scheduled,10.0,Friday,5.6,27.0,No,2.0,23.0
+RW-HLTH-00707,Southern,Ruhango,Health Centre,2024-05-10,25.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,8.0,Friday,5.2,31.0,No,0.0,59.0
+RW-HLTH-00424,Kigali City,Gasabo,Referral Hospital,2025-08-02,0.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,7.0,Saturday,0.3,5.0,No,2.0,103.0
+RW-HLTH-00719,Southern,Nyanza,Health Centre,2025-05-06,23.0,Male,RSSB,Dental,Scheduled,7.0,Tuesday,4.6,25.0,No,2.0,15.0
+RW-HLTH-00711,Western,Nyabihu,Health Centre,2024-07-25,32.0,Female,RSSB,Maternal Health,Walk-in,10.0,Thursday,8.5,42.0,No,0.0,48.0
+RW-HLTH-00210,Northern,Rulindo,Health Centre,2024-01-31,27.0,Female,RSSB,NCD Clinic,Walk-in,11.0,Wednesday,11.0,43.0,Yes,2.0,48.0
+RW-HLTH-00385,Kigali City,Nyarugenge,Health Centre,2025-01-17,18.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,7.0,Friday,2.2,26.0,No,1.0,50.0
+RW-HLTH-00725,Southern,Ruhango,Health Centre,2024-10-30,47.0,Male,Private,General Outpatient,Referral,9.0,Wednesday,6.3,22.0,No,2.0,61.0
+RW-HLTH-00358,Northern,Burera,Health Centre,2024-05-18,0.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,8.0,Saturday,6.0,20.0,No,5.0,45.0
+RW-HLTH-01066,Eastern,Nyagatare,District Hospital,2024-06-05,64.0,Female,Mutuelle de Santé,General Outpatient,Referral,10.0,Wednesday,8.1,30.0,No,3.0,47.0
+RW-HLTH-00266,Eastern,Gatsibo,Health Centre,2024-02-07,25.0,Male,Mutuelle de Santé,Emergency,Walk-in,7.0,Wednesday,2.8,30.0,No,1.0,44.0
+RW-HLTH-01045,Northern,Gicumbi,Health Centre,2024-07-25,23.0,Male,Mutuelle de Santé,NCD Clinic,Referral,7.0,Thursday,4.1,6.0,No,,21.0
+RW-HLTH-00542,Northern,Musanze,Health Centre,2025-12-17,33.0,Male,Mutuelle de Santé,NCD Clinic,Follow-up,7.0,Wednesday,0.6,15.0,No,6.0,66.0
+RW-HLTH-00628,Kigali City,Nyarugenge,Health Centre,2024-04-27,14.0,Female,Mutuelle de Santé,Child Health,Scheduled,8.0,Saturday,4.5,10.0,No,1.0,38.0
+RW-HLTH-00660,Western,Nyabihu,District Hospital,2024-07-21,,Female,,General Outpatient,Scheduled,10.0,Sunday,6.3,26.0,No,4.0,52.0
+RW-HLTH-00369,Northern,Musanze,Health Centre,2024-05-15,35.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,16.0,Wednesday,6.2,28.0,No,1.0,49.0
+RW-HLTH-00887,Western,Nyabihu,Health Centre,2024-10-05,15.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,8.0,Saturday,6.0,25.0,No,1.0,32.0
+RW-HLTH-00226,Western,Nyabihu,District Hospital,2025-03-07,43.0,Female,None,General Outpatient,Walk-in,9.0,Friday,,14.0,No,0.0,71.0
+RW-HLTH-00827,Northern,Rulindo,Health Centre,2024-12-18,31.0,Female,Private,Dental,Walk-in,10.0,Wednesday,8.9,41.0,No,1.0,28.0
+RW-HLTH-00910,Southern,Muhanga,Health Centre,2024-03-28,24.0,Female,RSSB,Dental,Walk-in,11.0,Thursday,3.4,18.0,No,2.0,35.0
+RW-HLTH-00605,Southern,Ruhango,District Hospital,2024-01-23,57.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,12.0,Tuesday,13.6,42.0,No,3.0,61.0
+RW-HLTH-00632,Southern,Gisagara,Health Centre,2024-03-15,56.0,Male,Mutuelle de Santé,NCD Clinic,Scheduled,10.0,Friday,2.9,6.0,No,0.0,25.0
+RW-HLTH-00023,Kigali City,Gasabo,Health Centre,2024-08-11,32.0,Female,Mutuelle de Santé,Emergency,Walk-in,8.0,Sunday,0.5,7.0,No,5.0,49.0
+RW-HLTH-00254,Northern,Rulindo,District Hospital,2024-11-17,18.0,Female,None,General Outpatient,Walk-in,7.0,Sunday,2.5,5.0,Yes,4.0,36.0
+RW-HLTH-01002,Western,Ngororero,Referral Hospital,2024-10-18,24.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Friday,7.3,46.0,No,1.0,75.0
+RW-HLTH-00918,Western,Karongi,District Hospital,2025-11-04,27.0,Male,RSSB,Maternal Health,Walk-in,9.0,Tuesday,14.6,39.0,No,3.0,63.0
+RW-HLTH-00545,Western,Ngororero,Health Centre,2025-06-04,,Male,Mutuelle de Santé,General Outpatient,Scheduled,10.0,Wednesday,9.0,41.0,Yes,2.0,44.0
+RW-HLTH-00160,Southern,Muhanga,Health Centre,2025-04-10,35.0,Female,None,Emergency,Follow-up,9.0,Thursday,2.4,10.0,No,4.0,26.0
+RW-HLTH-00149,Kigali City,Kicukiro,District Hospital,2025-03-21,13.0,Female,Private,Child Health,Referral,9.0,Friday,4.7,13.0,Yes,0.0,46.0
+RW-HLTH-00282,Northern,Burera,District Hospital,2025-08-13,,Female,Mutuelle de Santé,NCD Clinic,Scheduled,11.0,Wednesday,2.4,10.0,No,3.0,53.0
+RW-HLTH-01041,Northern,Burera,District Hospital,2024-08-04,56.0,Female,Mutuelle de Santé,General Outpatient,Referral,7.0,Sunday,5.1,16.0,Yes,3.0,53.0
+RW-HLTH-01127,Eastern,Bugesera,Health Centre,2025-06-03,30.0,Male,Mutuelle de Santé,NCD Clinic,Scheduled,13.0,Tuesday,1.8,10.0,No,3.0,24.0
+RW-HLTH-00477,Eastern,Kayonza,District Hospital,2025-09-05,4.0,Male,Mutuelle de Santé,Child Health,Follow-up,8.0,Friday,2.4,9.0,No,6.0,63.0
+RW-HLTH-00034,Northern,Musanze,District Hospital,2025-12-12,8.0,Male,Mutuelle de Santé,Eye Clinic,Follow-up,10.0,Friday,7.9,44.0,Yes,1.0,29.0
+RW-HLTH-00685,Southern,Huye,Health Centre,2024-05-06,26.0,Female,Mutuelle de Santé,Emergency,Follow-up,10.0,Monday,8.4,31.0,No,2.0,51.0
+RW-HLTH-00179,Southern,Nyanza,Health Centre,2024-09-17,,Female,Mutuelle de Santé,General Outpatient,Follow-up,13.0,Tuesday,2.1,11.0,No,1.0,33.0
+RW-HLTH-00010,Northern,Burera,Health Centre,2025-03-19,40.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,12.0,Wednesday,2.5,,No,2.0,49.0
+RW-HLTH-00208,Kigali City,Kicukiro,Health Centre,2025-08-09,45.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,10.0,Saturday,5.3,11.0,No,3.0,19.0
+RW-HLTH-00546,Eastern,Kayonza,Health Centre,2025-08-17,22.0,Male,RSSB,General Outpatient,Walk-in,7.0,Sunday,1.7,19.0,No,5.0,28.0
+RW-HLTH-00821,Southern,Nyanza,Health Centre,2025-06-06,38.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Friday,2.0,21.0,Yes,5.0,23.0
+RW-HLTH-00533,Southern,Huye,Health Centre,2024-11-06,,Female,Mutuelle de Santé,Child Health,Walk-in,12.0,Wednesday,8.3,,No,4.0,55.0
+RW-HLTH-00636,Eastern,Rwamagana,District Hospital,2025-01-11,16.0,Female,Mutuelle de Santé,Child Health,Follow-up,11.0,Saturday,3.6,5.0,No,3.0,57.0
+RW-HLTH-00150,Southern,Nyanza,Health Centre,2024-11-22,0.0,Female,Mutuelle de Santé,Eye Clinic,Follow-up,7.0,Friday,4.7,20.0,No,2.0,38.0
+RW-HLTH-00803,Northern,Musanze,Health Centre,2025-02-09,32.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Sunday,5.5,28.0,No,0.0,17.0
+RW-HLTH-00297,Western,Rusizi,Health Centre,2025-08-30,33.0,Male,RSSB,General Outpatient,Walk-in,10.0,Saturday,1.4,24.0,No,3.0,3.0
+RW-HLTH-01003,Eastern,Gatsibo,Health Centre,2025-08-21,56.0,Male,Mutuelle de Santé,NCD Clinic,Follow-up,7.0,Thursday,3.5,16.0,Yes,2.0,30.0
+RW-HLTH-00474,Kigali City,Kicukiro,Health Centre,2025-09-08,22.0,Male,Mutuelle de Santé,Dental,Follow-up,12.0,Monday,8.7,52.0,No,2.0,18.0
+RW-HLTH-00488,Southern,Gisagara,Health Centre,2025-01-30,15.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,12.0,Thursday,2.1,24.0,No,7.0,24.0
+RW-HLTH-00648,Southern,Huye,Health Centre,2025-03-01,59.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,10.0,Saturday,5.4,22.0,No,2.0,32.0
+RW-HLTH-00299,Northern,Rulindo,Health Centre,2024-10-23,51.0,Male,Private,General Outpatient,Walk-in,9.0,Wednesday,3.1,16.0,No,2.0,36.0
+RW-HLTH-00535,Eastern,Nyagatare,District Hospital,2024-06-29,17.0,Male,,General Outpatient,Scheduled,9.0,Saturday,2.1,16.0,No,2.0,58.0
+RW-HLTH-00894,Southern,Nyanza,District Hospital,2025-02-02,22.0,Male,Mutuelle de Santé,Maternal Health,Follow-up,8.0,Sunday,0.4,7.0,No,2.0,52.0
+RW-HLTH-00882,Western,Nyabihu,Health Centre,2024-03-16,42.0,Male,Mutuelle de Santé,Eye Clinic,Follow-up,7.0,Saturday,3.2,14.0,No,3.0,22.0
+RW-HLTH-00981,Western,Nyabihu,District Hospital,2024-10-12,19.0,Female,Mutuelle de Santé,Eye Clinic,Follow-up,10.0,Saturday,7.5,25.0,No,1.0,26.0
+RW-HLTH-01196,Northern,Musanze,Health Centre,2025-11-23,49.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Sunday,2.3,11.0,No,1.0,49.0
+RW-HLTH-00641,Southern,Nyanza,Health Centre,2025-06-24,35.0,Female,Mutuelle de Santé,Emergency,Walk-in,13.0,Tuesday,6.3,27.0,Yes,3.0,48.0
+RW-HLTH-00271,Southern,Muhanga,Health Centre,2024-09-26,45.0,Male,,General Outpatient,Walk-in,7.0,Thursday,14.2,60.0,No,2.0,61.0
+RW-HLTH-01031,Southern,Muhanga,Health Centre,2024-01-08,69.0,Female,None,Maternal Health,Walk-in,8.0,Monday,9.2,50.0,No,3.0,49.0
+RW-HLTH-01154,Western,Nyabihu,District Hospital,2024-06-21,55.0,Male,RSSB,Emergency,Scheduled,9.0,Friday,4.2,20.0,No,3.0,42.0
+RW-HLTH-00824,Eastern,Gatsibo,District Hospital,2024-12-30,13.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Monday,5.1,33.0,No,3.0,46.0
+RW-HLTH-00901,Southern,Huye,Health Centre,2024-06-04,70.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,7.0,Tuesday,1.3,5.0,No,4.0,45.0
+RW-HLTH-00176,Northern,Burera,Health Centre,2025-07-25,31.0,Female,Mutuelle de Santé,Child Health,Follow-up,9.0,Friday,0.8,10.0,,1.0,62.0
+RW-HLTH-00273,Western,Rubavu,Health Centre,2024-07-17,43.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,8.0,Wednesday,4.6,36.0,No,1.0,28.0
+RW-HLTH-00057,Eastern,Gatsibo,Health Centre,2025-07-28,0.0,Female,Mutuelle de Santé,Child Health,Scheduled,9.0,Monday,2.1,23.0,No,3.0,31.0
+RW-HLTH-00652,Northern,Rulindo,Health Centre,2025-05-05,45.0,Female,Private,Dental,Walk-in,7.0,Monday,7.3,46.0,No,3.0,37.0
+RW-HLTH-00367,Western,Ngororero,District Hospital,2025-08-17,47.0,Male,Mutuelle de Santé,General Outpatient,Referral,11.0,Sunday,2.7,23.0,No,2.0,67.0
+RW-HLTH-00437,Eastern,Nyagatare,Health Centre,2025-06-18,58.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,7.0,Wednesday,3.7,16.0,No,4.0,30.0
+RW-HLTH-00686,Kigali City,Nyarugenge,District Hospital,2024-05-09,12.0,Male,Mutuelle de Santé,General Outpatient,Referral,11.0,Thursday,6.3,25.0,No,2.0,20.0
+RW-HLTH-00638,Northern,Gicumbi,District Hospital,2025-01-03,52.0,Female,None,Eye Clinic,Scheduled,11.0,Friday,2.4,9.0,No,4.0,22.0
+RW-HLTH-00594,Eastern,Rwamagana,Health Centre,2025-03-01,28.0,Male,Mutuelle de Santé,Maternal Health,Referral,9.0,Saturday,9.1,44.0,Yes,1.0,72.0
+RW-HLTH-00522,Eastern,Kayonza,Health Centre,2024-11-06,42.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,9.0,Wednesday,5.8,24.0,No,2.0,43.0
+RW-HLTH-00079,Eastern,Gatsibo,Health Centre,2024-08-05,25.0,Male,Mutuelle de Santé,Eye Clinic,Walk-in,12.0,Monday,12.1,63.0,No,2.0,15.0
+RW-HLTH-00772,Eastern,Bugesera,District Hospital,2025-10-16,37.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,7.0,Thursday,1.2,16.0,No,2.0,42.0
+RW-HLTH-00587,Southern,Huye,Health Centre,2024-03-12,59.0,Female,None,Emergency,Walk-in,9.0,Tuesday,4.1,34.0,No,4.0,29.0
+RW-HLTH-01108,Kigali City,Nyarugenge,District Hospital,2024-07-31,44.0,Female,Mutuelle de Santé,Child Health,Follow-up,12.0,Wednesday,6.6,37.0,No,2.0,17.0
+RW-HLTH-00531,Northern,Burera,Health Centre,2024-02-13,24.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Tuesday,4.9,16.0,No,3.0,65.0
+RW-HLTH-00929,Western,Rusizi,Health Centre,2024-03-02,,Male,None,General Outpatient,Scheduled,8.0,Saturday,17.3,61.0,No,3.0,49.0
+RW-HLTH-00183,Kigali City,Gasabo,District Hospital,2025-08-31,59.0,Male,Mutuelle de Santé,General Outpatient,Referral,7.0,Sunday,1.4,11.0,Yes,3.0,38.0
+RW-HLTH-00732,Southern,Gisagara,District Hospital,2024-05-27,35.0,Female,,Eye Clinic,Walk-in,13.0,Monday,1.6,14.0,No,1.0,73.0
+RW-HLTH-01126,Eastern,Nyagatare,Health Centre,2025-07-29,36.0,Female,Mutuelle de Santé,NCD Clinic,Scheduled,10.0,Tuesday,1.1,5.0,Yes,5.0,39.0
+RW-HLTH-00741,Northern,Gicumbi,Health Centre,2024-06-26,12.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,8.0,Wednesday,3.6,14.0,Yes,1.0,61.0
+RW-HLTH-00780,Southern,Gisagara,Health Centre,2024-07-22,64.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,9.0,Monday,6.4,26.0,No,1.0,55.0
+RW-HLTH-01039,Northern,Musanze,Health Centre,2025-08-31,26.0,Female,None,Maternal Health,Follow-up,8.0,Sunday,2.6,8.0,No,1.0,33.0
+RW-HLTH-00606,Southern,Nyanza,Health Centre,2024-01-06,32.0,Male,Mutuelle de Santé,Maternal Health,Follow-up,7.0,Saturday,6.9,24.0,No,3.0,17.0
+RW-HLTH-00320,Southern,Gisagara,Health Centre,2024-04-27,48.0,Female,RSSB,Child Health,Referral,12.0,Saturday,1.4,10.0,No,1.0,34.0
+RW-HLTH-01120,Southern,Huye,Health Centre,2024-02-04,31.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,11.0,Sunday,21.1,105.0,No,0.0,11.0
+RW-HLTH-01199,Eastern,Bugesera,District Hospital,2024-07-20,24.0,Male,RSSB,General Outpatient,Walk-in,11.0,Saturday,6.4,37.0,No,4.0,37.0
+RW-HLTH-00565,Southern,Gisagara,District Hospital,2025-08-31,23.0,Male,,NCD Clinic,Walk-in,12.0,Sunday,,11.0,Yes,2.0,49.0
+RW-HLTH-00688,Kigali City,Gasabo,Health Centre,2025-03-09,9.0,Male,,Maternal Health,Follow-up,7.0,Sunday,7.9,49.0,No,2.0,39.0
+RW-HLTH-01098,Northern,Burera,District Hospital,2024-04-15,23.0,Female,Mutuelle de Santé,General Outpatient,Referral,8.0,Monday,1.3,23.0,No,2.0,68.0
+RW-HLTH-01188,Eastern,Rwamagana,Health Centre,2024-09-20,9.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,12.0,Friday,7.7,46.0,No,8.0,3.0
+RW-HLTH-00810,Kigali City,Kicukiro,District Hospital,2025-11-15,46.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,7.0,Saturday,5.4,21.0,Yes,3.0,57.0
+RW-HLTH-00249,Eastern,Bugesera,Health Centre,2024-09-24,12.0,Male,Private,Maternal Health,Scheduled,9.0,Tuesday,11.2,42.0,No,2.0,23.0
+RW-HLTH-00977,Northern,Burera,Health Centre,2024-12-02,52.0,Female,Mutuelle de Santé,Child Health,Scheduled,10.0,Monday,,50.0,No,3.0,34.0
+RW-HLTH-00851,Northern,Gicumbi,Health Centre,2024-03-10,34.0,Female,None,NCD Clinic,Walk-in,7.0,Sunday,8.3,28.0,No,1.0,7.0
+RW-HLTH-00680,Kigali City,Kicukiro,Health Centre,2024-01-24,30.0,Male,Mutuelle de Santé,NCD Clinic,Follow-up,13.0,Wednesday,1.9,13.0,No,3.0,26.0
+RW-HLTH-00035,Northern,Musanze,Health Centre,2025-07-09,71.0,Male,Mutuelle de Santé,General Outpatient,Referral,9.0,Wednesday,12.0,41.0,Yes,2.0,31.0
+RW-HLTH-00481,Northern,Gicumbi,Health Centre,2025-01-13,28.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,9.0,Monday,1.6,23.0,No,2.0,17.0
+RW-HLTH-00348,Northern,Musanze,Health Centre,2024-04-23,26.0,Female,Mutuelle de Santé,Maternal Health,Referral,8.0,Tuesday,4.7,26.0,No,1.0,56.0
+RW-HLTH-00972,Northern,Gicumbi,Health Centre,2024-07-17,16.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,9.0,Wednesday,7.5,30.0,No,3.0,19.0
+RW-HLTH-00527,Northern,Burera,Health Centre,,30.0,Female,RSSB,General Outpatient,Follow-up,11.0,Saturday,8.6,36.0,No,4.0,19.0
+RW-HLTH-00570,Eastern,Kayonza,Health Centre,2024-02-27,20.0,Male,RSSB,Child Health,Scheduled,7.0,Tuesday,6.0,16.0,No,1.0,72.0
+RW-HLTH-00301,Western,Rubavu,Health Centre,2024-12-19,29.0,Male,None,General Outpatient,Scheduled,8.0,Thursday,8.5,36.0,No,2.0,59.0
+RW-HLTH-01001,Kigali City,Kicukiro,Health Centre,2024-12-22,40.0,Female,Private,General Outpatient,Scheduled,10.0,Sunday,0.7,5.0,No,2.0,43.0
+RW-HLTH-00426,Eastern,Bugesera,Referral Hospital,2025-02-18,6.0,Male,None,General Outpatient,Walk-in,8.0,Tuesday,4.2,23.0,No,1.0,57.0
+RW-HLTH-01195,Southern,Gisagara,Health Centre,2025-06-13,10.0,Male,Mutuelle de Santé,Child Health,Walk-in,8.0,Friday,10.6,38.0,No,1.0,24.0
+RW-HLTH-01074,Northern,Rulindo,Health Centre,2024-03-14,21.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,9.0,Thursday,4.6,33.0,No,4.0,40.0
+RW-HLTH-00036,Eastern,Rwamagana,Health Centre,2025-06-19,50.0,Male,Mutuelle de Santé,Eye Clinic,Walk-in,8.0,Thursday,7.2,27.0,No,3.0,37.0
+RW-HLTH-00073,Eastern,Kayonza,Health Centre,2024-06-05,35.0,Female,Mutuelle de Santé,NCD Clinic,Scheduled,12.0,Wednesday,7.8,37.0,Yes,4.0,46.0
+RW-HLTH-00110,Northern,Musanze,Health Centre,2024-06-21,44.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,10.0,Friday,8.8,38.0,No,2.0,36.0
+RW-HLTH-00563,Kigali City,Kicukiro,Health Centre,2024-03-28,25.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Thursday,13.3,41.0,No,1.0,40.0
+RW-HLTH-01065,Kigali City,Kicukiro,Health Centre,2024-06-06,40.0,Female,Mutuelle de Santé,Child Health,Walk-in,12.0,Thursday,6.7,30.0,Yes,4.0,3.0
+RW-HLTH-00083,Southern,Huye,District Hospital,2024-05-21,17.0,Female,RSSB,Maternal Health,Referral,10.0,Tuesday,3.2,22.0,No,6.0,62.0
+RW-HLTH-00245,Southern,Ruhango,District Hospital,2025-09-21,80.0,Male,Mutuelle de Santé,Emergency,Walk-in,8.0,Sunday,3.8,7.0,No,0.0,74.0
+RW-HLTH-00581,Western,Rusizi,District Hospital,2024-07-21,47.0,Male,Mutuelle de Santé,Child Health,Scheduled,9.0,Sunday,2.2,14.0,Yes,3.0,44.0
+RW-HLTH-00408,Eastern,Nyagatare,Health Centre,2024-11-04,29.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,13.0,Monday,15.1,48.0,Yes,1.0,37.0
+RW-HLTH-00512,Northern,Gicumbi,Health Centre,2024-05-10,0.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,14.0,Friday,7.8,33.0,No,0.0,20.0
+RW-HLTH-00005,Western,Karongi,Health Centre,2025-01-12,42.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,11.0,Sunday,19.1,110.0,No,3.0,33.0
+RW-HLTH-00683,Southern,Nyanza,Referral Hospital,2025-03-31,20.0,Female,Mutuelle de Santé,Maternal Health,Follow-up,7.0,Monday,2.4,13.0,No,4.0,63.0
+RW-HLTH-00436,Southern,Muhanga,Health Centre,2024-07-21,33.0,Male,RSSB,NCD Clinic,Walk-in,8.0,Sunday,8.7,21.0,No,2.0,30.0
+RW-HLTH-01079,Southern,Ruhango,District Hospital,2025-10-15,73.0,Male,Mutuelle de Santé,Maternal Health,Follow-up,12.0,Wednesday,3.8,9.0,No,4.0,30.0
+RW-HLTH-00924,Northern,Gicumbi,Health Centre,2024-07-02,52.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,9.0,Tuesday,4.4,23.0,No,1.0,25.0
+RW-HLTH-00825,Western,Ngororero,Health Centre,2024-11-16,45.0,Male,Mutuelle de Santé,Eye Clinic,Walk-in,9.0,Saturday,1.6,15.0,No,1.0,3.0
+RW-HLTH-00798,Western,Karongi,Health Centre,2025-12-20,46.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,11.0,Saturday,6.4,27.0,No,1.0,20.0
+RW-HLTH-00004,Northern,Burera,Health Centre,2024-12-14,47.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,12.0,Saturday,2.3,11.0,No,2.0,19.0
+RW-HLTH-00617,Northern,Burera,District Hospital,2025-06-18,39.0,Male,Mutuelle de Santé,Emergency,Referral,9.0,Wednesday,2.4,13.0,No,4.0,57.0
+RW-HLTH-00664,Western,Nyabihu,Health Centre,2024-10-01,36.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,13.0,Tuesday,0.5,5.0,Yes,2.0,50.0
+RW-HLTH-00391,Kigali City,Nyarugenge,Health Centre,2024-10-03,35.0,Female,RSSB,Eye Clinic,Scheduled,14.0,Thursday,3.4,12.0,No,1.0,25.0
+RW-HLTH-00726,Northern,Gicumbi,Health Centre,2024-07-04,22.0,Female,Mutuelle de Santé,Dental,Walk-in,9.0,Thursday,7.8,40.0,No,2.0,42.0
+RW-HLTH-00746,Western,Karongi,Health Centre,2024-12-04,0.0,Female,Mutuelle de Santé,General Outpatient,Referral,12.0,Wednesday,,5.0,No,2.0,13.0
+RW-HLTH-01025,Southern,Muhanga,Health Centre,,22.0,Male,Private,General Outpatient,Walk-in,9.0,Saturday,13.4,58.0,No,5.0,13.0
+RW-HLTH-00618,Western,Rusizi,District Hospital,2025-06-18,31.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,7.0,Wednesday,,29.0,No,2.0,91.0
+RW-HLTH-00213,Southern,Huye,Health Centre,2025-03-25,38.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,7.0,Tuesday,8.1,48.0,Yes,2.0,26.0
+RW-HLTH-00900,Western,Rusizi,Health Centre,2025-10-20,31.0,Male,None,NCD Clinic,Walk-in,7.0,Monday,10.0,30.0,No,7.0,20.0
+RW-HLTH-00295,Northern,Rulindo,Health Centre,2024-02-11,54.0,Female,None,General Outpatient,Scheduled,11.0,Sunday,2.6,5.0,No,1.0,40.0
+RW-HLTH-01119,Western,Nyabihu,Health Centre,2025-01-06,53.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,7.0,Monday,3.7,11.0,No,1.0,35.0
+RW-HLTH-00749,Southern,Muhanga,District Hospital,2024-12-23,45.0,Male,Private,NCD Clinic,Scheduled,9.0,Monday,4.8,29.0,No,0.0,63.0
+RW-HLTH-01156,Eastern,Bugesera,District Hospital,2025-03-09,19.0,Male,Mutuelle de Santé,Emergency,Scheduled,10.0,Sunday,5.3,23.0,No,2.0,15.0
+RW-HLTH-00117,Northern,Musanze,Health Centre,2025-09-29,42.0,Male,Private,NCD Clinic,Scheduled,9.0,Monday,3.9,9.0,No,4.0,35.0
+RW-HLTH-00310,Kigali City,Nyarugenge,District Hospital,2024-03-26,65.0,Male,None,General Outpatient,Scheduled,10.0,Tuesday,6.1,28.0,No,1.0,56.0
+RW-HLTH-00742,Southern,Huye,District Hospital,2024-02-08,37.0,Female,RSSB,NCD Clinic,Follow-up,7.0,Thursday,7.9,35.0,No,1.0,75.0
+RW-HLTH-00902,Western,Nyabihu,Health Centre,2024-07-18,25.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,12.0,Thursday,8.9,,No,1.0,22.0
+RW-HLTH-00276,Southern,Nyanza,Health Centre,2025-12-28,79.0,Female,RSSB,Maternal Health,Scheduled,11.0,Sunday,7.2,31.0,No,2.0,6.0
+RW-HLTH-00607,Eastern,Bugesera,Health Centre,2024-10-08,23.0,Male,RSSB,General Outpatient,Walk-in,12.0,Tuesday,13.4,55.0,No,1.0,36.0
+RW-HLTH-00891,Northern,Rulindo,District Hospital,2025-11-07,,Male,Mutuelle de Santé,Maternal Health,Walk-in,8.0,Friday,2.5,29.0,No,1.0,58.0
+RW-HLTH-00375,Eastern,Rwamagana,Health Centre,2025-12-09,48.0,Female,None,General Outpatient,Walk-in,9.0,Tuesday,5.4,36.0,No,0.0,63.0
+RW-HLTH-00368,Northern,Musanze,Health Centre,2025-01-03,50.0,Male,None,Maternal Health,Walk-in,8.0,Friday,4.4,32.0,No,2.0,3.0
+RW-HLTH-00108,Northern,Gicumbi,Health Centre,2025-01-25,16.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Saturday,7.2,29.0,No,3.0,43.0
+RW-HLTH-00878,Southern,Nyanza,Health Centre,2024-09-10,15.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Tuesday,1.9,11.0,No,3.0,58.0
+RW-HLTH-00313,Kigali City,Kicukiro,Health Centre,2025-09-17,22.0,Male,RSSB,Eye Clinic,Follow-up,12.0,Wednesday,2.9,17.0,No,3.0,37.0
+RW-HLTH-00640,Northern,Burera,District Hospital,2024-12-16,33.0,Male,RSSB,General Outpatient,Follow-up,12.0,Monday,15.8,83.0,No,4.0,75.0
+RW-HLTH-00380,Kigali City,Gasabo,Health Centre,2024-11-02,48.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,7.0,Saturday,4.4,20.0,No,3.0,57.0
+RW-HLTH-00040,Western,Nyabihu,District Hospital,2024-09-28,56.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,8.0,Saturday,6.9,31.0,No,3.0,59.0
+RW-HLTH-00812,Western,Nyabihu,Health Centre,2025-09-20,53.0,Female,RSSB,General Outpatient,Referral,13.0,Saturday,,22.0,No,1.0,13.0
+RW-HLTH-00006,Eastern,Rwamagana,Health Centre,2025-05-17,36.0,Male,None,General Outpatient,Walk-in,12.0,Saturday,3.1,6.0,No,3.0,12.0
+RW-HLTH-00064,Kigali City,Nyarugenge,Health Centre,2025-06-18,18.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Wednesday,10.0,47.0,No,1.0,53.0
+RW-HLTH-00998,Kigali City,Nyarugenge,Health Centre,2025-02-15,0.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,9.0,Saturday,14.1,43.0,No,3.0,29.0
+RW-HLTH-00903,Northern,Gicumbi,Health Centre,2024-03-05,60.0,Female,Mutuelle de Santé,Emergency,Scheduled,7.0,Tuesday,2.1,13.0,No,1.0,64.0
+RW-HLTH-01105,Eastern,Gatsibo,Health Centre,2025-04-03,45.0,Female,Private,Emergency,Scheduled,8.0,Thursday,4.8,41.0,No,3.0,41.0
+RW-HLTH-00962,Western,Rubavu,Health Centre,2024-06-28,11.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,10.0,Friday,3.2,16.0,No,,12.0
+RW-HLTH-00679,Northern,Gicumbi,Health Centre,2024-06-06,44.0,Male,,Emergency,Walk-in,8.0,Thursday,,39.0,No,8.0,18.0
+RW-HLTH-00427,Kigali City,Kicukiro,Health Centre,2024-03-18,30.0,Female,Private,,Scheduled,9.0,Monday,5.4,35.0,No,6.0,52.0
+RW-HLTH-00285,Northern,Gicumbi,Health Centre,2024-09-03,52.0,Male,Mutuelle de Santé,Child Health,Follow-up,8.0,Tuesday,2.6,13.0,Yes,3.0,37.0
+RW-HLTH-01054,Southern,Huye,District Hospital,2024-04-21,14.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,12.0,Sunday,4.5,22.0,No,0.0,54.0
+RW-HLTH-00612,Kigali City,Kicukiro,District Hospital,2024-02-23,0.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,9.0,Friday,8.4,27.0,Yes,5.0,26.0
+RW-HLTH-00586,Northern,Gicumbi,Health Centre,2025-11-25,27.0,Male,Mutuelle de Santé,Child Health,Scheduled,11.0,Tuesday,3.0,14.0,Yes,,21.0
+RW-HLTH-01171,Eastern,Nyagatare,District Hospital,2025-05-31,39.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Saturday,3.7,20.0,No,0.0,17.0
+RW-HLTH-00341,Kigali City,Gasabo,District Hospital,2024-04-26,14.0,Male,Mutuelle de Santé,Maternal Health,Follow-up,9.0,Friday,10.4,53.0,No,3.0,80.0
+RW-HLTH-00816,Kigali City,Gasabo,District Hospital,2025-09-09,0.0,Female,,Emergency,Walk-in,7.0,Tuesday,9.0,45.0,No,2.0,60.0
+RW-HLTH-00941,Southern,Huye,Health Centre,2024-09-26,40.0,Female,Mutuelle de Santé,Child Health,Scheduled,10.0,Thursday,12.8,60.0,Yes,4.0,17.0
+RW-HLTH-00794,Eastern,Gatsibo,District Hospital,2025-09-05,35.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,9.0,Friday,7.6,45.0,No,1.0,58.0
+RW-HLTH-00260,Eastern,Bugesera,District Hospital,2025-10-14,32.0,Male,Mutuelle de Santé,Eye Clinic,Follow-up,11.0,Tuesday,1.5,9.0,No,2.0,26.0
+RW-HLTH-00045,Southern,Huye,Health Centre,2024-04-13,22.0,Female,Mutuelle de Santé,Emergency,Scheduled,7.0,Saturday,2.0,14.0,No,6.0,22.0
+RW-HLTH-00229,Kigali City,Kicukiro,District Hospital,2024-06-17,10.0,Female,Mutuelle de Santé,Maternal Health,Follow-up,7.0,Monday,6.5,39.0,No,2.0,50.0
+RW-HLTH-00126,Western,Rusizi,Health Centre,2024-09-21,31.0,Male,RSSB,Child Health,Walk-in,11.0,Saturday,2.4,22.0,No,3.0,56.0
+RW-HLTH-00517,Northern,Rulindo,Health Centre,2025-08-24,55.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,9.0,Sunday,6.7,26.0,No,1.0,79.0
+RW-HLTH-00666,Western,Nyabihu,Health Centre,2025-11-29,4.0,Male,Mutuelle de Santé,Child Health,Follow-up,14.0,Saturday,11.5,40.0,No,4.0,22.0
+RW-HLTH-00541,Eastern,Rwamagana,Health Centre,2025-10-28,29.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,8.0,Tuesday,5.6,30.0,No,1.0,21.0
+RW-HLTH-00199,Eastern,Nyagatare,Health Centre,2025-06-16,29.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,13.0,Monday,5.8,12.0,No,2.0,21.0
+RW-HLTH-00333,Western,Rusizi,Health Centre,2025-06-17,13.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,7.0,Tuesday,2.7,18.0,No,1.0,38.0
+RW-HLTH-00459,Southern,Huye,Health Centre,2024-03-27,0.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,13.0,Wednesday,5.6,23.0,No,3.0,31.0
+RW-HLTH-00113,Northern,Gicumbi,Health Centre,2024-11-05,28.0,Female,,Emergency,Walk-in,7.0,Tuesday,21.4,107.0,No,0.0,25.0
+RW-HLTH-00866,Southern,Muhanga,District Hospital,2025-07-05,0.0,Male,RSSB,Eye Clinic,Walk-in,10.0,Saturday,5.6,10.0,No,2.0,39.0
+RW-HLTH-01077,Kigali City,Gasabo,Health Centre,2024-06-09,35.0,Male,RSSB,General Outpatient,Walk-in,9.0,Sunday,6.9,47.0,No,0.0,72.0
+RW-HLTH-00696,Eastern,Nyagatare,Health Centre,2025-01-13,8.0,Male,,General Outpatient,Follow-up,9.0,Monday,4.1,8.0,No,1.0,29.0
+RW-HLTH-00759,Eastern,Kayonza,Health Centre,2025-11-06,10.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,9.0,Thursday,,24.0,No,4.0,14.0
+RW-HLTH-00615,Kigali City,Kicukiro,Health Centre,2024-08-21,39.0,Female,Mutuelle de Santé,Maternal Health,Walk-in,9.0,Wednesday,2.6,26.0,No,2.0,60.0
+RW-HLTH-00931,Southern,Huye,Health Centre,2024-04-25,16.0,Female,Mutuelle de Santé,NCD Clinic,Walk-in,9.0,Thursday,1.5,16.0,No,4.0,50.0
+RW-HLTH-00383,Southern,Nyanza,Health Centre,2025-09-28,31.0,Male,Mutuelle de Santé,Emergency,Scheduled,10.0,Sunday,3.1,11.0,No,3.0,10.0
+RW-HLTH-00127,Northern,Musanze,District Hospital,2025-08-14,14.0,Male,Mutuelle de Santé,Emergency,Follow-up,12.0,Thursday,3.5,28.0,No,2.0,48.0
+RW-HLTH-00873,Kigali City,Gasabo,Health Centre,2025-03-31,56.0,Male,Mutuelle de Santé,Emergency,Walk-in,7.0,Monday,3.1,16.0,No,0.0,54.0
+RW-HLTH-00450,Western,Nyabihu,Health Centre,2024-09-30,54.0,Male,Mutuelle de Santé,Dental,Follow-up,9.0,Monday,,8.0,No,3.0,3.0
+RW-HLTH-01006,Southern,Huye,District Hospital,2024-05-30,29.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Thursday,4.2,,No,2.0,45.0
+RW-HLTH-00635,Western,Karongi,District Hospital,2025-12-08,20.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,11.0,Monday,9.4,36.0,No,1.0,80.0
+RW-HLTH-00089,Northern,Rulindo,Health Centre,2025-04-24,38.0,Female,Mutuelle de Santé,Maternal Health,Follow-up,7.0,Thursday,7.1,29.0,No,1.0,51.0
+RW-HLTH-00908,Northern,Burera,Referral Hospital,2025-06-15,1.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,9.0,Sunday,0.6,10.0,No,0.0,79.0
+RW-HLTH-00708,Southern,Gisagara,Health Centre,2024-04-26,3.0,Female,RSSB,Child Health,Walk-in,11.0,Friday,2.3,11.0,Yes,3.0,32.0
+RW-HLTH-00728,Eastern,Rwamagana,Health Centre,2025-12-14,69.0,Female,None,NCD Clinic,Walk-in,12.0,Sunday,1.2,11.0,No,0.0,25.0
+RW-HLTH-00779,Eastern,Nyagatare,District Hospital,2025-01-13,0.0,Female,Mutuelle de Santé,General Outpatient,Follow-up,10.0,Monday,2.6,5.0,Yes,1.0,51.0
+RW-HLTH-01057,Western,Rubavu,District Hospital,2024-02-11,47.0,Male,Mutuelle de Santé,Dental,Walk-in,11.0,Sunday,0.9,8.0,No,2.0,65.0
+RW-HLTH-01139,Kigali City,Kicukiro,Health Centre,2025-06-06,22.0,Female,Mutuelle de Santé,NCD Clinic,Follow-up,11.0,Friday,3.7,19.0,No,3.0,29.0
+RW-HLTH-00234,Eastern,Kayonza,District Hospital,2025-06-30,26.0,Male,Mutuelle de Santé,NCD Clinic,Walk-in,9.0,Monday,10.7,47.0,No,2.0,43.0
+RW-HLTH-00613,Eastern,Gatsibo,District Hospital,2025-06-26,36.0,Female,Mutuelle de Santé,Child Health,Walk-in,12.0,Thursday,10.6,61.0,No,3.0,60.0
+RW-HLTH-00906,Western,Rubavu,District Hospital,2025-08-04,76.0,Male,Mutuelle de Santé,NCD Clinic,,11.0,Monday,3.6,31.0,No,2.0,34.0
+RW-HLTH-00184,Northern,Burera,Health Centre,2025-04-05,40.0,Female,Mutuelle de Santé,General Outpatient,Walk-in,9.0,Saturday,6.4,41.0,No,3.0,33.0
+RW-HLTH-00838,Western,Nyabihu,Health Centre,2024-08-31,,Female,RSSB,General Outpatient,Scheduled,13.0,Saturday,1.6,21.0,Yes,3.0,31.0
+RW-HLTH-00274,Western,Nyabihu,Health Centre,2024-05-26,30.0,Male,Mutuelle de Santé,General Outpatient,Scheduled,7.0,Sunday,8.8,31.0,No,0.0,47.0
+RW-HLTH-00942,Kigali City,Gasabo,Health Centre,2024-07-02,45.0,Male,Mutuelle de Santé,Maternal Health,Follow-up,7.0,Tuesday,18.9,76.0,No,4.0,29.0
+RW-HLTH-00434,Northern,Rulindo,Health Centre,2025-10-29,52.0,Female,Mutuelle de Santé,,Scheduled,9.0,Wednesday,14.4,,No,1.0,47.0
+RW-HLTH-00781,Southern,Muhanga,District Hospital,2025-06-12,25.0,Male,,Emergency,Scheduled,9.0,Thursday,1.7,5.0,No,4.0,26.0
+RW-HLTH-00511,Eastern,Gatsibo,Health Centre,2025-05-14,53.0,Male,Mutuelle de Santé,,Walk-in,9.0,Wednesday,9.5,41.0,No,2.0,38.0
+RW-HLTH-00221,Northern,Musanze,District Hospital,2025-12-25,37.0,Male,None,General Outpatient,Walk-in,8.0,Thursday,,7.0,No,0.0,65.0
+RW-HLTH-00818,Kigali City,Nyarugenge,Health Centre,2024-10-15,25.0,Male,RSSB,NCD Clinic,Walk-in,7.0,Tuesday,2.5,5.0,Yes,2.0,56.0
+RW-HLTH-00326,Western,Rusizi,Health Centre,2024-11-04,35.0,Female,None,Emergency,Walk-in,7.0,Monday,2.6,16.0,No,1.0,14.0
+RW-HLTH-01080,Kigali City,Nyarugenge,District Hospital,2024-12-01,46.0,Male,None,Eye Clinic,Walk-in,7.0,Sunday,,62.0,No,1.0,45.0
+RW-HLTH-00314,Southern,Ruhango,Health Centre,2025-06-29,9.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Sunday,10.5,53.0,No,5.0,68.0
+RW-HLTH-00054,Northern,Musanze,Health Centre,2024-11-26,0.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,10.0,Tuesday,6.1,21.0,No,3.0,38.0
+RW-HLTH-00195,Eastern,Rwamagana,Health Centre,2024-05-20,36.0,Male,RSSB,NCD Clinic,Referral,7.0,Monday,4.4,20.0,No,2.0,22.0
+RW-HLTH-00850,Western,Karongi,Health Centre,2024-04-20,6.0,Female,RSSB,General Outpatient,Referral,7.0,Saturday,7.9,30.0,Yes,1.0,48.0
+RW-HLTH-00989,Kigali City,Gasabo,Health Centre,2025-11-20,23.0,Male,Mutuelle de Santé,Emergency,Follow-up,11.0,Thursday,3.3,17.0,No,0.0,23.0
+RW-HLTH-00870,Northern,Musanze,Health Centre,2024-09-27,2.0,Male,Private,General Outpatient,Walk-in,10.0,Friday,6.4,34.0,Yes,1.0,9.0
+RW-HLTH-00854,Northern,Rulindo,Health Centre,2025-05-08,44.0,Male,Mutuelle de Santé,Emergency,Walk-in,7.0,Thursday,1.1,19.0,No,4.0,35.0
+RW-HLTH-00773,Northern,Gicumbi,Health Centre,2025-12-28,39.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,8.0,Sunday,4.5,23.0,No,4.0,75.0
+RW-HLTH-00202,Eastern,Gatsibo,Health Centre,2024-02-22,50.0,Male,Mutuelle de Santé,General Outpatient,Walk-in,14.0,Thursday,5.0,18.0,No,3.0,49.0
+RW-HLTH-00328,Southern,Nyanza,Health Centre,2025-08-12,49.0,Male,Mutuelle de Santé,Child Health,Scheduled,8.0,Tuesday,3.8,8.0,No,3.0,3.0
+RW-HLTH-00232,Southern,Muhanga,Health Centre,2024-11-06,12.0,Male,None,Maternal Health,Walk-in,11.0,Wednesday,9.1,55.0,No,1.0,44.0
+RW-HLTH-01192,Western,Rusizi,District Hospital,2025-10-04,31.0,Female,RSSB,General Outpatient,Walk-in,12.0,Saturday,9.0,45.0,No,0.0,33.0
+RW-HLTH-00365,Western,Karongi,Referral Hospital,2024-05-22,25.0,Male,Mutuelle de Santé,General Outpatient,Follow-up,9.0,Wednesday,1.0,5.0,Yes,0.0,66.0
+RW-HLTH-00307,Northern,Rulindo,Health Centre,2024-09-26,42.0,Female,Mutuelle de Santé,NCD Clinic,Follow-up,7.0,Thursday,8.6,35.0,No,2.0,15.0
+RW-HLTH-00343,Western,Karongi,District Hospital,2025-07-31,58.0,Female,Mutuelle de Santé,,Scheduled,7.0,Thursday,7.0,55.0,,2.0,40.0
+RW-HLTH-00267,Southern,Nyanza,Health Centre,2025-12-19,32.0,Female,Mutuelle de Santé,General Outpatient,Scheduled,12.0,Friday,6.4,18.0,No,0.0,4.0
+RW-HLTH-00163,Eastern,Kayonza,Health Centre,2025-08-13,7.0,Male,None,General Outpatient,Scheduled,11.0,Wednesday,9.9,,Yes,0.0,52.0
+RW-HLTH-00835,Southern,Huye,Referral Hospital,2024-01-20,24.0,Male,Mutuelle de Santé,Maternal Health,Walk-in,8.0,Saturday,2.6,18.0,No,2.0,71.0

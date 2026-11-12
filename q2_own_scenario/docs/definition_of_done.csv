@@ -1,0 +1,13 @@
+Check,How it is measured,Result
+No duplicates,visit_id unique in the clean data; no record in two sets,PASS
+Correct types,every column of the final files is numerical,PASS
+Consistent labels,no label differs only by spaces or upper/lower case in the clean data,PASS
+Realistic values,all values inside the allowed ranges; target above 0,PASS
+No missing values,0 empty cells in the final files,PASS
+No leakage,"no leakage, identifier or raw target column among the features",PASS
+Split 70/15/15,"shares [69.9, 15.0, 15.1]; no record in two sets",PASS
+Same columns in all sets,23 columns in the same order,PASS
+Five or more engineered features,11 created; 7 in the final files (6 passed the statistical rule),PASS
+Scaler fitted on training only,scaled training columns have mean 0,PASS
+Target not scaled and clearly named,target_waiting_time_min,PASS
+Raw file MD5 unchanged,fe54529b0294f43151a9f5b8815d01a7,PASS

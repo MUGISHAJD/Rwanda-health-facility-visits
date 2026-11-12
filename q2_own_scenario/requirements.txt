@@ -1,0 +1,8 @@
+# Python 3.13 - versions used when the notebook was test-run
+pandas==2.2.3
+numpy==2.2.5
+matplotlib==3.10.1
+seaborn==0.13.2
+scikit-learn==1.7.0
+joblib==1.5.1
+ipykernel==6.29.5

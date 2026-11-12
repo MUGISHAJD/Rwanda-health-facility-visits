@@ -1,0 +1,21 @@
+Column,Meaning,Type in raw file,Data type,Unit,Allowed values / notes,Basis of meaning
+visit_id,Code of the visit record (not a person),object,text,-,Format RW-HLTH-00001. Should be unique.,Assumed
+province,Province of the facility,object,text,-,"Eastern, Kigali City, Northern, Southern, Western",Assumed
+district,District of the facility,object,text,-,22 districts,Assumed
+facility_code,Code of the health facility,object,text,-,"Prefix HC, DH or RH + district letters + number. The same code can appear in different districts.",Assumed
+facility_type,Level of the facility,object,text (ordered),-,Health Centre < District Hospital < Referral Hospital,Assumed
+visit_date,Date of the visit,object,date,YYYY-MM-DD,2024-01-02 to 2025-12-30,Assumed
+patient_age_years,Age of the patient,float64,number,years,0 to 110 accepted (0 = infant under one year),Assumed
+sex,Sex of the patient,object,text,-,"Female, Male",Assumed
+insurance_type,Health insurance of the patient,object,text,-,"Mutuelle de Sante, RSSB, Private, None. We read 'None' as 'no insurance'.",Assumed
+service_department,Department that received the patient,object,text,-,7 departments,Assumed
+appointment_type,How the visit was arranged,object,text,-,"Walk-in, Scheduled, Follow-up, Referral",Assumed
+arrival_hour,Hour of the day the patient arrived,int64,whole number,hour (24h clock),0 to 23 accepted; observed 7 to 16,Assumed
+day_of_week,Day of the week of the visit,object,text,-,Monday to Sunday,Assumed
+distance_to_facility_km,Distance from the patient's home to the facility,float64,number,km,Above 0 and up to 150 accepted,Assumed
+estimated_travel_time_min,Estimated time to travel to the facility,float64,number,minutes,Above 0 and up to 480 accepted,Assumed
+referral,Whether the patient was referred from another facility,object,text,-,"Yes, No",Assumed
+previous_visits_12m,Number of visits by the patient in the previous 12 months,float64,whole number,visits,0 to 100 accepted,Assumed
+waiting_time_min,TARGET. Minutes waited between arrival and consultation,float64,number,minutes,Above 0 and up to 720 accepted. Empty when the patient did not attend.,Assumed
+consultation_duration_min,Length of the consultation,float64,number,minutes,"Known only after the wait ends (leakage, see 3.7)",Assumed
+attended,Whether the patient attended the visit,object,text,-,"Yes, No",Assumed
